@@ -1,0 +1,737 @@
+Age,Hours per day,While working,Fav genre,BPM,Frequency [Classical],Frequency [Country],Frequency [EDM],Frequency [Folk],Frequency [Gospel],Frequency [Hip hop],Frequency [Jazz],Frequency [K pop],Frequency [Latin],Frequency [Lofi],Frequency [Metal],Frequency [Pop],Frequency [R&B],Frequency [Rap],Frequency [Rock],Frequency [Video game music],Anxiety,Depression,Insomnia,OCD,Music effects
+18.0,3.0,Yes,Latin,156.0,Rarely,Never,Rarely,Never,Never,Sometimes,Never,Very frequently,Very frequently,Rarely,Never,Very frequently,Sometimes,Very frequently,Never,Sometimes,3.0,0.0,1.0,0.0,
+63.0,1.5,Yes,Rock,119.0,Sometimes,Never,Never,Rarely,Sometimes,Rarely,Very frequently,Rarely,Sometimes,Rarely,Never,Sometimes,Sometimes,Rarely,Very frequently,Rarely,7.0,2.0,2.0,1.0,
+18.0,4.0,No,Video game music,132.0,Never,Never,Very frequently,Never,Never,Rarely,Rarely,Very frequently,Never,Sometimes,Sometimes,Rarely,Never,Rarely,Rarely,Very frequently,7.0,7.0,10.0,2.0,No effect
+61.0,2.5,Yes,Jazz,84.0,Sometimes,Never,Never,Rarely,Sometimes,Never,Very frequently,Sometimes,Very frequently,Sometimes,Never,Sometimes,Sometimes,Never,Never,Never,9.0,7.0,3.0,3.0,Improve
+18.0,4.0,Yes,R&B,107.0,Never,Never,Rarely,Never,Rarely,Very frequently,Never,Very frequently,Sometimes,Sometimes,Never,Sometimes,Very frequently,Very frequently,Never,Rarely,7.0,2.0,5.0,9.0,Improve
+18.0,5.0,Yes,Jazz,86.0,Rarely,Sometimes,Never,Never,Never,Sometimes,Very frequently,Very frequently,Rarely,Very frequently,Rarely,Very frequently,Very frequently,Very frequently,Very frequently,Never,8.0,8.0,7.0,7.0,Improve
+18.0,3.0,Yes,Video game music,66.0,Sometimes,Never,Rarely,Sometimes,Rarely,Rarely,Sometimes,Never,Rarely,Rarely,Rarely,Rarely,Rarely,Never,Never,Sometimes,4.0,8.0,6.0,0.0,Improve
+21.0,1.0,Yes,K pop,95.0,Never,Never,Rarely,Never,Never,Very frequently,Rarely,Very frequently,Never,Sometimes,Never,Sometimes,Sometimes,Rarely,Never,Rarely,5.0,3.0,5.0,3.0,Improve
+19.0,6.0,Yes,Rock,94.0,Never,Very frequently,Never,Sometimes,Never,Never,Never,Never,Never,Never,Very frequently,Never,Never,Never,Very frequently,Never,2.0,0.0,0.0,0.0,Improve
+18.0,1.0,Yes,R&B,155.0,Rarely,Rarely,Rarely,Rarely,Sometimes,Rarely,Rarely,Never,Rarely,Rarely,Never,Sometimes,Sometimes,Rarely,Sometimes,Sometimes,2.0,2.0,5.0,1.0,Improve
+18.0,3.0,Yes,Country,,Never,Very frequently,Never,Never,Never,Never,Never,Never,Never,Never,Never,Rarely,Rarely,Never,Rarely,Never,7.0,7.0,4.0,7.0,No effect
+19.0,8.0,Yes,EDM,125.0,Rarely,Never,Very frequently,Never,Never,Sometimes,Rarely,Rarely,Rarely,Rarely,Never,Rarely,Rarely,Sometimes,Rarely,Rarely,1.0,0.0,0.0,1.0,Improve
+,3.0,Yes,Hip hop,,Rarely,Never,Rarely,Never,Never,Very frequently,Never,Sometimes,Never,Very frequently,Never,Sometimes,Sometimes,Rarely,Rarely,Never,9.0,3.0,2.0,7.0,Improve
+19.0,2.0,Yes,Country,88.0,Never,Very frequently,Rarely,Sometimes,Never,Sometimes,Never,Never,Never,Rarely,Never,Rarely,Never,Very frequently,Never,Never,2.0,1.0,2.0,0.0,Improve
+18.0,4.0,Yes,Jazz,148.0,Very frequently,Rarely,Never,Never,Never,Never,Very frequently,Never,Sometimes,Rarely,Sometimes,Sometimes,Never,Never,Sometimes,Rarely,6.0,4.0,7.0,0.0,Improve
+17.0,2.0,No,Pop,,Rarely,Rarely,Never,Never,Never,Sometimes,Rarely,Rarely,Rarely,Rarely,Rarely,Very frequently,Rarely,Sometimes,Sometimes,Rarely,7.0,5.0,4.0,1.0,Worsen
+16.0,8.0,Yes,Hip hop,103.0,Never,Never,Never,Never,Never,Very frequently,Never,Never,Never,Never,Never,Never,Sometimes,Very frequently,Never,Rarely,8.0,8.0,4.0,3.0,Improve
+16.0,12.0,Yes,Hip hop,120.0,Rarely,Never,Sometimes,Rarely,Never,Very frequently,Rarely,Never,Never,Never,Sometimes,Sometimes,Rarely,Sometimes,Very frequently,Never,5.0,7.0,10.0,0.0,Improve
+17.0,24.0,Yes,Rap,99.0,Rarely,Never,Never,Never,Never,Sometimes,Sometimes,Sometimes,Rarely,Never,Sometimes,Rarely,Sometimes,Very frequently,Very frequently,Never,7.0,5.0,0.0,3.0,Improve
+15.0,3.0,No,Hip hop,120.0,Never,Never,Never,Never,Never,Very frequently,Rarely,Never,Never,Never,Rarely,Rarely,Sometimes,Very frequently,Rarely,Never,7.0,3.0,0.0,2.0,Improve
+15.0,8.0,Yes,Hip hop,120.0,Rarely,Never,Sometimes,Rarely,Never,Very frequently,Sometimes,Very frequently,Sometimes,Rarely,Rarely,Very frequently,Rarely,Very frequently,Sometimes,Sometimes,6.0,9.0,3.0,0.0,Improve
+17.0,4.0,Yes,Rap,125.0,Never,Rarely,Rarely,Never,Never,Sometimes,Never,Never,Never,Rarely,Rarely,Sometimes,Never,Very frequently,Sometimes,Never,10.0,10.0,2.0,4.0,Improve
+19.0,5.0,Yes,R&B,118.0,Rarely,Rarely,Sometimes,Very frequently,Rarely,Very frequently,Sometimes,Never,Never,Rarely,Rarely,Rarely,Very frequently,Very frequently,Sometimes,Rarely,6.0,7.0,5.0,4.0,Improve
+18.0,2.0,Yes,Pop,79.0,Rarely,Rarely,Sometimes,Never,Never,Rarely,Never,Rarely,Sometimes,Never,Never,Very frequently,Never,Never,Never,Rarely,3.0,3.0,8.0,6.0,No effect
+16.0,3.0,Yes,Rock,84.0,Rarely,Rarely,Never,Rarely,Sometimes,Sometimes,Sometimes,Never,Rarely,Never,Sometimes,Never,Sometimes,Rarely,Very frequently,Sometimes,10.0,6.0,8.0,10.0,Improve
+18.0,2.0,No,Pop,169.0,Sometimes,Rarely,Rarely,Very frequently,Rarely,Rarely,Rarely,Very frequently,Never,Sometimes,Never,Very frequently,Sometimes,Sometimes,Sometimes,Never,7.0,4.0,2.0,5.0,Improve
+14.0,12.0,Yes,Rock,136.0,Sometimes,Sometimes,Rarely,Rarely,Rarely,Very frequently,Sometimes,Never,Never,Very frequently,Never,Very frequently,Very frequently,Very frequently,Very frequently,Sometimes,8.0,6.0,10.0,5.0,Improve
+18.0,6.0,Yes,Pop,101.0,Sometimes,Rarely,Rarely,Rarely,Rarely,Sometimes,Sometimes,Never,Never,Never,Never,Very frequently,Sometimes,Sometimes,Never,Never,3.0,2.0,1.0,2.0,Improve
+17.0,2.0,Yes,Pop,126.0,Never,Very frequently,Rarely,Rarely,Never,Never,Rarely,Sometimes,Very frequently,Rarely,Rarely,Very frequently,Rarely,Never,Sometimes,Sometimes,6.0,6.0,4.0,5.0,Improve
+17.0,1.0,Yes,Pop,183.0,Rarely,Never,Never,Rarely,Never,Never,Sometimes,Never,Never,Never,Sometimes,Sometimes,Never,Never,Sometimes,Never,8.0,2.0,1.0,5.0,Improve
+20.0,5.0,Yes,Rock,,Never,Rarely,Rarely,Very frequently,Never,Very frequently,Sometimes,Never,Sometimes,Sometimes,Very frequently,Sometimes,Sometimes,Sometimes,Very frequently,Rarely,7.0,7.0,2.0,0.0,Improve
+19.0,2.0,Yes,Classical,120.0,Very frequently,Never,Never,Never,Never,Rarely,Rarely,Never,Never,Sometimes,Never,Very frequently,Never,Never,Never,Very frequently,4.0,4.0,4.0,3.0,No effect
+19.0,6.0,Yes,Metal,,Never,Never,Never,Rarely,Never,Rarely,Sometimes,Rarely,Never,Sometimes,Very frequently,Sometimes,Never,Never,Sometimes,Sometimes,9.0,8.0,2.0,3.0,Improve
+17.0,4.0,No,Rock,142.0,Rarely,Rarely,Rarely,Very frequently,Never,Sometimes,Rarely,Rarely,Never,Rarely,Rarely,Very frequently,Rarely,Sometimes,Very frequently,Rarely,5.0,6.0,6.0,1.0,Improve
+16.0,1.0,Yes,Classical,75.0,Very frequently,Never,Never,Rarely,Never,Never,Never,Never,Never,Never,Rarely,Never,Never,Never,Never,Rarely,0.0,0.0,0.0,0.0,No effect
+18.0,5.0,Yes,Pop,120.0,Sometimes,Rarely,Sometimes,Rarely,Sometimes,Sometimes,Rarely,Sometimes,Rarely,Sometimes,Rarely,Very frequently,Sometimes,Sometimes,Rarely,Never,3.0,2.0,1.0,1.0,Improve
+21.0,4.0,Yes,Pop,89.0,Never,Never,Rarely,Never,Never,Sometimes,Never,Rarely,Rarely,Never,Never,Very frequently,Never,Rarely,Never,Never,6.0,8.0,0.0,2.0,Improve
+17.0,3.0,Yes,Pop,,Never,Never,Sometimes,Never,Never,Very frequently,Rarely,Sometimes,Never,Never,Rarely,Very frequently,Sometimes,Very frequently,Very frequently,Never,2.0,0.0,4.0,0.0,No effect
+26.0,0.5,No,Rock,140.0,Rarely,Never,Rarely,Sometimes,Never,Never,Rarely,Never,Never,Never,Never,Rarely,Never,Never,Very frequently,Never,9.0,8.0,1.0,0.0,No effect
+20.0,4.0,Yes,EDM,161.0,Rarely,Rarely,Very frequently,Sometimes,Rarely,Sometimes,Rarely,Sometimes,Never,Sometimes,Rarely,Very frequently,Very frequently,Sometimes,Very frequently,Rarely,7.0,2.0,8.0,6.0,Improve
+23.0,2.0,Yes,Video game music,80.0,Sometimes,Rarely,Never,Rarely,Sometimes,Never,Sometimes,Rarely,Rarely,Rarely,Rarely,Sometimes,Sometimes,Rarely,Sometimes,Very frequently,4.0,2.0,3.0,4.0,Improve
+18.0,5.0,Yes,Rock,130.0,Very frequently,Never,Never,Sometimes,Never,Sometimes,Sometimes,Rarely,Never,Sometimes,Very frequently,Sometimes,Rarely,Sometimes,Very frequently,Sometimes,7.0,6.0,5.0,0.0,Improve
+37.0,0.25,No,Video game music,147.0,Very frequently,Rarely,Never,Rarely,Never,Rarely,Sometimes,Never,Rarely,Never,Never,Very frequently,Sometimes,Never,Sometimes,Sometimes,3.0,2.0,10.0,0.0,No effect
+17.0,3.0,Yes,Classical,120.0,Very frequently,Never,Very frequently,Never,Never,Very frequently,Sometimes,Sometimes,Rarely,Sometimes,Never,Sometimes,Very frequently,Very frequently,Rarely,Sometimes,6.0,6.0,8.0,2.0,Improve
+18.0,4.0,Yes,Metal,77.0,Rarely,Never,Never,Never,Never,Very frequently,Rarely,Never,Never,Never,Very frequently,Sometimes,Sometimes,Very frequently,Very frequently,Very frequently,1.0,0.0,8.0,2.0,No effect
+17.0,1.0,Yes,Folk,118.0,Never,Sometimes,Rarely,Very frequently,Never,Rarely,Never,Never,Rarely,Rarely,Rarely,Rarely,Rarely,Sometimes,Sometimes,Sometimes,7.0,3.0,1.0,5.0,Improve
+36.0,1.0,No,Classical,132.0,Very frequently,Sometimes,Never,Rarely,Never,Never,Never,Never,Never,Never,Sometimes,Rarely,Never,Never,Sometimes,Never,8.0,9.0,3.0,0.0,No effect
+24.0,3.0,Yes,Rock,115.0,Rarely,Never,Rarely,Sometimes,Never,Never,Never,Rarely,Never,Very frequently,Rarely,Sometimes,Never,Never,Very frequently,Sometimes,9.0,6.0,4.0,3.0,Improve
+18.0,5.0,Yes,Metal,157.0,Never,Never,Rarely,Rarely,Never,Very frequently,Rarely,Never,Rarely,Rarely,Very frequently,Sometimes,Rarely,Very frequently,Very frequently,Never,7.0,9.0,5.0,0.0,Improve
+19.0,3.0,Yes,Pop,90.0,Sometimes,Rarely,Sometimes,Never,Never,Very frequently,Sometimes,Rarely,Never,Sometimes,Rarely,Very frequently,Sometimes,Sometimes,Sometimes,Sometimes,7.0,4.0,2.0,4.0,No effect
+17.0,2.0,Yes,EDM,128.0,Never,Rarely,Very frequently,Never,Never,Rarely,Never,Never,Rarely,Rarely,Very frequently,Sometimes,Sometimes,Sometimes,Very frequently,Rarely,0.0,0.0,0.0,0.0,Improve
+16.0,6.0,Yes,K pop,169.0,Rarely,Never,Never,Rarely,Sometimes,Very frequently,Rarely,Very frequently,Very frequently,Very frequently,Never,Sometimes,Very frequently,Very frequently,Rarely,Never,7.0,8.0,7.0,5.0,Improve
+23.0,1.0,No,Rap,140.0,Sometimes,Rarely,Sometimes,Rarely,Never,Very frequently,Very frequently,Never,Never,Never,Sometimes,Rarely,Rarely,Very frequently,Very frequently,Rarely,10.0,6.0,3.0,10.0,No effect
+23.0,12.0,Yes,Pop,96.0,Very frequently,Rarely,Never,Very frequently,Never,Rarely,Sometimes,Rarely,Rarely,Rarely,Never,Very frequently,Sometimes,Rarely,Rarely,Never,3.0,7.0,5.0,5.0,No effect
+22.0,4.0,Yes,Rock,126.0,Rarely,Never,Rarely,Sometimes,Never,Rarely,Rarely,Never,Never,Rarely,Sometimes,Very frequently,Sometimes,Rarely,Very frequently,Rarely,8.0,7.0,4.0,3.0,Improve
+16.0,2.0,Yes,Classical,,Very frequently,Never,Never,Never,Never,Rarely,Sometimes,Never,Never,Never,Never,Rarely,Rarely,Rarely,Sometimes,Rarely,0.0,0.0,1.0,3.0,Improve
+18.0,6.0,Yes,Rock,91.0,Rarely,Never,Never,Rarely,Never,Never,Never,Never,Never,Never,Very frequently,Rarely,Never,Sometimes,Very frequently,Never,8.0,6.0,2.0,10.0,No effect
+42.0,0.0,,Rock,,Rarely,Rarely,Never,Never,Never,Never,Rarely,Never,Never,Never,Sometimes,Rarely,Rarely,Never,Sometimes,Sometimes,9.0,0.0,10.0,0.0,No effect
+23.0,7.0,Yes,Folk,55.0,Rarely,Very frequently,Never,Very frequently,Very frequently,Sometimes,Rarely,Never,Rarely,Never,Sometimes,Sometimes,Rarely,Rarely,Rarely,Sometimes,6.0,4.0,2.0,3.0,Improve
+23.0,1.0,Yes,Video game music,85.0,Sometimes,Sometimes,Sometimes,Rarely,Never,Rarely,Sometimes,Rarely,Rarely,Very frequently,Never,Sometimes,Very frequently,Rarely,Sometimes,Very frequently,7.0,0.0,0.0,2.0,Improve
+19.0,1.0,No,K pop,160.0,Never,Never,Never,Never,Never,Never,Sometimes,Very frequently,Never,Never,Never,Never,Never,Never,Never,Rarely,10.0,1.0,0.0,0.0,Improve
+22.0,1.0,No,Rock,108.0,Rarely,Never,Sometimes,Rarely,Never,Never,Very frequently,Never,Never,Never,Never,Sometimes,Rarely,Never,Very frequently,Rarely,8.0,7.0,0.0,5.0,Improve
+15.0,2.0,Yes,Rock,156.0,Never,Never,Rarely,Rarely,Never,Never,Never,Never,Never,Rarely,Sometimes,Sometimes,Never,Never,Very frequently,Sometimes,3.0,2.0,6.0,7.0,Improve
+25.0,2.0,No,Metal,170.0,Rarely,Rarely,Rarely,Sometimes,Never,Rarely,Never,Rarely,Never,Rarely,Very frequently,Sometimes,Never,Rarely,Very frequently,Very frequently,5.0,5.0,3.0,1.0,No effect
+32.0,5.0,Yes,Rock,91.0,Sometimes,Never,Rarely,Sometimes,Never,Sometimes,Rarely,Rarely,Never,Never,Very frequently,Very frequently,Very frequently,Rarely,Very frequently,Never,10.0,10.0,3.0,1.0,Worsen
+36.0,6.0,Yes,Metal,174.0,Very frequently,Never,Rarely,Very frequently,Never,Never,Never,Sometimes,Never,Rarely,Very frequently,Rarely,Never,Never,Sometimes,Very frequently,5.0,4.0,10.0,2.0,Improve
+24.0,3.0,No,Rock,130.0,Sometimes,Sometimes,Never,Rarely,Never,Never,Rarely,Never,Rarely,Never,Very frequently,Very frequently,Never,Never,Very frequently,Never,0.0,0.0,8.0,0.0,No effect
+29.0,4.0,No,Hip hop,140.0,Rarely,Sometimes,Rarely,Never,Rarely,Very frequently,Rarely,Rarely,Rarely,Rarely,Never,Sometimes,Sometimes,Sometimes,Sometimes,Never,8.0,8.0,5.0,10.0,Improve
+41.0,3.0,Yes,Metal,130.0,Sometimes,Never,Sometimes,Never,Never,Rarely,Rarely,Never,Never,Sometimes,Sometimes,Sometimes,Never,Rarely,Rarely,Never,10.0,7.0,8.0,0.0,Improve
+36.0,2.0,Yes,Rock,127.0,Sometimes,Rarely,Very frequently,Sometimes,Rarely,Rarely,Very frequently,Never,Never,Never,Very frequently,Sometimes,Rarely,Rarely,Very frequently,Sometimes,7.0,3.0,1.0,1.0,Improve
+19.0,3.0,Yes,Rock,160.0,Rarely,Sometimes,Sometimes,Rarely,Never,Sometimes,Rarely,Never,Sometimes,Sometimes,Sometimes,Sometimes,Very frequently,Very frequently,Very frequently,Rarely,8.0,7.0,4.0,0.0,Improve
+31.0,2.0,Yes,Rock,,Never,Sometimes,Never,Rarely,Sometimes,Never,Sometimes,Rarely,Never,Never,Sometimes,Very frequently,Never,Never,Very frequently,Never,10.0,2.0,0.0,5.0,No effect
+16.0,4.0,Yes,Rock,,Sometimes,Rarely,Rarely,Sometimes,Never,Rarely,Rarely,Rarely,Rarely,Sometimes,Sometimes,Very frequently,Rarely,Rarely,Very frequently,Very frequently,9.0,8.0,1.0,2.0,Improve
+26.0,2.0,Yes,Hip hop,165.0,Rarely,Rarely,Very frequently,Rarely,Rarely,Very frequently,Rarely,Rarely,Rarely,Rarely,Rarely,Sometimes,Rarely,Very frequently,Very frequently,Rarely,6.0,3.0,1.0,1.0,Improve
+22.0,0.5,No,Hip hop,113.0,Sometimes,Never,Never,Never,Never,Very frequently,Rarely,Never,Rarely,Never,Never,Sometimes,Sometimes,Very frequently,Never,Never,7.0,7.0,0.0,1.0,No effect
+16.0,5.0,Yes,Jazz,167.0,Sometimes,Rarely,Never,Never,Rarely,Rarely,Very frequently,Very frequently,Rarely,Never,Never,Very frequently,Rarely,Very frequently,Sometimes,Never,7.0,7.0,8.0,4.0,Improve
+17.0,5.0,Yes,Metal,95.0,Never,Sometimes,Rarely,Rarely,Never,Never,Never,Never,Never,Never,Very frequently,Rarely,Never,Never,Very frequently,Sometimes,4.0,1.0,0.0,0.0,Improve
+19.0,10.0,Yes,R&B,110.0,Never,Rarely,Very frequently,Never,Never,Sometimes,Never,Very frequently,Never,Never,Never,Rarely,Very frequently,Rarely,Never,Never,7.0,2.0,1.0,5.0,Improve
+18.0,2.0,No,EDM,150.0,Sometimes,Rarely,Very frequently,Never,Rarely,Rarely,Rarely,Never,Never,Sometimes,Never,Very frequently,Rarely,Sometimes,Rarely,Very frequently,9.0,0.0,5.0,10.0,Improve
+18.0,4.0,Yes,Hip hop,93.0,Never,Never,Rarely,Never,Never,Very frequently,Sometimes,Sometimes,Rarely,Sometimes,Never,Very frequently,Very frequently,Very frequently,Sometimes,Rarely,2.0,7.0,1.0,1.0,Improve
+19.0,5.0,No,Rock,90.0,Rarely,Never,Never,Rarely,Never,Sometimes,Very frequently,Never,Very frequently,Rarely,Sometimes,Rarely,Sometimes,Rarely,Very frequently,Rarely,10.0,8.0,7.0,0.0,Improve
+19.0,3.0,Yes,Jazz,118.0,Rarely,Never,Rarely,Never,Never,Very frequently,Very frequently,Rarely,Sometimes,Very frequently,Never,Sometimes,Sometimes,Sometimes,Rarely,Very frequently,3.0,0.0,0.0,0.0,Improve
+22.0,2.0,Yes,K pop,126.0,Never,Never,Very frequently,Never,Never,Sometimes,Never,Very frequently,Never,Never,Never,Sometimes,Never,Sometimes,Very frequently,Rarely,7.0,8.0,5.0,1.0,No effect
+16.0,2.5,Yes,Rock,103.0,Rarely,Sometimes,Never,Very frequently,Never,Rarely,Sometimes,Never,Sometimes,Sometimes,Rarely,Very frequently,Rarely,Never,Very frequently,Rarely,2.0,1.0,0.0,0.0,Improve
+19.0,3.0,Yes,R&B,77.0,Rarely,Never,Sometimes,Never,Never,Very frequently,Rarely,Very frequently,Rarely,Rarely,Rarely,Very frequently,Very frequently,Very frequently,Rarely,Very frequently,5.0,4.0,0.0,1.0,Improve
+37.0,1.0,Yes,Rock,115.0,Rarely,Rarely,Rarely,Rarely,Never,Rarely,Rarely,Rarely,Never,Rarely,Rarely,Sometimes,Rarely,Rarely,Very frequently,Never,9.0,10.0,6.0,10.0,No effect
+14.0,7.0,Yes,Jazz,110.0,Rarely,Never,Very frequently,Never,Never,Never,Very frequently,Never,Sometimes,Never,Never,Sometimes,Never,Never,Very frequently,Very frequently,2.0,0.0,0.0,0.0,Improve
+33.0,1.0,No,Metal,,Rarely,Sometimes,Sometimes,Never,Never,Sometimes,Never,Never,Rarely,Never,Very frequently,Sometimes,Rarely,Sometimes,Sometimes,Sometimes,5.0,2.0,5.0,1.0,Improve
+26.0,1.0,No,R&B,113.0,Rarely,Sometimes,Never,Sometimes,Never,Very frequently,Very frequently,Never,Never,Never,Very frequently,Very frequently,Very frequently,Very frequently,Very frequently,Never,3.0,2.0,0.0,0.0,No effect
+32.0,3.0,Yes,Hip hop,157.0,Never,Never,Rarely,Never,Never,Very frequently,Never,Never,Sometimes,Rarely,Never,Sometimes,Very frequently,Very frequently,Rarely,Never,2.0,0.0,7.0,0.0,No effect
+30.0,5.0,Yes,Metal,160.0,Sometimes,Rarely,Never,Sometimes,Never,Rarely,Never,Never,Never,Never,Very frequently,Sometimes,Never,Never,Very frequently,Never,7.0,6.0,6.0,2.0,No effect
+43.0,6.0,Yes,Video game music,109.0,Sometimes,Rarely,Very frequently,Rarely,Rarely,Rarely,Rarely,Sometimes,Rarely,Very frequently,Rarely,Sometimes,Rarely,Never,Sometimes,Very frequently,5.0,4.0,8.0,3.0,No effect
+24.0,4.0,Yes,Classical,175.0,Very frequently,Rarely,Rarely,Never,Never,Rarely,Rarely,Never,Never,Never,Sometimes,Very frequently,Rarely,Never,Very frequently,Rarely,4.0,6.0,5.0,3.0,Improve
+36.0,1.0,Yes,Rock,110.0,Sometimes,Rarely,Never,Never,Never,Never,Never,Never,Never,Never,Rarely,Sometimes,Rarely,Rarely,Very frequently,Never,6.0,2.0,3.0,1.0,Improve
+19.0,4.0,Yes,Video game music,162.0,Rarely,Never,Rarely,Never,Never,Rarely,Sometimes,Never,Never,Sometimes,Never,Sometimes,Never,Never,Rarely,Very frequently,8.0,2.0,1.0,6.0,Improve
+22.0,10.0,Yes,Metal,189.0,Rarely,Very frequently,Never,Very frequently,Never,Never,Rarely,Never,Never,Never,Very frequently,Rarely,Never,Rarely,Sometimes,Sometimes,9.0,6.0,0.0,6.0,Improve
+20.0,3.0,No,EDM,121.0,Rarely,Sometimes,Very frequently,Never,Never,Sometimes,Never,Rarely,Never,Sometimes,Never,Sometimes,Never,Sometimes,Sometimes,Rarely,0.0,3.0,7.0,0.0,Improve
+31.0,2.0,No,Rock,200.0,Rarely,Rarely,Never,Rarely,Never,Rarely,Rarely,Never,Never,Rarely,Sometimes,Sometimes,Never,Rarely,Very frequently,Never,8.0,9.0,6.0,2.0,Improve
+19.0,4.0,Yes,Metal,105.0,Sometimes,Never,Never,Never,Never,Sometimes,Sometimes,Rarely,Never,Never,Sometimes,Sometimes,Rarely,Sometimes,Very frequently,Rarely,4.0,1.0,1.0,1.0,Improve
+15.0,8.0,Yes,Rock,193.0,Never,Never,Never,Never,Never,Never,Never,Never,Never,Never,Sometimes,Rarely,Never,Never,Very frequently,Rarely,8.0,7.0,5.0,0.0,Improve
+18.0,2.0,No,Metal,149.0,Never,Never,Rarely,Never,Never,Sometimes,Never,Never,Never,Never,Very frequently,Sometimes,Never,Rarely,Very frequently,Rarely,3.0,4.0,6.0,1.0,Improve
+25.0,0.5,No,Classical,140.0,Very frequently,Never,Never,Never,Rarely,Never,Sometimes,Never,Sometimes,Never,Rarely,Rarely,Rarely,Never,Very frequently,Sometimes,1.0,1.0,3.0,1.0,Improve
+17.0,5.0,Yes,Metal,134.0,Never,Rarely,Never,Never,Never,Sometimes,Never,Never,Never,Rarely,Very frequently,Sometimes,Sometimes,Sometimes,Very frequently,Rarely,10.0,8.0,6.0,7.0,No effect
+28.0,1.0,No,Rock,120.0,Rarely,Never,Very frequently,Sometimes,Never,Never,Never,Never,Never,Rarely,Rarely,Rarely,Never,Never,Sometimes,Rarely,6.0,6.0,2.0,0.0,No effect
+20.0,3.0,Yes,Rock,170.0,Never,Never,Rarely,Never,Never,Rarely,Never,Sometimes,Never,Rarely,Rarely,Sometimes,Sometimes,Rarely,Very frequently,Sometimes,6.0,7.0,0.0,0.0,Improve
+21.0,2.0,Yes,Metal,107.0,Sometimes,Rarely,Never,Very frequently,Never,Never,Rarely,Never,Never,Rarely,Very frequently,Rarely,Never,Rarely,Sometimes,Very frequently,8.0,4.0,10.0,0.0,No effect
+41.0,3.0,Yes,Pop,113.0,Sometimes,Never,Rarely,Rarely,Rarely,Very frequently,Sometimes,Rarely,Rarely,Never,Rarely,Very frequently,Very frequently,Sometimes,Very frequently,Never,9.0,7.0,6.0,2.0,No effect
+20.0,2.0,Yes,Pop,126.0,Never,Never,Sometimes,Never,Never,Rarely,Never,Never,Never,Never,Never,Very frequently,Never,Rarely,Very frequently,Sometimes,7.0,4.0,6.0,5.0,Improve
+34.0,4.0,Yes,Metal,161.0,Rarely,Never,Sometimes,Never,Never,Sometimes,Rarely,Never,Never,Never,Very frequently,Rarely,Never,Sometimes,Sometimes,Rarely,6.0,7.0,0.0,0.0,No effect
+21.0,3.0,Yes,Metal,,Sometimes,Rarely,Never,Sometimes,Never,Never,Never,Never,Never,Never,Very frequently,Very frequently,Never,Never,Very frequently,Rarely,10.0,0.0,10.0,10.0,Improve
+23.0,2.0,Yes,Metal,100.0,Rarely,Never,Never,Rarely,Never,Never,Never,Never,Never,Sometimes,Very frequently,Rarely,Never,Never,Sometimes,Rarely,6.0,3.0,0.0,1.0,Improve
+16.0,3.0,No,Pop,140.0,Rarely,Never,Never,Never,Never,Sometimes,Rarely,Never,Rarely,Never,Never,Very frequently,Sometimes,Rarely,Never,Never,7.0,5.0,5.0,3.0,Improve
+19.0,4.0,Yes,Pop,156.0,Rarely,Rarely,Rarely,Rarely,Never,Sometimes,Rarely,Rarely,Never,Never,Rarely,Very frequently,Rarely,Sometimes,Sometimes,Sometimes,7.0,10.0,5.0,0.0,Improve
+22.0,2.0,Yes,Rock,98.0,Sometimes,Never,Never,Rarely,Never,Sometimes,Sometimes,Never,Sometimes,Rarely,Rarely,Very frequently,Sometimes,Sometimes,Very frequently,Sometimes,8.0,6.0,0.0,0.0,Improve
+19.0,8.0,Yes,K pop,100.0,Very frequently,Never,Rarely,Never,Never,Sometimes,Sometimes,Very frequently,Never,Very frequently,Never,Very frequently,Sometimes,Rarely,Rarely,Rarely,4.0,3.0,0.0,0.0,Improve
+23.0,4.0,Yes,Hip hop,78.0,Rarely,Never,Sometimes,Sometimes,Never,Very frequently,Rarely,Very frequently,Sometimes,Very frequently,Rarely,Very frequently,Very frequently,Very frequently,Sometimes,Sometimes,7.0,6.0,7.0,5.0,Improve
+23.0,2.0,No,Metal,117.0,Never,Never,Rarely,Never,Never,Rarely,Rarely,Never,Never,Never,Very frequently,Never,Never,Rarely,Sometimes,Never,7.0,3.0,2.0,3.0,Improve
+22.0,1.0,No,EDM,128.0,Never,Never,Very frequently,Never,Rarely,Sometimes,Sometimes,Never,Never,Never,Never,Very frequently,Very frequently,Sometimes,Sometimes,Never,2.0,7.0,5.0,0.0,Improve
+17.0,3.0,Yes,Rock,130.0,Rarely,Sometimes,Sometimes,Sometimes,Never,Rarely,Rarely,Rarely,Never,Very frequently,Sometimes,Very frequently,Very frequently,Sometimes,Very frequently,Sometimes,7.0,8.0,6.0,5.0,Improve
+28.0,0.5,No,Folk,130.0,Rarely,Sometimes,Never,Very frequently,Never,Rarely,Rarely,Never,Never,Never,Never,Sometimes,Never,Rarely,Very frequently,Rarely,4.0,7.0,1.0,0.0,Improve
+23.0,2.0,No,Rock,,Never,Never,Never,Never,Never,Sometimes,Never,Sometimes,Never,Never,Very frequently,Very frequently,Never,Sometimes,Very frequently,Sometimes,7.0,8.0,5.0,1.0,No effect
+19.0,3.0,Yes,Rock,126.0,Never,Sometimes,Sometimes,Never,Never,Very frequently,Never,Never,Never,Rarely,Rarely,Rarely,Rarely,Sometimes,Very frequently,Sometimes,5.0,2.0,8.0,6.0,Improve
+17.0,2.0,Yes,Hip hop,122.0,Rarely,Never,Sometimes,Sometimes,Never,Very frequently,Sometimes,Rarely,Rarely,Rarely,Very frequently,Rarely,Rarely,Very frequently,Very frequently,Never,10.0,7.0,4.0,2.0,Improve
+21.0,1.0,No,Rock,179.0,Never,Rarely,Never,Rarely,Never,Sometimes,Rarely,Never,Never,Very frequently,Sometimes,Rarely,Sometimes,Sometimes,Very frequently,Rarely,6.0,5.0,0.0,0.0,No effect
+29.0,5.0,Yes,Jazz,200.0,Rarely,Never,Never,Rarely,Never,Never,Very frequently,Never,Rarely,Rarely,Rarely,Never,Sometimes,Never,Very frequently,Sometimes,7.0,2.0,3.0,1.0,Improve
+22.0,10.0,No,EDM,128.0,Sometimes,Sometimes,Very frequently,Very frequently,Never,Never,Rarely,Never,Never,Never,Rarely,Never,Rarely,Never,Sometimes,Sometimes,4.0,7.0,7.0,3.0,Improve
+18.0,4.0,Yes,Pop,130.0,Sometimes,Rarely,Sometimes,Rarely,Never,Rarely,Sometimes,Sometimes,Sometimes,Sometimes,Very frequently,Very frequently,Rarely,Rarely,Very frequently,Very frequently,4.0,5.0,6.0,5.0,Improve
+13.0,2.0,Yes,Rock,120.0,Rarely,Never,Sometimes,Very frequently,Rarely,Sometimes,Never,Never,Never,Sometimes,Sometimes,Very frequently,Rarely,Very frequently,Very frequently,Very frequently,7.0,10.0,5.0,6.0,Worsen
+24.0,1.0,No,Metal,86.0,Sometimes,Never,Rarely,Rarely,Never,Rarely,Never,Never,Never,Never,Very frequently,Sometimes,Sometimes,Sometimes,Very frequently,Rarely,6.0,4.0,5.0,0.0,Improve
+35.0,6.0,Yes,Rock,166.0,Sometimes,Rarely,Sometimes,Very frequently,Never,Rarely,Sometimes,Rarely,Rarely,Sometimes,Sometimes,Sometimes,Rarely,Rarely,Very frequently,Sometimes,4.0,1.0,3.0,1.0,No effect
+29.0,1.0,Yes,Video game music,110.0,Sometimes,Never,Never,Rarely,Sometimes,Never,Rarely,Never,Never,Never,Never,Sometimes,Rarely,Never,Sometimes,Sometimes,6.0,6.0,1.0,2.0,Improve
+28.0,6.0,Yes,Rock,144.0,Sometimes,Rarely,Never,Sometimes,Never,Rarely,Rarely,Never,Rarely,Rarely,Sometimes,Sometimes,Sometimes,Rarely,Very frequently,Very frequently,10.0,8.0,7.0,1.0,Improve
+32.0,7.0,Yes,Pop,120.0,Sometimes,Never,Rarely,Never,Never,Sometimes,Rarely,Never,Never,Rarely,Rarely,Very frequently,Very frequently,Very frequently,Very frequently,Very frequently,10.0,8.0,2.0,8.0,Improve
+32.0,1.0,No,EDM,120.0,Rarely,Never,Very frequently,Rarely,Rarely,Sometimes,Rarely,Never,Rarely,Rarely,Never,Sometimes,Rarely,Rarely,Rarely,Never,3.0,6.0,2.0,0.0,No effect
+21.0,3.0,Yes,Rock,160.0,Never,Never,Never,Very frequently,Never,Sometimes,Never,Never,Never,Sometimes,Very frequently,Rarely,Never,Rarely,Very frequently,Sometimes,8.0,9.0,2.0,0.0,Improve
+18.0,2.0,Yes,Video game music,101.0,Never,Never,Sometimes,Never,Never,Rarely,Never,Never,Never,Rarely,Never,Rarely,Never,Never,Sometimes,Very frequently,8.0,3.0,8.0,7.0,Improve
+19.0,3.0,Yes,Classical,122.0,Very frequently,Rarely,Never,Never,Never,Never,Never,Rarely,Never,Sometimes,Never,Very frequently,Never,Never,Rarely,Sometimes,3.0,3.0,1.0,2.0,Improve
+18.0,2.0,Yes,Pop,,Rarely,Rarely,Never,Never,Never,Rarely,Never,Very frequently,Rarely,Rarely,Rarely,Very frequently,Rarely,Rarely,Rarely,Never,6.0,5.0,2.0,0.0,Improve
+16.0,3.0,Yes,Pop,,Rarely,Sometimes,Sometimes,Never,Never,Rarely,Never,Sometimes,Never,Sometimes,Never,Very frequently,Never,Rarely,Very frequently,Rarely,0.0,0.0,4.0,0.0,No effect
+25.0,1.5,Yes,Pop,61.0,Sometimes,Rarely,Rarely,Sometimes,Never,Rarely,Never,Never,Never,Rarely,Rarely,Very frequently,Very frequently,Rarely,Very frequently,Never,6.0,5.0,0.0,2.0,Improve
+17.0,4.0,Yes,Lofi,79.0,Very frequently,Never,Never,Never,Sometimes,Sometimes,Rarely,Sometimes,Never,Very frequently,Never,Very frequently,Sometimes,Sometimes,Rarely,Very frequently,3.0,8.0,0.0,0.0,Improve
+16.0,2.0,Yes,Rap,126.0,Very frequently,Never,Never,Never,Never,Very frequently,Never,Sometimes,Never,Rarely,Never,Very frequently,Very frequently,Very frequently,Never,Sometimes,1.0,8.0,0.0,0.0,No effect
+27.0,10.0,Yes,Metal,185.0,Sometimes,Never,Sometimes,Never,Never,Sometimes,Rarely,Never,Never,Rarely,Very frequently,Very frequently,Rarely,Sometimes,Very frequently,Rarely,5.0,6.0,6.0,3.0,Improve
+53.0,7.0,Yes,Pop,92.0,Very frequently,Sometimes,Very frequently,Rarely,Rarely,Sometimes,Sometimes,Rarely,Sometimes,Rarely,Rarely,Very frequently,Very frequently,Rarely,Very frequently,Rarely,0.0,0.0,0.0,0.0,Improve
+25.0,1.0,Yes,EDM,107.0,Never,Never,Very frequently,Never,Never,Rarely,Never,Rarely,Never,Rarely,Never,Never,Never,Never,Rarely,Rarely,0.0,8.0,0.0,0.0,Improve
+34.0,2.0,No,Metal,120.0,Never,Never,Rarely,Never,Never,Never,Never,Never,Never,Never,Very frequently,Rarely,Never,Never,Sometimes,Never,3.0,7.0,0.0,0.0,Improve
+22.0,6.0,Yes,Jazz,140.0,Sometimes,Rarely,Very frequently,Very frequently,Rarely,Very frequently,Very frequently,Rarely,Sometimes,Sometimes,Sometimes,Very frequently,Very frequently,Very frequently,Sometimes,Sometimes,8.0,8.0,8.0,5.0,Improve
+17.0,2.0,Yes,Jazz,94.0,Sometimes,Never,Never,Never,Never,Rarely,Sometimes,Never,Never,Rarely,Sometimes,Very frequently,Never,Rarely,Very frequently,Rarely,5.0,2.0,3.0,4.0,Improve
+26.0,3.0,Yes,Folk,160.0,Rarely,Rarely,Never,Very frequently,Rarely,Rarely,Sometimes,Never,Never,Rarely,Rarely,Sometimes,Sometimes,Rarely,Sometimes,Sometimes,8.0,8.0,3.0,0.0,Improve
+19.0,8.0,Yes,EDM,174.0,Never,Never,Very frequently,Never,Never,Sometimes,Never,Rarely,Never,Never,Rarely,Sometimes,Sometimes,Sometimes,Sometimes,Never,6.0,8.0,8.0,0.0,Improve
+21.0,3.0,Yes,Pop,136.0,Rarely,Very frequently,Sometimes,Rarely,Never,Very frequently,Rarely,Never,Very frequently,Sometimes,Rarely,Very frequently,Very frequently,Very frequently,Sometimes,Sometimes,6.0,8.0,6.0,0.0,Worsen
+32.0,3.0,Yes,Rock,144.0,Rarely,Rarely,Sometimes,Very frequently,Never,Sometimes,Rarely,Never,Sometimes,Very frequently,Rarely,Sometimes,Very frequently,Rarely,Very frequently,Rarely,6.0,6.0,7.0,5.0,Improve
+21.0,3.0,Yes,Rock,77.0,Never,Never,Never,Sometimes,Sometimes,Sometimes,Sometimes,Never,Rarely,Never,Rarely,Rarely,Rarely,Sometimes,Very frequently,Very frequently,9.0,10.0,3.0,0.0,No effect
+25.0,2.0,No,Pop,120.0,Rarely,Never,Never,Rarely,Never,Sometimes,Never,Never,Sometimes,Never,Never,Very frequently,Sometimes,Very frequently,Very frequently,Rarely,7.0,7.0,5.0,0.0,Improve
+26.0,1.0,No,Rock,,Rarely,Never,Rarely,Rarely,Never,Rarely,Rarely,Never,Never,Rarely,Sometimes,Sometimes,Rarely,Sometimes,Very frequently,Never,10.0,7.0,2.0,8.0,No effect
+21.0,2.0,Yes,Metal,,Rarely,Never,Never,Sometimes,Never,Rarely,Never,Never,Never,Rarely,Very frequently,Rarely,Never,Rarely,Very frequently,Sometimes,1.0,3.0,0.0,6.0,No effect
+17.0,2.0,Yes,Pop,,Rarely,Never,Never,Never,Never,Rarely,Very frequently,Very frequently,Never,Very frequently,Never,Very frequently,Very frequently,Sometimes,Never,Sometimes,5.0,3.0,2.0,1.0,Improve
+28.0,4.0,Yes,Rock,194.0,Rarely,Sometimes,Rarely,Rarely,Never,Sometimes,Sometimes,Rarely,Never,Never,Sometimes,Sometimes,Rarely,Rarely,Very frequently,Sometimes,6.0,8.0,1.0,6.0,Improve
+41.0,4.0,Yes,Pop,60.0,Rarely,Never,Sometimes,Very frequently,Never,Very frequently,Sometimes,Rarely,Rarely,Sometimes,Rarely,Very frequently,Very frequently,Sometimes,Very frequently,Rarely,7.0,2.0,0.0,7.0,Improve
+18.0,1.0,Yes,Metal,190.0,Rarely,Never,Rarely,Never,Never,Sometimes,Never,Never,Never,Never,Very frequently,Rarely,Never,Sometimes,Very frequently,Sometimes,6.0,9.0,9.0,0.0,Improve
+22.0,2.0,No,R&B,87.0,Sometimes,Never,Never,Never,Never,Rarely,Never,Very frequently,Very frequently,Sometimes,Never,Sometimes,Very frequently,Rarely,Rarely,Sometimes,1.0,1.0,4.0,1.0,No effect
+18.0,2.0,Yes,K pop,122.0,Rarely,Never,Never,Never,Never,Never,Never,Very frequently,Never,Rarely,Never,Very frequently,Sometimes,Never,Never,Never,0.0,2.0,0.0,0.0,
+49.0,1.0,Yes,EDM,156.0,Sometimes,Never,Very frequently,Sometimes,Never,Sometimes,Rarely,Rarely,Rarely,Sometimes,Sometimes,Sometimes,Rarely,Rarely,Very frequently,Sometimes,8.0,8.0,2.0,0.0,Improve
+21.0,3.0,Yes,Metal,150.0,Sometimes,Rarely,Rarely,Sometimes,Never,Rarely,Rarely,Rarely,Never,Sometimes,Very frequently,Very frequently,Rarely,Sometimes,Very frequently,Sometimes,3.0,3.0,7.0,0.0,No effect
+27.0,10.0,Yes,Metal,194.0,Never,Rarely,Sometimes,Sometimes,Never,Sometimes,Rarely,Rarely,Rarely,Sometimes,Very frequently,Very frequently,Sometimes,Sometimes,Very frequently,Sometimes,8.0,8.0,3.0,0.0,Improve
+19.0,1.0,No,Metal,160.0,Never,Never,Never,Never,Never,Rarely,Never,Never,Never,Sometimes,Very frequently,Sometimes,Rarely,Rarely,Very frequently,Never,6.0,4.0,0.0,3.0,No effect
+27.0,3.0,Yes,Metal,171.0,Sometimes,Never,Never,Rarely,Never,Sometimes,Rarely,Never,Never,Rarely,Very frequently,Never,Rarely,Sometimes,Sometimes,Rarely,1.0,0.0,0.0,0.0,Improve
+27.0,1.5,Yes,Rock,95.0,Never,Never,Never,Rarely,Never,Sometimes,Never,Rarely,Never,Rarely,Very frequently,Sometimes,Never,Sometimes,Very frequently,Sometimes,5.0,5.0,4.0,4.0,Improve
+19.0,3.0,Yes,K pop,114.0,Sometimes,Never,Never,Very frequently,Rarely,Rarely,Rarely,Very frequently,Never,Sometimes,Never,Sometimes,Sometimes,Rarely,Sometimes,Sometimes,8.0,9.0,6.0,0.0,
+42.0,2.5,Yes,Rock,148.0,Sometimes,Rarely,Very frequently,Rarely,Never,Sometimes,Very frequently,Never,Rarely,Rarely,Sometimes,Rarely,Rarely,Rarely,Sometimes,Rarely,8.0,8.0,7.0,6.0,Improve
+60.0,2.0,Yes,Gospel,119.0,Rarely,Sometimes,Never,Rarely,Very frequently,Never,Never,Never,Rarely,Never,Never,Sometimes,Rarely,Never,Sometimes,Never,3.0,0.0,2.0,0.0,Improve
+19.0,5.0,Yes,Metal,136.0,Sometimes,Rarely,Rarely,Sometimes,Sometimes,Sometimes,Rarely,Never,Never,Very frequently,Very frequently,Never,Never,Sometimes,Very frequently,Sometimes,0.0,5.0,1.0,0.0,No effect
+20.0,2.0,Yes,Pop,141.0,Rarely,Never,Never,Rarely,Never,Sometimes,Rarely,Never,Never,Sometimes,Never,Very frequently,Sometimes,Rarely,Sometimes,Rarely,6.0,3.0,0.0,0.0,Improve
+28.0,2.0,No,Metal,146.0,Rarely,Never,Never,Rarely,Never,Rarely,Never,Never,Never,Never,Very frequently,Rarely,Never,Never,Sometimes,Rarely,1.0,7.0,5.0,1.0,Improve
+16.0,2.0,No,Video game music,,Sometimes,Rarely,Never,Never,Rarely,Sometimes,Sometimes,Rarely,Never,Sometimes,Never,Sometimes,Sometimes,Rarely,Rarely,Sometimes,4.0,2.0,1.0,1.0,No effect
+18.0,2.0,Yes,R&B,164.0,Sometimes,Never,Never,Never,Never,Rarely,Never,Never,Never,Rarely,Never,Very frequently,Very frequently,Rarely,Never,Never,5.0,6.0,0.0,1.0,No effect
+34.0,1.0,Yes,Rock,,Rarely,Never,Very frequently,Never,Never,Never,Never,Very frequently,Never,Rarely,Very frequently,Rarely,Never,Never,Very frequently,Very frequently,1.0,0.0,0.0,0.0,No effect
+18.0,1.5,Yes,Pop,,Never,Rarely,Rarely,Never,Never,Rarely,Very frequently,Sometimes,Rarely,Very frequently,Never,Very frequently,Sometimes,Rarely,Rarely,Very frequently,8.0,6.0,5.0,2.0,Improve
+21.0,5.0,Yes,Folk,128.0,Sometimes,Rarely,Never,Very frequently,Rarely,Rarely,Sometimes,Never,Rarely,Sometimes,Rarely,Very frequently,Sometimes,Rarely,Very frequently,Rarely,9.0,4.0,0.0,3.0,Improve
+38.0,0.5,No,Rock,,Never,Never,Rarely,Sometimes,Rarely,Sometimes,Rarely,Never,Sometimes,Never,Never,Very frequently,Sometimes,Rarely,Very frequently,Never,4.0,6.0,6.0,4.0,Improve
+17.0,2.0,Yes,Rock,,Never,Rarely,Rarely,Rarely,Never,Never,Never,Rarely,Never,Sometimes,Rarely,Sometimes,Never,Rarely,Very frequently,Very frequently,7.0,3.0,1.0,5.0,Improve
+35.0,0.5,No,Pop,,Sometimes,Never,Never,Sometimes,Never,Never,Never,Never,Never,Rarely,Never,Very frequently,Rarely,Never,Sometimes,Rarely,10.0,3.0,1.0,0.0,No effect
+21.0,2.0,Yes,Rock,101.0,Rarely,Sometimes,Rarely,Sometimes,Never,Very frequently,Rarely,Never,Very frequently,Very frequently,Very frequently,Very frequently,Very frequently,Very frequently,Very frequently,Rarely,8.0,8.0,3.0,0.0,Improve
+25.0,2.5,Yes,R&B,,Rarely,Never,Never,Rarely,Rarely,Sometimes,Rarely,Never,Very frequently,Very frequently,Rarely,Sometimes,Very frequently,Sometimes,Sometimes,Sometimes,7.0,6.0,5.0,4.0,Improve
+18.0,2.0,Yes,K pop,98.0,Very frequently,Never,Never,Rarely,Rarely,Sometimes,Sometimes,Very frequently,Rarely,Very frequently,Never,Sometimes,Very frequently,Sometimes,Never,Rarely,7.0,2.0,3.0,5.0,Improve
+16.0,2.0,No,Pop,145.0,Never,Sometimes,Rarely,Sometimes,Rarely,Rarely,Never,Rarely,Never,Sometimes,Never,Very frequently,Rarely,Rarely,Very frequently,Rarely,10.0,3.5,5.0,10.0,Improve
+19.0,1.0,Yes,Pop,94.0,Rarely,Sometimes,Rarely,Rarely,Never,Sometimes,Rarely,Never,Never,Rarely,Rarely,Very frequently,Sometimes,Sometimes,Very frequently,Never,7.0,5.0,1.0,2.0,Improve
+31.0,4.0,Yes,Classical,103.0,Very frequently,Never,Rarely,Never,Rarely,Sometimes,Rarely,Never,Sometimes,Never,Sometimes,Rarely,Never,Sometimes,Sometimes,Never,6.0,8.0,9.0,5.0,Improve
+26.0,5.0,Yes,Rock,,Never,Never,Sometimes,Never,Never,Never,Never,Never,Never,Never,Never,Very frequently,Never,Never,Very frequently,Never,2.0,9.0,2.0,1.0,No effect
+16.0,2.0,Yes,Rock,112.0,Rarely,Never,Very frequently,Rarely,Never,Never,Never,Never,Never,Rarely,Rarely,Sometimes,Rarely,Never,Very frequently,Very frequently,7.0,4.0,10.0,2.0,Improve
+26.0,2.0,Yes,Rock,,Very frequently,Rarely,Rarely,Very frequently,Never,Rarely,Never,Never,Never,Sometimes,Sometimes,Rarely,Never,Rarely,Very frequently,Very frequently,7.0,5.0,6.0,0.0,Improve
+17.0,2.0,Yes,R&B,118.0,Rarely,Rarely,Never,Never,Sometimes,Sometimes,Rarely,Very frequently,Never,Rarely,Never,Sometimes,Very frequently,Sometimes,Never,Rarely,6.0,1.0,0.0,0.0,Improve
+22.0,1.0,Yes,Video game music,,Sometimes,Sometimes,Rarely,Very frequently,Never,Never,Never,Rarely,Rarely,Never,Very frequently,Rarely,Never,Never,Very frequently,Very frequently,3.0,6.0,1.0,1.0,Improve
+20.0,4.0,Yes,R&B,113.0,Sometimes,Rarely,Never,Rarely,Never,Sometimes,Sometimes,Rarely,Never,Rarely,Never,Sometimes,Very frequently,Very frequently,Very frequently,Rarely,9.0,10.0,3.0,0.0,Improve
+30.0,1.0,No,Rock,162.0,Sometimes,Sometimes,Rarely,Sometimes,Never,Rarely,Never,Never,Never,Never,Sometimes,Sometimes,Never,Rarely,Very frequently,Never,8.0,5.0,8.0,9.0,Improve
+26.0,4.0,Yes,Pop,,Rarely,Very frequently,Rarely,Never,Never,Rarely,Rarely,Never,Sometimes,Never,Rarely,Very frequently,Rarely,Never,Sometimes,Never,8.0,7.0,7.0,3.0,Improve
+19.0,5.0,Yes,Rock,111.0,Sometimes,Rarely,Never,Sometimes,Rarely,Rarely,Sometimes,Rarely,Rarely,Rarely,Very frequently,Sometimes,Rarely,Rarely,Very frequently,Sometimes,9.0,9.0,9.0,3.0,No effect
+21.0,5.0,Yes,Country,85.0,Never,Very frequently,Rarely,Sometimes,Never,Rarely,Never,Never,Never,Never,Sometimes,Sometimes,Never,Rarely,Very frequently,Never,9.0,8.0,9.0,7.0,Improve
+33.0,7.0,Yes,Rock,134.0,Rarely,Sometimes,Sometimes,Sometimes,Rarely,Very frequently,Rarely,Rarely,Sometimes,Sometimes,Sometimes,Very frequently,Very frequently,Very frequently,Very frequently,Sometimes,9.0,3.0,7.0,8.0,Improve
+28.0,2.0,Yes,Rock,172.0,Never,Rarely,Rarely,Rarely,Never,Sometimes,Never,Rarely,Never,Sometimes,Rarely,Sometimes,Very frequently,Rarely,Very frequently,Rarely,10.0,8.0,6.0,2.0,Improve
+25.0,3.0,Yes,Rock,180.0,Rarely,Never,Sometimes,Sometimes,Never,Rarely,Never,Rarely,Never,Sometimes,Very frequently,Sometimes,Rarely,Rarely,Very frequently,Sometimes,9.0,6.0,3.0,0.0,Improve
+22.0,2.0,Yes,Pop,120.0,Rarely,Never,Rarely,Rarely,Rarely,Rarely,Rarely,Never,Never,Rarely,Never,Very frequently,Rarely,Rarely,Sometimes,Sometimes,7.0,7.0,8.0,3.0,Improve
+19.0,3.0,Yes,Rock,76.0,Sometimes,Never,Sometimes,Sometimes,Never,Never,Never,Never,Never,Rarely,Rarely,Rarely,Rarely,Never,Very frequently,Rarely,9.0,10.0,4.0,0.0,Improve
+44.0,3.0,Yes,Folk,130.0,Rarely,Rarely,Rarely,Very frequently,Rarely,Sometimes,Rarely,Never,Rarely,Sometimes,Never,Rarely,Sometimes,Sometimes,Rarely,Sometimes,9.0,9.0,8.0,2.0,Improve
+22.0,3.0,Yes,Rock,,Never,Rarely,Never,Very frequently,Never,Rarely,Never,Never,Never,Never,Very frequently,Rarely,Never,Never,Very frequently,Rarely,9.0,10.0,3.0,9.0,Improve
+26.0,5.0,Yes,Metal,109.0,Sometimes,Rarely,Very frequently,Rarely,Rarely,Rarely,Sometimes,Sometimes,Never,Rarely,Very frequently,Sometimes,Sometimes,Rarely,Sometimes,Sometimes,10.0,9.0,8.0,8.0,Improve
+23.0,6.0,Yes,Classical,96.0,Very frequently,Never,Never,Rarely,Never,Never,Never,Never,Rarely,Never,Never,Rarely,Never,Never,Never,Rarely,6.0,5.0,6.0,8.0,Improve
+17.0,2.0,No,R&B,148.0,Sometimes,Never,Rarely,Never,Never,Very frequently,Rarely,Rarely,Never,Rarely,Never,Sometimes,Very frequently,Sometimes,Never,Rarely,8.0,6.0,10.0,3.0,Improve
+42.0,2.0,No,Metal,,Sometimes,Rarely,Sometimes,Rarely,Never,Sometimes,Never,Never,Never,Never,Very frequently,Sometimes,Sometimes,Sometimes,Very frequently,Rarely,8.0,3.0,6.0,4.0,Improve
+30.0,1.0,No,Rock,129.0,Rarely,Never,Rarely,Rarely,Never,Rarely,Rarely,Never,Rarely,Rarely,Rarely,Very frequently,Rarely,Rarely,Very frequently,Rarely,4.0,2.0,1.0,3.0,Improve
+35.0,1.0,Yes,Pop,81.0,Sometimes,Rarely,Sometimes,Rarely,Never,Sometimes,Rarely,Rarely,Never,Never,Never,Very frequently,Rarely,Rarely,Sometimes,Rarely,2.0,1.0,1.0,1.0,No effect
+20.0,3.0,No,Rock,136.0,Never,Very frequently,Never,Never,Never,Never,Never,Never,Never,Never,Very frequently,Very frequently,Never,Sometimes,Very frequently,Rarely,10.0,10.0,7.0,3.0,Improve
+18.0,3.0,Yes,Rap,155.0,Rarely,Never,Never,Sometimes,Never,Very frequently,Sometimes,Never,Sometimes,Sometimes,Never,Very frequently,Rarely,Very frequently,Very frequently,Very frequently,8.0,9.0,0.0,0.0,Improve
+21.0,1.0,No,Pop,,Never,Never,Sometimes,Never,Never,Rarely,Never,Sometimes,Sometimes,Rarely,Never,Very frequently,Sometimes,Rarely,Sometimes,Rarely,4.0,9.0,6.0,2.0,No effect
+19.0,6.0,Yes,Rock,52.0,Never,Never,Rarely,Very frequently,Never,Rarely,Rarely,Never,Very frequently,Rarely,Sometimes,Very frequently,Rarely,Sometimes,Very frequently,Rarely,4.0,2.0,0.0,0.0,Improve
+37.0,4.0,Yes,Rock,97.0,Rarely,Sometimes,Sometimes,Sometimes,Never,Very frequently,Rarely,Never,Never,Sometimes,Sometimes,Sometimes,Very frequently,Very frequently,Very frequently,Never,9.0,2.0,7.0,7.0,Improve
+31.0,2.0,Yes,Metal,92.0,Sometimes,Rarely,Rarely,Sometimes,Never,Sometimes,Rarely,Rarely,Sometimes,Very frequently,Very frequently,Sometimes,Sometimes,Sometimes,Very frequently,Very frequently,8.0,6.0,7.0,5.0,Improve
+29.0,2.0,Yes,Folk,100.0,Never,Sometimes,Rarely,Very frequently,Sometimes,Rarely,Rarely,Rarely,Rarely,Rarely,Sometimes,Rarely,Very frequently,Rarely,Very frequently,Rarely,6.0,5.0,4.0,2.0,Improve
+20.0,3.0,Yes,Rock,120.0,Sometimes,Rarely,Rarely,Very frequently,Never,Rarely,Sometimes,Never,Never,Sometimes,Sometimes,Very frequently,Rarely,Rarely,Very frequently,Sometimes,8.0,5.0,2.0,3.0,Improve
+36.0,8.0,Yes,Video game music,143.0,Sometimes,Rarely,Sometimes,Rarely,Never,Rarely,Rarely,Never,Never,Never,Very frequently,Rarely,Never,Rarely,Sometimes,Very frequently,7.0,6.0,6.0,1.0,No effect
+18.0,3.0,Yes,Rock,118.0,Sometimes,Never,Never,Rarely,Never,Never,Sometimes,Never,Never,Rarely,Rarely,Sometimes,Never,Never,Very frequently,Rarely,10.0,2.0,0.0,0.0,Improve
+18.0,2.0,Yes,K pop,130.0,Rarely,Never,Sometimes,Never,Never,Never,Never,Very frequently,Never,Never,Rarely,Sometimes,Never,Never,Rarely,Never,6.0,0.0,0.0,0.0,Improve
+25.0,7.0,Yes,Pop,120.0,Never,Sometimes,Very frequently,Rarely,Rarely,Sometimes,Never,Very frequently,Rarely,Rarely,Rarely,Very frequently,Sometimes,Sometimes,Rarely,Sometimes,2.0,0.0,1.0,0.0,Improve
+18.0,12.0,Yes,K pop,126.0,Never,Never,Never,Never,Never,Sometimes,Never,Very frequently,Sometimes,Never,Rarely,Very frequently,Sometimes,Sometimes,Rarely,Never,3.0,7.0,5.0,2.0,Improve
+31.0,9.0,Yes,Pop,158.0,Rarely,Rarely,Rarely,Sometimes,Never,Never,Rarely,Rarely,Rarely,Very frequently,Sometimes,Very frequently,Never,Rarely,Sometimes,Sometimes,9.0,0.0,2.0,0.0,Improve
+17.0,2.0,Yes,Pop,160.0,Rarely,Rarely,Rarely,Rarely,Rarely,Sometimes,Sometimes,Sometimes,Never,Never,Rarely,Very frequently,Rarely,Sometimes,Sometimes,Never,5.0,4.0,1.0,1.0,Improve
+21.0,1.0,Yes,Folk,,Never,Rarely,Never,Very frequently,Never,Rarely,Sometimes,Never,Never,Rarely,Rarely,Rarely,Never,Never,Sometimes,Very frequently,8.0,4.0,0.0,1.0,Improve
+30.0,1.0,No,Country,119.0,Never,Very frequently,Never,Never,Never,Sometimes,Never,Never,Never,Never,Never,Very frequently,Rarely,Sometimes,Sometimes,Rarely,8.0,10.0,2.0,0.0,Improve
+40.0,2.0,Yes,Metal,120.0,Sometimes,Never,Sometimes,Rarely,Never,Rarely,Rarely,Never,Never,Rarely,Very frequently,Rarely,Rarely,Rarely,Very frequently,Never,3.0,6.0,2.0,1.0,No effect
+64.0,4.0,Yes,Rock,200.0,Sometimes,Rarely,Sometimes,Rarely,Never,Rarely,Sometimes,Rarely,Rarely,Never,Rarely,Sometimes,Rarely,Rarely,Sometimes,Rarely,4.0,4.0,2.0,1.0,Improve
+14.0,2.0,Yes,Rock,136.0,Rarely,Never,Never,Sometimes,Never,Sometimes,Rarely,Never,Never,Never,Sometimes,Very frequently,Rarely,Sometimes,Very frequently,Rarely,7.0,5.0,2.0,6.0,Improve
+26.0,6.0,Yes,Rock,104.0,Sometimes,Never,Never,Rarely,Never,Rarely,Sometimes,Never,Never,Never,Rarely,Sometimes,Never,Rarely,Very frequently,Never,3.0,2.0,0.0,0.0,No effect
+35.0,4.0,Yes,Country,90.0,Rarely,Very frequently,Rarely,Sometimes,Rarely,Very frequently,Sometimes,Rarely,Sometimes,Sometimes,Sometimes,Sometimes,Rarely,Sometimes,Very frequently,Never,9.0,9.0,5.0,1.0,Improve
+33.0,1.0,No,Rock,120.0,Never,Never,Never,Never,Never,Sometimes,Never,Never,Rarely,Never,Never,Sometimes,Rarely,Rarely,Very frequently,Never,3.0,10.0,4.0,1.0,No effect
+30.0,6.0,Yes,Folk,89.0,Sometimes,Rarely,Never,Very frequently,Rarely,Never,Rarely,Never,Never,Sometimes,Sometimes,Rarely,Never,Never,Very frequently,Never,9.0,0.0,5.0,0.0,No effect
+31.0,2.0,No,Metal,95.0,Sometimes,Sometimes,Sometimes,Rarely,Never,Rarely,Never,Never,Never,Rarely,Very frequently,Very frequently,Rarely,Sometimes,Very frequently,Sometimes,7.0,6.0,6.0,5.0,Improve
+27.0,5.0,Yes,Folk,140.0,Rarely,Never,Sometimes,Very frequently,Sometimes,Rarely,Rarely,Sometimes,Sometimes,Very frequently,Sometimes,Very frequently,Sometimes,Never,Very frequently,Very frequently,0.0,9.0,4.0,0.0,Improve
+53.0,1.5,No,Pop,92.0,Rarely,Never,Very frequently,Sometimes,Never,Sometimes,Never,Rarely,Sometimes,Never,Never,Very frequently,Rarely,Sometimes,Sometimes,Never,2.0,2.0,2.0,1.0,No effect
+23.0,5.0,Yes,Metal,120.0,Sometimes,Rarely,Never,Rarely,Never,Never,Rarely,Never,Never,Never,Very frequently,Rarely,Never,Never,Very frequently,Never,6.0,9.0,2.0,1.0,Improve
+25.0,2.0,Yes,EDM,128.0,Rarely,Rarely,Very frequently,Rarely,Never,Sometimes,Sometimes,Sometimes,Never,Rarely,Very frequently,Very frequently,Rarely,Sometimes,Very frequently,Rarely,6.0,4.0,1.0,0.0,Improve
+16.0,4.0,Yes,K pop,140.0,Very frequently,Rarely,Rarely,Sometimes,Rarely,Very frequently,Sometimes,Very frequently,Sometimes,Very frequently,Very frequently,Very frequently,Sometimes,Rarely,Sometimes,Rarely,8.0,9.0,4.0,0.0,Improve
+18.0,2.0,Yes,Rock,,Never,Never,Rarely,Rarely,Never,Rarely,Never,Never,Never,Rarely,Never,Rarely,Never,Rarely,Very frequently,Never,6.0,7.0,4.0,3.0,Improve
+29.0,5.0,Yes,Classical,,Very frequently,Never,Never,Rarely,Never,Never,Rarely,Never,Never,Never,Rarely,Sometimes,Rarely,Never,Sometimes,Never,7.0,2.0,2.0,0.0,Improve
+31.0,6.0,Yes,EDM,136.0,Rarely,Rarely,Very frequently,Rarely,Never,Sometimes,Never,Never,Never,Rarely,Rarely,Sometimes,Sometimes,Sometimes,Sometimes,Sometimes,8.0,6.0,5.0,6.0,No effect
+31.0,1.0,No,Rock,132.0,Sometimes,Rarely,Never,Never,Never,Rarely,Never,Never,Sometimes,Never,Sometimes,Rarely,Rarely,Rarely,Very frequently,Sometimes,3.0,10.0,0.0,0.0,Worsen
+38.0,6.0,Yes,Pop,107.0,Very frequently,Sometimes,Sometimes,Sometimes,Sometimes,Very frequently,Very frequently,Rarely,Sometimes,Sometimes,Rarely,Very frequently,Very frequently,Very frequently,Sometimes,Never,9.0,4.0,9.0,7.0,Improve
+17.0,4.0,No,Classical,135.0,Very frequently,Never,Never,Never,Never,Very frequently,Very frequently,Rarely,Very frequently,Sometimes,Sometimes,Rarely,Sometimes,Rarely,Never,Rarely,7.0,9.0,2.0,8.0,Worsen
+25.0,2.0,No,EDM,171.0,Never,Sometimes,Very frequently,Rarely,Never,Never,Never,Never,Never,Never,Rarely,Sometimes,Never,Never,Very frequently,Rarely,10.0,3.0,1.0,4.0,Improve
+20.0,2.0,No,Metal,220.0,Rarely,Never,Never,Never,Never,Never,Rarely,Never,Never,Never,Very frequently,Never,Never,Rarely,Sometimes,Rarely,0.0,0.0,0.0,1.0,No effect
+15.0,2.0,Yes,EDM,171.0,Never,Never,Very frequently,Never,Never,Sometimes,Never,Never,Never,Never,Never,Rarely,Rarely,Sometimes,Never,Rarely,9.0,6.0,1.0,7.0,No effect
+16.0,4.0,Yes,Lofi,85.0,Rarely,Rarely,Very frequently,Rarely,Never,Rarely,Rarely,Never,Never,Very frequently,Rarely,Sometimes,Never,Rarely,Rarely,Very frequently,7.0,1.0,3.0,5.0,Improve
+20.0,2.0,Yes,EDM,174.0,Sometimes,Never,Very frequently,Never,Never,Sometimes,Never,Sometimes,Never,Never,Never,Sometimes,Never,Never,Sometimes,Sometimes,9.0,7.0,5.0,7.0,Improve
+23.0,6.0,Yes,Rap,87.0,Never,Never,Sometimes,Sometimes,Never,Rarely,Never,Sometimes,Sometimes,Never,Never,Very frequently,Very frequently,Sometimes,Rarely,Never,3.0,1.0,2.0,7.0,Improve
+22.0,3.0,Yes,Hip hop,77.0,Rarely,Never,Sometimes,Rarely,Never,Very frequently,Rarely,Never,Sometimes,Rarely,Sometimes,Very frequently,Sometimes,Very frequently,Sometimes,Rarely,6.0,6.0,8.0,0.0,Improve
+15.0,5.0,Yes,Rock,126.0,Rarely,Never,Very frequently,Rarely,Never,Never,Never,Never,Never,Sometimes,Rarely,Very frequently,Never,Never,Very frequently,Sometimes,10.0,6.0,0.0,4.0,Improve
+17.0,0.5,Yes,Video game music,136.0,Rarely,Sometimes,Sometimes,Never,Never,Never,Rarely,Never,Never,Never,Rarely,Sometimes,Rarely,Rarely,Sometimes,Very frequently,6.0,3.0,1.0,1.0,Improve
+22.0,1.0,Yes,Video game music,80.0,Rarely,Never,Rarely,Sometimes,Never,Rarely,Never,Never,Never,Sometimes,Never,Rarely,Never,Never,Rarely,Very frequently,3.0,3.0,0.0,7.0,No effect
+21.0,10.0,Yes,Metal,92.0,Never,Rarely,Rarely,Never,Never,Very frequently,Never,Rarely,Never,Never,Very frequently,Sometimes,Sometimes,Very frequently,Very frequently,Sometimes,9.0,10.0,2.0,2.0,No effect
+19.0,2.0,Yes,Pop,120.0,Rarely,Never,Sometimes,Rarely,Never,Rarely,Sometimes,Sometimes,Sometimes,Sometimes,Never,Very frequently,Very frequently,Sometimes,Very frequently,Very frequently,7.0,5.0,0.0,2.0,No effect
+32.0,0.5,No,Classical,,Very frequently,Never,Sometimes,Rarely,Never,Never,Rarely,Never,Never,Never,Sometimes,Rarely,Never,Never,Very frequently,Rarely,3.0,0.0,4.0,4.0,No effect
+34.0,1.0,No,Rock,138.0,Rarely,Never,Never,Sometimes,Never,Rarely,Never,Never,Rarely,Never,Never,Rarely,Never,Sometimes,Very frequently,Never,9.0,9.0,6.0,4.0,Improve
+18.0,2.0,Yes,Metal,150.0,Sometimes,Never,Rarely,Never,Never,Never,Never,Never,Never,Never,Very frequently,Rarely,Never,Rarely,Very frequently,Sometimes,5.0,7.0,7.0,2.0,Improve
+21.0,3.0,Yes,Country,108.0,Rarely,Very frequently,Never,Sometimes,Rarely,Rarely,Never,Never,Never,Never,Rarely,Sometimes,Never,Never,Very frequently,Sometimes,0.0,8.0,0.0,5.0,Improve
+20.0,3.0,No,Country,119.0,Rarely,Very frequently,Rarely,Sometimes,Never,Sometimes,Rarely,Sometimes,Never,Never,Never,Very frequently,Very frequently,Rarely,Sometimes,Never,8.0,4.0,3.0,4.0,Improve
+19.0,2.0,Yes,Country,125.0,Rarely,Very frequently,Rarely,Sometimes,Rarely,Never,Never,Never,Rarely,Rarely,Sometimes,Rarely,Never,Never,Sometimes,Never,7.0,2.0,0.0,7.0,No effect
+25.0,1.0,No,Pop,,Rarely,Never,Never,Rarely,Never,Rarely,Rarely,Never,Never,Rarely,Rarely,Very frequently,Rarely,Rarely,Very frequently,Very frequently,9.0,9.0,6.0,9.0,No effect
+31.0,8.0,Yes,Classical,,Very frequently,Never,Rarely,Rarely,Never,Never,Sometimes,Never,Never,Never,Never,Never,Never,Never,Rarely,Rarely,5.0,7.0,5.0,4.0,Improve
+21.0,1.0,Yes,Pop,85.0,Very frequently,Rarely,Rarely,Sometimes,Never,Rarely,Never,Sometimes,Never,Rarely,Very frequently,Very frequently,Sometimes,Very frequently,Sometimes,Very frequently,5.0,1.0,0.0,0.0,Improve
+31.0,1.0,No,Folk,113.0,Very frequently,Never,Never,Sometimes,Never,Rarely,Never,Never,Rarely,Never,Never,Never,Never,Never,Sometimes,Never,4.0,1.0,3.0,0.0,Improve
+20.0,1.0,No,Pop,86.0,Rarely,Never,Never,Rarely,Never,Never,Never,Never,Never,Rarely,Rarely,Very frequently,Never,Never,Sometimes,Never,3.0,5.0,3.0,0.0,Improve
+19.0,5.0,Yes,Rock,141.0,Sometimes,Rarely,Never,Never,Never,Rarely,Sometimes,Never,Never,Never,Very frequently,Sometimes,Sometimes,Rarely,Very frequently,Never,2.0,2.0,0.0,6.0,Improve
+19.0,5.0,Yes,EDM,97.0,Rarely,Never,Very frequently,Sometimes,Never,Sometimes,Rarely,Never,Sometimes,Very frequently,Very frequently,Rarely,Never,Very frequently,Sometimes,Rarely,0.0,1.0,3.0,5.0,Improve
+23.0,4.0,Yes,Metal,,Rarely,Sometimes,Sometimes,Never,Never,Sometimes,Never,Rarely,Never,Sometimes,Very frequently,Very frequently,Very frequently,Very frequently,Very frequently,Rarely,7.0,8.0,6.0,2.0,Improve
+24.0,8.0,Yes,Video game music,120.0,Sometimes,Rarely,Very frequently,Rarely,Rarely,Very frequently,Very frequently,Rarely,Rarely,Very frequently,Very frequently,Rarely,Rarely,Sometimes,Very frequently,Very frequently,6.0,4.0,8.0,8.0,Improve
+20.0,0.7,No,Rock,144.0,Rarely,Never,Never,Never,Never,Never,Never,Never,Never,Sometimes,Rarely,Very frequently,Rarely,Never,Very frequently,Rarely,5.0,6.0,8.0,2.0,Improve
+15.0,3.0,No,Video game music,84.0,Rarely,Rarely,Sometimes,Rarely,Rarely,Sometimes,Rarely,Never,Never,Very frequently,Rarely,Very frequently,Never,Never,Very frequently,Very frequently,6.0,6.0,2.0,6.0,No effect
+17.0,7.0,Yes,Hip hop,84.0,Never,Never,Rarely,Never,Rarely,Very frequently,Never,Never,Never,Rarely,Rarely,Rarely,Rarely,Very frequently,Rarely,Rarely,8.0,9.0,3.0,4.0,Improve
+20.0,1.5,No,Video game music,60.0,Very frequently,Never,Never,Rarely,Rarely,Never,Never,Never,Sometimes,Never,Never,Never,Never,Never,Never,Very frequently,8.0,4.0,3.0,3.0,Worsen
+14.0,4.0,Yes,Video game music,81.0,Sometimes,Never,Sometimes,Rarely,Never,Rarely,Sometimes,Sometimes,Never,Very frequently,Never,Sometimes,Rarely,Rarely,Never,Very frequently,8.0,6.0,5.0,7.0,Improve
+24.0,4.0,Yes,Metal,150.0,Sometimes,Rarely,Never,Rarely,Rarely,Rarely,Never,Never,Never,Never,Very frequently,Sometimes,Rarely,Rarely,Very frequently,Never,8.0,8.0,7.0,7.0,Improve
+14.0,10.0,Yes,Video game music,95.0,Rarely,Never,Sometimes,Never,Never,Sometimes,Rarely,Never,Never,Very frequently,Sometimes,Never,Never,Sometimes,Rarely,Very frequently,5.0,2.0,5.0,0.0,Improve
+23.0,2.0,Yes,Rock,138.0,Very frequently,Never,Rarely,Rarely,Never,Sometimes,Sometimes,Never,Rarely,Rarely,Rarely,Sometimes,Sometimes,Sometimes,Very frequently,Sometimes,6.0,8.0,4.0,2.0,No effect
+28.0,2.0,Yes,Rock,,Rarely,Never,Never,Rarely,Never,Never,Sometimes,Rarely,Never,Sometimes,Rarely,Sometimes,Rarely,Never,Very frequently,Rarely,7.0,5.0,2.0,1.0,No effect
+22.0,6.0,Yes,Jazz,140.0,Sometimes,Rarely,Very frequently,Rarely,Rarely,Rarely,Very frequently,Sometimes,Never,Sometimes,Sometimes,Sometimes,Sometimes,Rarely,Very frequently,Sometimes,8.0,8.0,7.0,1.0,Improve
+25.0,0.5,Yes,Rock,139.0,Rarely,Never,Very frequently,Never,Never,Rarely,Never,Rarely,Never,Never,Rarely,Sometimes,Rarely,Rarely,Very frequently,Sometimes,10.0,2.0,0.0,0.0,Improve
+27.0,2.0,Yes,Pop,100.0,Sometimes,Rarely,Very frequently,Never,Never,Sometimes,Very frequently,Very frequently,Sometimes,Sometimes,Sometimes,Very frequently,Very frequently,Rarely,Sometimes,Sometimes,8.0,7.0,7.0,5.0,Improve
+18.0,5.0,Yes,Rock,,Rarely,Never,Rarely,Rarely,Never,Rarely,Never,Rarely,Never,Rarely,Sometimes,Very frequently,Rarely,Sometimes,Very frequently,Very frequently,8.0,8.0,8.0,6.0,Improve
+17.0,3.0,Yes,Pop,120.0,Rarely,Rarely,Never,Sometimes,Never,Sometimes,Very frequently,Never,Rarely,Never,Sometimes,Very frequently,Very frequently,Very frequently,Very frequently,Never,8.0,10.0,9.0,2.0,Improve
+23.0,4.5,Yes,Rock,,Sometimes,Rarely,Never,Sometimes,Rarely,Sometimes,Rarely,Rarely,Never,Rarely,Sometimes,Sometimes,Rarely,Sometimes,Very frequently,Sometimes,6.0,1.0,8.0,4.0,No effect
+40.0,3.0,Yes,Rock,178.0,Sometimes,Never,Never,Never,Never,Never,Rarely,Never,Never,Rarely,Sometimes,Sometimes,Rarely,Never,Sometimes,Never,0.0,4.0,4.0,0.0,Improve
+27.0,20.0,Yes,Rock,,Sometimes,Rarely,Sometimes,Rarely,Never,Rarely,Never,Sometimes,Rarely,Sometimes,Very frequently,Rarely,Never,Rarely,Very frequently,Sometimes,8.0,10.0,10.0,8.0,No effect
+18.0,1.0,No,Pop,100.0,Rarely,Rarely,Never,Rarely,Rarely,Sometimes,Never,Never,Never,Never,Never,Very frequently,Rarely,Sometimes,Sometimes,Rarely,3.0,2.0,0.0,1.0,No effect
+16.0,2.5,No,Metal,110.0,Never,Never,Never,Never,Never,Never,Rarely,Never,Never,Rarely,Very frequently,Never,Never,Rarely,Very frequently,Sometimes,5.0,3.0,3.0,1.0,Improve
+18.0,1.0,No,Rock,108.0,Sometimes,Rarely,Never,Sometimes,Never,Sometimes,Never,Never,Never,Never,Sometimes,Sometimes,Rarely,Rarely,Very frequently,Rarely,8.0,9.0,6.0,1.0,Improve
+23.0,2.0,No,Jazz,,Rarely,Rarely,Rarely,Rarely,Rarely,Rarely,Rarely,Rarely,Rarely,Rarely,Rarely,Rarely,Rarely,Rarely,Rarely,Rarely,10.0,3.0,0.0,10.0,No effect
+15.0,5.0,Yes,Metal,161.0,Never,Never,Rarely,Never,Never,Never,Never,Never,Never,Never,Very frequently,Rarely,Never,Rarely,Sometimes,Never,6.0,7.0,8.0,2.0,Improve
+20.0,3.0,Yes,Metal,200.0,Sometimes,Rarely,Never,Never,Never,Rarely,Sometimes,Never,Never,Rarely,Very frequently,Rarely,Never,Rarely,Very frequently,Sometimes,7.0,4.0,7.0,0.0,Improve
+16.0,3.0,Yes,Rock,,Never,Rarely,Never,Rarely,Never,Never,Never,Never,Sometimes,Never,Rarely,Rarely,Rarely,Rarely,Very frequently,Rarely,9.0,8.0,6.0,2.0,Improve
+16.0,0.5,No,Rock,156.0,Sometimes,Never,Rarely,Never,Never,Rarely,Rarely,Never,Never,Never,Never,Sometimes,Never,Never,Very frequently,Sometimes,8.0,0.0,0.0,0.0,Improve
+20.0,8.0,Yes,Country,120.0,Never,Very frequently,Never,Sometimes,Never,Rarely,Never,Never,Never,Never,Never,Rarely,Rarely,Rarely,Sometimes,Never,8.0,9.0,2.0,5.0,No effect
+33.0,2.0,Yes,Metal,,Rarely,Rarely,Never,Rarely,Never,Sometimes,Never,Never,Never,Never,Very frequently,Never,Never,Sometimes,Sometimes,Sometimes,7.0,2.0,3.0,0.0,Improve
+22.0,3.0,Yes,Rock,90.0,Never,Very frequently,Rarely,Sometimes,Never,Rarely,Sometimes,Never,Very frequently,Never,Rarely,Sometimes,Very frequently,Sometimes,Very frequently,Never,10.0,10.0,4.0,0.0,Improve
+21.0,3.0,Yes,Hip hop,85.0,Never,Never,Rarely,Never,Never,Very frequently,Rarely,Never,Never,Sometimes,Never,Very frequently,Very frequently,Very frequently,Very frequently,Never,8.0,8.0,3.0,3.0,Improve
+21.0,5.0,Yes,Metal,171.0,Rarely,Never,Sometimes,Never,Never,Very frequently,Sometimes,Never,Never,Sometimes,Very frequently,Rarely,Sometimes,Very frequently,Sometimes,Sometimes,8.0,7.0,7.0,4.0,Improve
+29.0,1.5,Yes,Rock,108.0,Rarely,Never,Sometimes,Never,Never,Rarely,Rarely,Never,Never,Never,Rarely,Very frequently,Very frequently,Very frequently,Very frequently,Never,8.0,7.0,1.0,2.0,Improve
+56.0,1.0,Yes,Pop,105.0,Never,Rarely,Never,Rarely,Never,Never,Never,Never,Never,Never,Never,Sometimes,Sometimes,Never,Sometimes,Never,6.0,5.0,10.0,2.0,No effect
+17.0,2.0,Yes,Pop,76.0,Sometimes,Never,Never,Never,Never,Rarely,Rarely,Never,Never,Rarely,Never,Very frequently,Rarely,Rarely,Never,Rarely,7.0,6.0,0.0,4.0,Improve
+22.0,1.0,Yes,Pop,108.0,Rarely,Rarely,Sometimes,Never,Never,Never,Rarely,Never,Never,Never,Never,Very frequently,Never,Never,Rarely,Rarely,7.0,4.0,0.0,0.0,Improve
+26.0,4.0,Yes,Pop,140.0,Sometimes,Sometimes,Rarely,Rarely,Never,Sometimes,Never,Rarely,Never,Rarely,Never,Very frequently,Rarely,Rarely,Very frequently,Rarely,8.0,7.0,2.0,10.0,No effect
+30.0,1.0,Yes,EDM,200.0,Never,Never,Very frequently,Never,Never,Sometimes,Never,Never,Never,Never,Rarely,Never,Never,Sometimes,Never,Never,4.0,4.0,4.0,0.0,Improve
+49.0,2.0,Yes,Folk,147.0,Rarely,Rarely,Sometimes,Very frequently,Never,Sometimes,Rarely,Never,Never,Sometimes,Rarely,Sometimes,Sometimes,Sometimes,Rarely,Rarely,0.0,0.0,2.0,0.0,No effect
+22.0,2.0,Yes,EDM,120.0,Rarely,Sometimes,Very frequently,Sometimes,Rarely,Sometimes,Sometimes,Rarely,Rarely,Sometimes,Very frequently,Sometimes,Sometimes,Very frequently,Sometimes,Very frequently,6.0,4.0,0.0,1.0,Improve
+32.0,2.0,No,Rock,158.0,Never,Rarely,Sometimes,Rarely,Never,Sometimes,Never,Never,Never,Sometimes,Rarely,Sometimes,Sometimes,Sometimes,Sometimes,Never,4.0,7.0,0.0,0.0,Improve
+32.0,1.0,No,Rock,110.0,Rarely,Sometimes,Never,Sometimes,Never,Never,Never,Never,Rarely,Never,Sometimes,Very frequently,Rarely,Never,Very frequently,Never,8.0,4.0,3.0,0.0,No effect
+22.0,6.0,Yes,Country,103.0,Never,Very frequently,Never,Rarely,Never,Sometimes,Never,Never,Rarely,Never,Sometimes,Never,Never,Sometimes,Very frequently,Rarely,5.0,5.0,3.0,3.0,Improve
+17.0,2.0,Yes,Rock,93.0,Never,Rarely,Sometimes,Sometimes,Rarely,Rarely,Sometimes,Rarely,Rarely,Rarely,Very frequently,Very frequently,Sometimes,Sometimes,Very frequently,Sometimes,0.0,8.0,0.0,0.0,Improve
+21.0,4.0,Yes,Rock,62.0,Rarely,Never,Never,Rarely,Never,Never,Never,Never,Never,Never,Rarely,Very frequently,Rarely,Never,Very frequently,Never,7.0,4.0,6.0,1.0,Improve
+17.0,1.5,Yes,Rock,180.0,Very frequently,Never,Rarely,Rarely,Never,Never,Never,Never,Very frequently,Rarely,Rarely,Sometimes,Sometimes,Rarely,Very frequently,Rarely,8.0,7.0,7.0,3.0,No effect
+25.0,3.0,Yes,Metal,150.0,Sometimes,Sometimes,Rarely,Rarely,Never,Never,Never,Never,Never,Never,Very frequently,Sometimes,Sometimes,Never,Very frequently,Sometimes,9.0,8.0,6.0,2.0,Improve
+15.0,4.0,Yes,Rock,105.0,Never,Never,Rarely,Never,Never,Rarely,Never,Sometimes,Never,Very frequently,Sometimes,Very frequently,Sometimes,Rarely,Very frequently,Never,8.0,6.0,4.0,0.0,Improve
+13.0,10.0,Yes,Rap,140.0,Never,Never,Rarely,Never,Never,Sometimes,Never,Never,Never,Sometimes,Never,Rarely,Rarely,Very frequently,Never,Rarely,7.0,2.0,0.0,8.0,Improve
+38.0,3.0,Yes,Rock,,Very frequently,Rarely,Never,Rarely,Never,Never,Sometimes,Never,Rarely,Never,Very frequently,Sometimes,Rarely,Never,Very frequently,Never,6.0,7.0,7.0,7.0,No effect
+23.0,3.0,No,Rock,161.0,Rarely,Never,Sometimes,Sometimes,Never,Rarely,Never,Never,Never,Rarely,Rarely,Sometimes,Never,Never,Very frequently,Sometimes,7.0,6.0,4.0,2.0,Improve
+17.0,3.0,Yes,Pop,120.0,Sometimes,Sometimes,Sometimes,Rarely,Rarely,Very frequently,Rarely,Very frequently,Never,Very frequently,Never,Very frequently,Very frequently,Very frequently,Very frequently,Rarely,1.0,1.0,1.0,0.0,Improve
+59.0,2.0,Yes,Pop,103.0,Rarely,Never,Very frequently,Rarely,Never,Rarely,Sometimes,Rarely,Rarely,Rarely,Never,Very frequently,Very frequently,Rarely,Sometimes,Never,1.0,1.0,3.0,0.0,Improve
+22.0,2.0,Yes,Pop,72.0,Rarely,Rarely,Never,Rarely,Rarely,Sometimes,Sometimes,Never,Rarely,Rarely,Never,Very frequently,Very frequently,Sometimes,Sometimes,Rarely,2.0,7.0,1.0,2.0,Improve
+17.0,3.0,Yes,Pop,113.0,Sometimes,Rarely,Never,Never,Never,Very frequently,Sometimes,Very frequently,Rarely,Never,Never,Very frequently,Rarely,Very frequently,Sometimes,Rarely,6.0,2.0,3.0,1.0,No effect
+27.0,2.0,No,Pop,120.0,Never,Never,Never,Never,Never,Never,Never,Never,Never,Never,Rarely,Very frequently,Never,Sometimes,Sometimes,Rarely,7.0,7.0,3.0,2.0,No effect
+23.0,5.0,Yes,Video game music,95.0,Sometimes,Never,Sometimes,Never,Never,Rarely,Rarely,Rarely,Never,Sometimes,Rarely,Sometimes,Rarely,Sometimes,Sometimes,Sometimes,8.0,7.0,0.0,3.0,No effect
+15.0,6.0,Yes,Rock,97.0,Rarely,Never,Sometimes,Rarely,Never,Sometimes,Rarely,Never,Never,Rarely,Rarely,Sometimes,Sometimes,Never,Very frequently,Sometimes,8.0,3.0,5.0,2.0,Improve
+22.0,3.0,Yes,EDM,140.0,Rarely,Rarely,Very frequently,Sometimes,Rarely,Sometimes,Rarely,Never,Never,Rarely,Sometimes,Sometimes,Sometimes,Sometimes,Very frequently,Very frequently,5.0,4.0,2.0,0.0,Improve
+23.0,5.0,Yes,Lofi,120.0,Very frequently,Rarely,Sometimes,Sometimes,Rarely,Rarely,Sometimes,Rarely,Rarely,Very frequently,Rarely,Very frequently,Very frequently,Rarely,Very frequently,Very frequently,7.0,10.0,10.0,1.0,Improve
+19.0,5.0,Yes,Country,118.0,Rarely,Very frequently,Never,Very frequently,Sometimes,Rarely,Sometimes,Never,Very frequently,Rarely,Never,Sometimes,Sometimes,Rarely,Sometimes,Never,7.0,6.0,8.0,4.0,Improve
+32.0,6.0,Yes,Rock,91.0,Never,Rarely,Sometimes,Never,Never,Rarely,Rarely,Never,Never,Never,Never,Sometimes,Rarely,Rarely,Very frequently,Rarely,8.0,7.0,0.0,9.0,Improve
+40.0,6.0,Yes,Rock,128.0,Sometimes,Sometimes,Sometimes,Sometimes,Rarely,Sometimes,Sometimes,Never,Sometimes,Sometimes,Rarely,Sometimes,Sometimes,Sometimes,Very frequently,Rarely,10.0,7.0,3.0,3.0,No effect
+21.0,3.0,Yes,Country,86.0,Never,Very frequently,Rarely,Sometimes,Rarely,Sometimes,Never,Never,Never,Never,Rarely,Sometimes,Rarely,Sometimes,Sometimes,Never,6.0,5.0,5.0,3.0,Improve
+21.0,10.0,Yes,Rock,107.0,Rarely,Never,Very frequently,Sometimes,Never,Rarely,Rarely,Rarely,Rarely,Sometimes,Sometimes,Very frequently,Sometimes,Rarely,Very frequently,Very frequently,8.0,7.0,6.0,8.0,No effect
+23.0,2.0,Yes,Video game music,180.0,Sometimes,Never,Very frequently,Never,Never,Rarely,Rarely,Sometimes,Never,Sometimes,Never,Very frequently,Rarely,Sometimes,Sometimes,Very frequently,10.0,7.0,7.0,3.0,Worsen
+21.0,2.0,Yes,EDM,,Rarely,Rarely,Very frequently,Rarely,Rarely,Rarely,Never,Never,Never,Sometimes,Rarely,Sometimes,Rarely,Rarely,Sometimes,Very frequently,10.0,10.0,5.0,7.0,
+35.0,3.0,No,Folk,0.0,Sometimes,Sometimes,Never,Sometimes,Never,Never,Rarely,Never,Never,Rarely,Never,Rarely,Never,Never,Sometimes,Sometimes,8.0,2.0,2.0,8.0,No effect
+18.0,1.5,No,Hip hop,150.0,Never,Never,Never,Never,Never,Sometimes,Sometimes,Never,Never,Sometimes,Never,Very frequently,Never,Sometimes,Sometimes,Never,3.0,7.0,4.0,0.0,Improve
+21.0,10.0,Yes,Pop,112.0,Never,Rarely,Never,Never,Never,Rarely,Never,Never,Never,Never,Never,Sometimes,Rarely,Never,Sometimes,Never,9.0,7.0,5.0,5.0,Improve
+22.0,2.0,Yes,Video game music,,Never,Never,Rarely,Never,Never,Sometimes,Rarely,Never,Rarely,Never,Never,Very frequently,Never,Rarely,Sometimes,Very frequently,5.0,3.0,0.0,0.0,Improve
+23.0,3.0,Yes,Rock,66.0,Rarely,Rarely,Never,Very frequently,Never,Sometimes,Sometimes,Never,Never,Never,Very frequently,Very frequently,Very frequently,Sometimes,Very frequently,Never,10.0,7.0,0.0,10.0,Improve
+13.0,2.5,Yes,Folk,118.0,Never,Sometimes,Never,Very frequently,Never,Never,Never,Never,Never,Never,Never,Very frequently,Never,Never,Never,Never,8.0,0.0,0.0,3.0,Improve
+19.0,3.0,Yes,K pop,110.0,Sometimes,Rarely,Rarely,Sometimes,Never,Rarely,Never,Very frequently,Never,Sometimes,Never,Very frequently,Very frequently,Very frequently,Very frequently,Never,6.0,0.0,3.0,0.0,Improve
+33.0,0.5,Yes,Rock,80.0,Sometimes,Never,Rarely,Never,Never,Never,Rarely,Never,Never,Rarely,Sometimes,Rarely,Never,Never,Sometimes,Rarely,7.0,9.0,4.0,6.0,Improve
+18.0,16.0,Yes,Jazz,90.0,Sometimes,Sometimes,Sometimes,Sometimes,Sometimes,Very frequently,Very frequently,Very frequently,Very frequently,Very frequently,Very frequently,Very frequently,Very frequently,Very frequently,Very frequently,Rarely,3.0,2.0,5.0,6.0,Improve
+17.0,6.0,Yes,Classical,120.0,Very frequently,Rarely,Never,Never,Never,Rarely,Sometimes,Rarely,Never,Sometimes,Never,Very frequently,Never,Never,Never,Rarely,4.0,2.0,0.0,0.0,Improve
+16.0,3.0,Yes,EDM,100.0,Rarely,Never,Very frequently,Never,Never,Very frequently,Sometimes,Very frequently,Never,Rarely,Sometimes,Very frequently,Rarely,Very frequently,Very frequently,Very frequently,4.0,2.0,0.0,0.0,Improve
+18.0,0.5,No,Rock,66.0,Rarely,Never,Never,Sometimes,Never,Never,Never,Never,Never,Never,Never,Sometimes,Rarely,Never,Very frequently,Never,5.0,3.0,1.0,0.0,No effect
+19.0,5.0,Yes,K pop,158.0,Rarely,Sometimes,Sometimes,Never,Never,Rarely,Rarely,Very frequently,Rarely,Never,Never,Very frequently,Very frequently,Rarely,Rarely,Rarely,4.0,2.0,2.0,1.0,Improve
+15.0,2.0,No,Rap,105.0,Very frequently,Sometimes,Never,Very frequently,Sometimes,Very frequently,Sometimes,Sometimes,Never,Very frequently,Sometimes,Rarely,Very frequently,Very frequently,Sometimes,Very frequently,4.0,0.0,6.0,5.0,No effect
+17.0,2.0,Yes,Pop,208.0,Never,Never,Never,Never,Never,Rarely,Never,Rarely,Never,Never,Very frequently,Very frequently,Never,Very frequently,Very frequently,Very frequently,7.0,6.0,3.0,1.0,Improve
+25.0,2.0,Yes,Lofi,91.0,Sometimes,Rarely,Sometimes,Rarely,Never,Very frequently,Very frequently,Rarely,Sometimes,Very frequently,Never,Sometimes,Rarely,Sometimes,Very frequently,Sometimes,7.0,8.0,6.0,2.0,Improve
+24.0,1.5,Yes,Video game music,171.0,Sometimes,Rarely,Very frequently,Rarely,Sometimes,Sometimes,Sometimes,Very frequently,Rarely,Very frequently,Very frequently,Very frequently,Sometimes,Sometimes,Very frequently,Very frequently,3.0,4.0,1.0,1.0,Improve
+23.0,1.0,Yes,Jazz,150.0,Rarely,Rarely,Very frequently,Never,Rarely,Never,Very frequently,Rarely,Rarely,Never,Sometimes,Rarely,Sometimes,Never,Very frequently,Sometimes,9.0,7.0,2.0,1.0,Improve
+16.0,10.0,Yes,EDM,180.0,Rarely,Rarely,Very frequently,Sometimes,Never,Rarely,Sometimes,Rarely,Never,Rarely,Rarely,Very frequently,Sometimes,Sometimes,Sometimes,Sometimes,10.0,9.0,3.0,2.0,Improve
+25.0,2.0,Yes,Metal,,Rarely,Rarely,Rarely,Rarely,Sometimes,Rarely,Sometimes,Never,Rarely,Rarely,Very frequently,Sometimes,Rarely,Rarely,Very frequently,Sometimes,9.0,9.0,7.0,3.0,Improve
+16.0,15.0,Yes,EDM,85.0,Rarely,Never,Very frequently,Never,Never,Rarely,Rarely,Never,Never,Rarely,Sometimes,Sometimes,Never,Very frequently,Very frequently,Sometimes,8.0,10.0,9.0,2.0,Improve
+20.0,0.5,No,Metal,150.0,Sometimes,Rarely,Sometimes,Never,Never,Sometimes,Sometimes,Never,Never,Sometimes,Sometimes,Rarely,Rarely,Rarely,Sometimes,Sometimes,8.0,9.0,6.0,4.0,Improve
+17.0,3.0,Yes,Metal,104.0,Never,Rarely,Rarely,Never,Sometimes,Sometimes,Never,Never,Never,Never,Very frequently,Never,Rarely,Sometimes,Very frequently,Never,5.0,6.0,9.0,9.0,Improve
+29.0,2.0,Yes,Metal,,Never,Never,Never,Never,Never,Never,Never,Never,Never,Never,Very frequently,Sometimes,Never,Never,Very frequently,Never,9.0,3.0,7.0,2.0,Improve
+20.0,4.0,Yes,Hip hop,85.0,Never,Rarely,Very frequently,Rarely,Never,Very frequently,Never,Never,Never,Never,Never,Sometimes,Sometimes,Very frequently,Sometimes,Never,3.0,2.0,1.0,6.0,Improve
+16.0,2.0,Yes,Folk,,Never,Never,Never,Very frequently,Never,Rarely,Never,Never,Never,Never,Sometimes,Very frequently,Never,Rarely,Sometimes,Never,7.0,7.0,4.0,0.0,Improve
+21.0,1.0,Yes,Rock,147.0,Rarely,Sometimes,Sometimes,Sometimes,Never,Sometimes,Rarely,Rarely,Rarely,Rarely,Rarely,Very frequently,Never,Sometimes,Very frequently,Very frequently,7.0,9.0,1.0,2.0,Improve
+16.0,24.0,Yes,Rock,120.0,Never,Never,Rarely,Never,Never,Never,Never,Rarely,Rarely,Rarely,Rarely,Rarely,Rarely,Rarely,Sometimes,Rarely,5.0,1.0,9.0,1.0,Improve
+43.0,1.0,Yes,Pop,134.0,Sometimes,Never,Never,Sometimes,Rarely,Sometimes,Rarely,Never,Never,Rarely,Never,Very frequently,Rarely,Rarely,Sometimes,Never,3.0,3.0,0.0,0.0,Improve
+32.0,2.0,Yes,Classical,,Very frequently,Sometimes,Rarely,Very frequently,Sometimes,Sometimes,Sometimes,Rarely,Sometimes,Rarely,Very frequently,Very frequently,Sometimes,Rarely,Very frequently,Very frequently,8.0,7.0,5.0,4.0,Improve
+10.0,2.0,Yes,Pop,112.0,Very frequently,Never,Rarely,Never,Never,Rarely,Rarely,Very frequently,Never,Rarely,Never,Very frequently,Never,Rarely,Never,Very frequently,8.0,2.0,1.0,1.0,Improve
+27.0,3.0,Yes,Metal,200.0,Rarely,Rarely,Sometimes,Never,Never,Sometimes,Never,Sometimes,Rarely,Sometimes,Very frequently,Sometimes,Rarely,Very frequently,Very frequently,Very frequently,4.0,0.0,0.0,0.0,Improve
+24.0,3.0,Yes,Classical,75.0,Very frequently,Never,Never,Never,Rarely,Rarely,Never,Never,Sometimes,Rarely,Sometimes,Rarely,Never,Rarely,Never,Never,9.0,6.0,1.0,1.0,Improve
+18.0,2.0,Yes,Hip hop,20.0,Rarely,Never,Rarely,Never,Rarely,Very frequently,Rarely,Very frequently,Sometimes,Never,Never,Sometimes,Very frequently,Very frequently,Never,Never,10.0,7.0,2.0,0.0,Improve
+17.0,7.0,Yes,Rock,140.0,Never,Never,Never,Never,Never,Never,Never,Never,Never,Sometimes,Never,Very frequently,Never,Never,Very frequently,Sometimes,8.0,7.0,7.0,4.0,Improve
+19.0,6.0,Yes,Metal,111.0,Sometimes,Never,Never,Never,Never,Never,Never,Never,Never,Never,Very frequently,Rarely,Never,Never,Very frequently,Sometimes,1.0,0.0,0.0,0.0,Improve
+16.0,3.0,Yes,Rock,150.0,Sometimes,Never,Sometimes,Never,Never,Rarely,Rarely,Rarely,Never,Rarely,Sometimes,Sometimes,Sometimes,Sometimes,Very frequently,Sometimes,5.0,7.0,1.0,4.0,Improve
+64.0,5.0,Yes,Rock,,Sometimes,Rarely,Never,Rarely,Sometimes,Sometimes,Very frequently,Sometimes,Never,Rarely,Sometimes,Rarely,Sometimes,Rarely,Very frequently,Never,7.0,6.0,9.0,2.0,Improve
+33.0,4.0,Yes,Lofi,114.0,Sometimes,Rarely,Rarely,Sometimes,Never,Sometimes,Sometimes,Rarely,Rarely,Very frequently,Very frequently,Sometimes,Rarely,Sometimes,Sometimes,Sometimes,8.0,8.0,2.0,2.0,Improve
+32.0,3.0,Yes,Rock,93.0,Very frequently,Sometimes,Sometimes,Sometimes,Never,Never,Very frequently,Rarely,Rarely,Never,Very frequently,Rarely,Never,Rarely,Very frequently,Rarely,2.0,2.0,8.0,0.0,No effect
+15.0,2.0,Yes,Pop,145.0,Rarely,Sometimes,Never,Never,Never,Never,Never,Rarely,Very frequently,Never,Never,Very frequently,Sometimes,Sometimes,Never,Never,6.0,0.0,0.0,2.0,Improve
+27.0,3.0,Yes,Metal,100.0,Very frequently,Very frequently,Never,Rarely,Never,Rarely,Never,Never,Never,Never,Very frequently,Sometimes,Never,Rarely,Very frequently,Rarely,2.0,0.0,1.0,0.0,Improve
+20.0,2.0,Yes,Rock,114.0,Rarely,Rarely,Never,Sometimes,Never,Never,Rarely,Never,Never,Never,Rarely,Sometimes,Rarely,Never,Very frequently,Sometimes,6.0,2.0,6.0,7.0,No effect
+23.0,2.0,Yes,Pop,109.0,Rarely,Very frequently,Never,Rarely,Very frequently,Very frequently,Sometimes,Rarely,Never,Rarely,Never,Very frequently,Very frequently,Very frequently,Very frequently,Sometimes,6.0,1.0,0.0,5.0,Improve
+19.0,3.0,No,Classical,,Very frequently,Rarely,Never,Rarely,Rarely,Sometimes,Rarely,Never,Never,Never,Rarely,Sometimes,Never,Never,Very frequently,Sometimes,7.0,6.0,4.0,0.0,Improve
+12.0,2.0,Yes,Classical,,Very frequently,Never,Never,Never,Never,Never,Never,Never,Never,Rarely,Never,Rarely,Never,Never,Never,Never,0.0,0.0,3.0,0.0,Improve
+16.0,3.0,Yes,Classical,72.0,Very frequently,Rarely,Never,Never,Rarely,Never,Never,Never,Never,Never,Never,Very frequently,Never,Never,Never,Rarely,9.0,7.0,10.0,6.0,No effect
+17.0,0.0,No,Video game music,89.0,Never,Never,Never,Never,Never,Never,Never,Never,Never,Very frequently,Never,Never,Never,Never,Never,Very frequently,10.0,0.0,0.0,0.0,No effect
+14.0,1.0,Yes,Pop,140.0,Rarely,Rarely,Very frequently,Rarely,Rarely,Sometimes,Sometimes,Sometimes,Rarely,Sometimes,Rarely,Very frequently,Sometimes,Sometimes,Sometimes,Sometimes,6.0,6.0,3.0,0.0,Improve
+32.0,2.0,Yes,Metal,84.0,Rarely,Rarely,Very frequently,Rarely,Rarely,Rarely,Rarely,Rarely,Never,Sometimes,Very frequently,Sometimes,Rarely,Rarely,Sometimes,Very frequently,4.0,3.0,1.0,6.0,Improve
+20.0,2.0,Yes,Pop,132.0,Never,Never,Never,Never,Never,Rarely,Never,Never,Never,Never,Never,Never,Never,Rarely,Rarely,Rarely,6.0,2.0,2.0,1.0,No effect
+54.0,6.0,Yes,Classical,,Very frequently,Sometimes,Never,Never,Never,Sometimes,Rarely,Rarely,Rarely,Never,Rarely,Sometimes,Sometimes,Rarely,Rarely,Never,2.0,2.0,3.0,2.0,Improve
+18.0,5.0,Yes,K pop,124.0,Never,Rarely,Rarely,Never,Never,Rarely,Rarely,Very frequently,Rarely,Rarely,Never,Very frequently,Rarely,Sometimes,Sometimes,Never,7.0,4.0,5.0,6.0,Improve
+14.0,2.0,Yes,Classical,181.0,Very frequently,Never,Never,Never,Never,Rarely,Never,Never,Never,Rarely,Sometimes,Sometimes,Never,Rarely,Very frequently,Rarely,7.0,5.0,3.0,2.0,Improve
+13.0,4.0,Yes,Classical,126.0,Very frequently,Never,Sometimes,Rarely,Never,Never,Rarely,Rarely,Never,Never,Rarely,Very frequently,Never,Never,Sometimes,Sometimes,8.0,5.0,10.0,3.0,Improve
+19.0,8.0,Yes,Country,109.0,Never,Very frequently,Never,Rarely,Never,Never,Never,Never,Never,Never,Rarely,Rarely,Never,Rarely,Sometimes,Rarely,7.0,5.0,6.0,5.0,Improve
+14.0,4.0,Yes,Classical,106.0,Very frequently,Never,Rarely,Never,Never,Sometimes,Sometimes,Rarely,Rarely,Rarely,Sometimes,Sometimes,Sometimes,Sometimes,Sometimes,Rarely,6.0,8.0,8.0,2.0,Improve
+14.0,1.5,No,Classical,140.0,Very frequently,Never,Never,Never,Rarely,Never,Sometimes,Never,Never,Never,Never,Never,Never,Never,Rarely,Sometimes,1.0,2.0,4.0,3.0,Improve
+18.0,2.0,Yes,Rap,170.0,Very frequently,Never,Sometimes,Never,Never,Very frequently,Sometimes,Rarely,Very frequently,Sometimes,Rarely,Sometimes,Sometimes,Very frequently,Rarely,Sometimes,3.0,2.0,0.0,2.0,Improve
+15.0,5.0,Yes,Folk,87.0,Rarely,Sometimes,Never,Very frequently,Rarely,Sometimes,Never,Never,Never,Sometimes,Never,Never,Never,Sometimes,Rarely,Rarely,6.0,7.0,7.0,4.0,Improve
+24.0,6.0,Yes,Classical,,Very frequently,Never,Sometimes,Never,Never,Never,Never,Very frequently,Never,Never,Never,Never,Never,Never,Rarely,Never,6.0,7.0,2.0,0.0,No effect
+17.0,2.0,Yes,Pop,117.0,Rarely,Never,Never,Never,Never,Rarely,Rarely,Never,Never,Sometimes,Rarely,Very frequently,Very frequently,Never,Never,Sometimes,9.0,8.0,4.0,8.0,Improve
+44.0,2.0,No,Rock,105.0,Sometimes,Sometimes,Sometimes,Sometimes,Rarely,Sometimes,Rarely,Rarely,Never,Never,Sometimes,Sometimes,Sometimes,Sometimes,Very frequently,Never,7.0,7.0,2.0,1.0,Improve
+23.0,1.0,No,Rock,,Sometimes,Never,Never,Never,Never,Never,Rarely,Never,Never,Rarely,Sometimes,Never,Never,Never,Very frequently,Never,1.0,0.0,1.0,0.0,Improve
+21.0,1.0,No,Rap,160.0,Rarely,Rarely,Never,Never,Never,Sometimes,Rarely,Never,Never,Rarely,Rarely,Sometimes,Sometimes,Sometimes,Rarely,Never,4.0,3.0,4.0,5.0,Improve
+57.0,2.0,No,R&B,,Rarely,Sometimes,Never,Never,Rarely,Sometimes,Sometimes,Never,Never,Never,Never,Sometimes,Sometimes,Sometimes,Rarely,Never,2.0,0.0,0.0,0.0,Improve
+23.0,2.0,Yes,Rock,141.0,Rarely,Rarely,Never,Very frequently,Never,Rarely,Never,Never,Never,Very frequently,Very frequently,Very frequently,Never,Sometimes,Very frequently,Very frequently,0.0,5.0,7.0,0.0,No effect
+18.0,1.0,Yes,Pop,105.0,Sometimes,Rarely,Never,Never,Rarely,Never,Rarely,Never,Sometimes,Rarely,Never,Very frequently,Never,Never,Never,Very frequently,8.0,7.0,7.0,0.0,Improve
+26.0,14.0,Yes,Hip hop,158.0,Sometimes,Sometimes,Rarely,Very frequently,Never,Very frequently,Very frequently,Rarely,Rarely,Very frequently,Rarely,Sometimes,Very frequently,Very frequently,Very frequently,Rarely,5.0,10.0,8.0,0.0,No effect
+13.0,3.0,Yes,Classical,80.0,Very frequently,Never,Never,Never,Never,Never,Never,Never,Never,Never,Never,Never,Never,Never,Never,Never,8.0,7.0,9.0,2.0,Improve
+15.0,3.0,Yes,Classical,118.0,Very frequently,Never,Never,Never,Never,Never,Never,Rarely,Never,Sometimes,Never,Sometimes,Never,Never,Never,Sometimes,9.0,6.0,8.0,5.0,Improve
+57.0,2.0,Yes,Rock,125.0,Never,Never,Never,Never,Never,Rarely,Sometimes,Never,Rarely,Rarely,Sometimes,Sometimes,Sometimes,Rarely,Very frequently,Never,2.0,2.0,7.0,0.0,No effect
+12.0,0.5,Yes,Classical,109.0,Very frequently,Never,Never,Never,Never,Never,Rarely,Never,Never,Rarely,Never,Sometimes,Never,Never,Never,Never,7.0,8.0,6.0,2.0,Improve
+26.0,6.0,Yes,EDM,156.0,Never,Never,Very frequently,Never,Never,Never,Never,Never,Never,Never,Never,Rarely,Rarely,Rarely,Never,Rarely,10.0,10.0,8.0,2.0,No effect
+17.0,1.0,Yes,Country,105.0,Never,Very frequently,Never,Rarely,Rarely,Never,Rarely,Never,Never,Never,Rarely,Rarely,Rarely,Never,Sometimes,Rarely,8.0,5.0,2.0,3.0,Improve
+17.0,2.0,Yes,Classical,,Very frequently,Never,Rarely,Never,Never,Never,Never,Rarely,Never,Rarely,Rarely,Sometimes,Rarely,Never,Sometimes,Sometimes,7.0,8.0,2.0,5.0,Improve
+69.0,4.0,Yes,Classical,72.0,Very frequently,Sometimes,Never,Sometimes,Sometimes,Rarely,Very frequently,Rarely,Rarely,Rarely,Never,Sometimes,Sometimes,Never,Very frequently,Never,1.0,1.0,2.0,0.0,Improve
+17.0,3.0,Yes,R&B,148.0,Very frequently,Never,Rarely,Never,Sometimes,Very frequently,Very frequently,Very frequently,Sometimes,Never,Rarely,Very frequently,Very frequently,Very frequently,Sometimes,Never,9.0,10.0,10.0,3.0,No effect
+32.0,12.0,Yes,Jazz,200.0,Never,Never,Sometimes,Rarely,Never,Sometimes,Very frequently,Rarely,Never,Sometimes,Never,Rarely,Sometimes,Rarely,Never,Never,9.0,4.0,4.0,4.0,Improve
+22.0,3.0,No,Classical,113.0,Very frequently,Never,Never,Never,Never,Never,Sometimes,Never,Never,Never,Never,Rarely,Never,Never,Rarely,Never,8.0,2.0,4.0,0.0,No effect
+38.0,1.0,No,Metal,191.0,Rarely,Never,Never,Sometimes,Never,Never,Rarely,Never,Never,Never,Very frequently,Never,Never,Never,Sometimes,Rarely,1.0,1.0,5.0,1.0,Improve
+18.0,10.0,Yes,EDM,140.0,Never,Never,Very frequently,Sometimes,Never,Sometimes,Never,Never,Never,Sometimes,Never,Very frequently,Very frequently,Very frequently,Never,Never,10.0,9.0,9.0,8.0,Improve
+14.0,5.0,Yes,Classical,40.0,Very frequently,Rarely,Rarely,Rarely,Rarely,Rarely,Rarely,Sometimes,Rarely,Sometimes,Never,Sometimes,Sometimes,Rarely,Rarely,Very frequently,3.0,0.0,2.0,3.0,Improve
+14.0,0.5,Yes,Video game music,173.0,Very frequently,Never,Never,Rarely,Never,Never,Rarely,Sometimes,Rarely,Never,Never,Very frequently,Never,Never,Never,Very frequently,4.0,0.0,4.0,0.0,Improve
+19.0,5.0,Yes,Metal,180.0,Rarely,Rarely,Rarely,Rarely,Never,Rarely,Rarely,Never,Rarely,Sometimes,Very frequently,Sometimes,Rarely,Rarely,Very frequently,Sometimes,2.0,3.0,5.0,2.0,Improve
+20.0,3.0,Yes,Classical,100.0,Very frequently,Sometimes,Rarely,Sometimes,Rarely,Rarely,Very frequently,Rarely,Rarely,Never,Rarely,Sometimes,Sometimes,Rarely,Rarely,Rarely,2.0,3.0,3.0,0.0,Improve
+18.0,2.0,No,Rock,123.0,Never,Very frequently,Never,Rarely,Rarely,Rarely,Rarely,Never,Never,Never,Sometimes,Very frequently,Never,Sometimes,Sometimes,Sometimes,8.0,4.0,3.0,0.0,Improve
+30.0,13.0,,K pop,145.0,Sometimes,Never,Rarely,Sometimes,Never,Sometimes,Sometimes,Very frequently,Very frequently,Rarely,Rarely,Very frequently,Very frequently,Sometimes,Very frequently,Sometimes,10.0,10.0,10.0,7.0,Improve
+31.0,4.0,Yes,Classical,55.0,Very frequently,Rarely,Never,Rarely,Rarely,Never,Sometimes,Never,Never,Rarely,Rarely,Never,Never,Never,Sometimes,Sometimes,8.0,8.0,9.0,3.0,Improve
+72.0,6.0,Yes,Rock,77.0,Never,Sometimes,Never,Never,Never,Never,Very frequently,Never,Sometimes,Never,Never,Rarely,Very frequently,Never,Very frequently,Never,0.0,1.0,0.0,2.0,Improve
+73.0,3.0,Yes,R&B,4.0,Sometimes,Very frequently,Rarely,Sometimes,Very frequently,Sometimes,Sometimes,Rarely,Very frequently,Never,Rarely,Sometimes,Very frequently,Sometimes,Sometimes,Never,5.0,4.0,0.0,1.0,Improve
+16.0,4.0,Yes,Pop,150.0,Rarely,Rarely,Sometimes,Sometimes,Rarely,Very frequently,Rarely,Sometimes,Rarely,Sometimes,Rarely,Very frequently,Rarely,Rarely,Rarely,Rarely,7.5,5.0,7.0,8.5,Improve
+19.0,3.0,No,Rap,73.0,Rarely,Never,Sometimes,Never,Never,Sometimes,Rarely,Never,Never,Rarely,Never,Sometimes,Rarely,Very frequently,Sometimes,Sometimes,3.0,3.0,0.0,0.0,Improve
+16.0,2.0,Yes,Classical,155.0,Very frequently,Rarely,Never,Rarely,Never,Rarely,Rarely,Never,Never,Rarely,Never,Very frequently,Never,Never,Rarely,Rarely,7.0,5.0,3.0,1.0,Improve
+12.0,2.0,Yes,Classical,,Very frequently,Rarely,Never,Never,Rarely,Sometimes,Rarely,Rarely,Never,Never,Never,Sometimes,Never,Rarely,Sometimes,Never,8.0,0.0,1.0,6.0,Improve
+39.0,1.0,Yes,Hip hop,89.0,Never,Rarely,Rarely,Sometimes,Never,Very frequently,Rarely,Rarely,Rarely,Sometimes,Sometimes,Very frequently,Sometimes,Very frequently,Very frequently,Never,6.0,4.0,1.0,1.0,Improve
+15.0,6.0,Yes,K pop,110.0,Sometimes,Never,Rarely,Sometimes,Never,Rarely,Sometimes,Very frequently,Sometimes,Sometimes,Rarely,Very frequently,Sometimes,Rarely,Very frequently,Never,8.0,8.0,7.0,10.0,No effect
+14.0,9.0,Yes,R&B,140.0,Very frequently,Rarely,Rarely,Rarely,Rarely,Sometimes,Rarely,Very frequently,Rarely,Sometimes,Rarely,Very frequently,Very frequently,Very frequently,Rarely,Rarely,10.0,8.0,9.0,5.0,Improve
+21.0,1.0,No,Country,135.0,Never,Very frequently,Never,Never,Never,Never,Never,Never,Never,Never,Never,Never,Never,Never,Never,Never,3.0,0.0,2.0,0.0,Improve
+38.0,1.0,Yes,Video game music,125.0,Rarely,Never,Never,Never,Never,Rarely,Sometimes,Rarely,Rarely,Never,Rarely,Sometimes,Rarely,Rarely,Rarely,Very frequently,5.0,5.0,7.0,1.0,Worsen
+23.0,0.5,No,Hip hop,110.0,Sometimes,Sometimes,Rarely,Rarely,Rarely,Very frequently,Rarely,Very frequently,Rarely,Sometimes,Rarely,Sometimes,Sometimes,Very frequently,Rarely,Sometimes,7.0,7.0,6.0,5.0,Improve
+16.0,1.0,No,EDM,140.0,Never,Never,Very frequently,Never,Never,Sometimes,Rarely,Never,Never,Sometimes,Sometimes,Rarely,Rarely,Rarely,Sometimes,Sometimes,7.0,4.0,6.0,3.0,Improve
+21.0,1.5,Yes,Folk,105.0,Never,Sometimes,Never,Very frequently,Never,Never,Never,Never,Never,Never,Never,Never,Never,Never,Sometimes,Never,3.0,3.0,1.0,0.0,
+13.0,6.0,Yes,Rap,112.0,Never,Never,Never,Never,Never,Very frequently,Never,Rarely,Never,Rarely,Never,Rarely,Never,Very frequently,Never,Never,4.0,0.0,0.0,2.0,Worsen
+16.0,4.0,Yes,Rock,96.0,Rarely,Sometimes,Sometimes,Sometimes,Never,Sometimes,Rarely,Sometimes,Never,Very frequently,Very frequently,Very frequently,Never,Never,Very frequently,Sometimes,3.0,0.0,6.0,9.0,Improve
+18.0,6.0,Yes,Rock,,Sometimes,Rarely,Rarely,Very frequently,Never,Sometimes,Never,Sometimes,Never,Very frequently,Very frequently,Sometimes,Rarely,Sometimes,Very frequently,Very frequently,5.0,1.0,6.0,0.0,Improve
+21.0,4.0,Yes,Metal,155.0,Never,Never,Very frequently,Never,Never,Never,Never,Never,Never,Rarely,Sometimes,Never,Never,Never,Very frequently,Very frequently,10.0,6.0,8.0,0.0,Improve
+17.0,1.5,Yes,Classical,174.0,Very frequently,Rarely,Never,Rarely,Never,Never,Sometimes,Never,Never,Sometimes,Never,Very frequently,Rarely,Never,Never,Never,7.0,5.0,1.0,2.0,No effect
+24.0,2.0,Yes,Rock,93.0,Rarely,Sometimes,Never,Very frequently,Never,Sometimes,Sometimes,Never,Rarely,Sometimes,Never,Rarely,Rarely,Sometimes,Very frequently,Never,7.0,7.0,0.0,4.0,No effect
+14.0,2.0,Yes,Pop,78.0,Rarely,Never,Never,Sometimes,Never,Sometimes,Never,Rarely,Very frequently,Rarely,Rarely,Very frequently,Sometimes,Sometimes,Rarely,Never,6.0,0.0,0.0,0.0,Improve
+25.0,4.0,Yes,Rock,,Sometimes,Rarely,Rarely,Very frequently,Rarely,Sometimes,Sometimes,Rarely,Rarely,Sometimes,Sometimes,Sometimes,Rarely,Sometimes,Very frequently,Very frequently,6.0,2.0,3.0,2.0,Improve
+22.0,3.0,Yes,Lofi,174.0,Rarely,Very frequently,Sometimes,Rarely,Rarely,Rarely,Rarely,Rarely,Rarely,Very frequently,Rarely,Rarely,Rarely,Rarely,Rarely,Rarely,7.0,6.0,7.0,9.0,Improve
+20.0,4.0,Yes,Rock,120.0,Rarely,Never,Sometimes,Never,Never,Rarely,Never,Very frequently,Rarely,Rarely,Sometimes,Very frequently,Rarely,Rarely,Very frequently,Rarely,5.0,7.0,7.0,0.0,No effect
+23.0,2.0,Yes,Pop,75.0,Sometimes,Rarely,Rarely,Sometimes,Never,Very frequently,Sometimes,Never,Never,Never,Never,Very frequently,Very frequently,Very frequently,Sometimes,Sometimes,7.0,6.0,4.0,3.0,Improve
+61.0,2.0,Yes,Rock,94.0,Never,Never,Never,Rarely,Never,Never,Never,Rarely,Never,Never,Sometimes,Sometimes,Rarely,Never,Sometimes,Never,2.0,2.0,2.0,0.0,Improve
+24.0,6.0,Yes,Video game music,180.0,Sometimes,Never,Sometimes,Very frequently,Never,Never,Never,Rarely,Never,Rarely,Sometimes,Rarely,Never,Never,Very frequently,Very frequently,9.0,5.0,0.0,7.0,Improve
+34.0,0.0,No,Rock,115.0,Rarely,Rarely,Never,Sometimes,Never,Never,Never,Never,Never,Never,Rarely,Never,Never,Never,Very frequently,Never,3.0,7.0,8.0,0.0,Worsen
+49.0,1.0,No,Pop,128.0,Sometimes,Never,Never,Never,Never,Very frequently,Rarely,Never,Never,Very frequently,Never,Very frequently,Very frequently,Very frequently,Sometimes,Never,4.0,5.0,9.0,1.0,Improve
+33.0,4.0,Yes,Rock,112.0,Rarely,Sometimes,Rarely,Rarely,Rarely,Rarely,Rarely,Never,Never,Very frequently,Rarely,Sometimes,Rarely,Rarely,Very frequently,Very frequently,1.0,0.0,7.0,0.0,Improve
+22.0,2.0,No,Metal,140.0,Never,Never,Rarely,Never,Never,Never,Never,Never,Never,Never,Very frequently,Rarely,Rarely,Never,Very frequently,Very frequently,3.0,2.0,0.0,2.0,No effect
+38.0,3.0,Yes,Metal,143.0,Rarely,Never,Never,Never,Never,Never,Never,Never,Never,Never,Very frequently,Never,Never,Rarely,Sometimes,Never,1.0,6.0,1.0,2.0,Improve
+23.0,4.0,No,Hip hop,72.0,Rarely,Rarely,Never,Rarely,Never,Very frequently,Rarely,Never,Never,Sometimes,Rarely,Very frequently,Sometimes,Sometimes,Sometimes,Rarely,8.0,10.0,4.0,0.0,No effect
+34.0,2.0,No,Video game music,100.0,Rarely,Rarely,Rarely,Never,Never,Sometimes,Rarely,Rarely,Never,Rarely,Rarely,Never,Never,Sometimes,Rarely,Very frequently,8.0,10.0,10.0,0.0,No effect
+40.0,3.0,Yes,Metal,120.0,Never,Never,Never,Never,Never,Never,Sometimes,Never,Sometimes,Never,Very frequently,Rarely,Rarely,Never,Sometimes,Never,3.0,0.0,8.0,1.0,No effect
+27.0,1.0,No,Hip hop,,Sometimes,Never,Rarely,Never,Never,Very frequently,Rarely,Never,Never,Rarely,Never,Sometimes,Very frequently,Very frequently,Never,Never,3.0,4.0,1.0,0.0,Improve
+54.0,10.0,Yes,Rock,,Sometimes,Sometimes,Never,Rarely,Never,Never,Rarely,Never,Never,Never,Rarely,Rarely,Sometimes,Never,Sometimes,Never,2.0,1.0,2.0,2.0,Improve
+16.0,10.0,No,Rock,105.0,Rarely,Very frequently,Never,Very frequently,Rarely,Rarely,Sometimes,Never,Never,Never,Very frequently,Sometimes,Rarely,Rarely,Very frequently,Never,0.0,0.0,0.0,0.0,No effect
+23.0,10.0,Yes,Video game music,119.0,Rarely,Never,Sometimes,Sometimes,Never,Rarely,Never,Sometimes,Never,Sometimes,Rarely,Sometimes,Never,Rarely,Sometimes,Very frequently,8.0,8.0,5.0,0.0,Improve
+35.0,4.0,No,Country,,Never,Very frequently,Never,Rarely,Never,Never,Never,Never,Never,Never,Sometimes,Sometimes,Never,Never,Sometimes,Rarely,1.0,1.0,1.0,0.0,No effect
+22.0,4.0,Yes,Folk,137.0,Rarely,Sometimes,Very frequently,Very frequently,Never,Sometimes,Sometimes,Never,Rarely,Sometimes,Very frequently,Very frequently,Sometimes,Sometimes,Very frequently,Sometimes,8.0,7.0,6.0,2.0,Improve
+41.0,3.0,No,Metal,178.0,Very frequently,Rarely,Never,Rarely,Never,Never,Never,Sometimes,Never,Never,Very frequently,Rarely,Never,Rarely,Sometimes,Very frequently,6.0,5.0,4.0,0.0,No effect
+63.0,2.0,Yes,Rock,133.0,Very frequently,Sometimes,Rarely,Very frequently,Never,Rarely,Sometimes,Never,Rarely,Never,Never,Never,Rarely,Never,Very frequently,Never,5.0,4.0,6.0,2.0,Improve
+28.0,1.0,No,Rock,72.0,Rarely,Rarely,Never,Rarely,Never,Rarely,Never,Never,Never,Sometimes,Rarely,Sometimes,Never,Rarely,Sometimes,Never,3.0,1.0,0.0,2.0,No effect
+22.0,6.0,Yes,Country,,Rarely,Very frequently,Sometimes,Very frequently,Rarely,Sometimes,Sometimes,Never,Rarely,Sometimes,Sometimes,Sometimes,Rarely,Sometimes,Very frequently,Sometimes,4.0,8.0,2.0,2.0,Improve
+58.0,1.0,Yes,Rock,133.0,Rarely,Sometimes,Rarely,Sometimes,Sometimes,Sometimes,Sometimes,Never,Rarely,Rarely,Sometimes,Rarely,Sometimes,Sometimes,Sometimes,Never,5.0,6.0,3.0,1.0,Improve
+58.0,1.0,Yes,Classical,80.0,Sometimes,Rarely,Never,Rarely,Sometimes,Rarely,Sometimes,Rarely,Rarely,Never,Never,Rarely,Never,Never,Never,Never,0.0,0.0,2.0,1.0,Improve
+67.0,4.0,Yes,Rock,146.0,Never,Sometimes,Never,Never,Never,Never,Sometimes,Never,Never,Never,Rarely,Never,Rarely,Never,Very frequently,Never,7.0,6.0,7.0,4.0,Improve
+70.0,2.0,Yes,Country,88.0,Sometimes,Very frequently,Never,Never,Never,Never,Never,Never,Never,Never,Never,Never,Never,Never,Never,Never,8.0,5.0,6.0,1.0,Improve
+60.0,2.0,Yes,Rock,132.0,Sometimes,Sometimes,Never,Sometimes,Rarely,Never,Rarely,Never,Rarely,Never,Rarely,Sometimes,Sometimes,Rarely,Very frequently,Rarely,4.0,4.0,2.0,0.0,Improve
+15.0,2.0,Yes,Pop,102.0,Rarely,Rarely,Sometimes,Never,Sometimes,Rarely,Sometimes,Sometimes,Never,Never,Never,Very frequently,Sometimes,Never,Sometimes,Very frequently,9.0,8.0,10.0,9.0,Improve
+18.0,6.0,Yes,EDM,91.0,Very frequently,Rarely,Very frequently,Rarely,Sometimes,Very frequently,Sometimes,Never,Sometimes,Very frequently,Sometimes,Very frequently,Very frequently,Very frequently,Sometimes,Very frequently,5.0,5.0,7.0,0.0,Improve
+58.0,3.0,Yes,Hip hop,127.0,Sometimes,Never,Sometimes,Rarely,Sometimes,Very frequently,Very frequently,Never,Sometimes,Very frequently,Never,Rarely,Very frequently,Sometimes,Sometimes,Never,4.0,6.0,8.0,1.0,Improve
+28.0,1.0,Yes,Lofi,82.0,Sometimes,Rarely,Rarely,Rarely,Rarely,Sometimes,Sometimes,Rarely,Sometimes,Very frequently,Rarely,Sometimes,Sometimes,Rarely,Sometimes,Sometimes,4.0,8.0,5.0,0.0,Improve
+22.0,4.0,Yes,Lofi,141.0,Rarely,Rarely,Never,Sometimes,Never,Rarely,Sometimes,Never,Never,Very frequently,Rarely,Sometimes,Rarely,Rarely,Very frequently,Never,9.0,10.0,6.0,7.0,Improve
+49.0,0.5,No,Classical,114.0,Very frequently,Sometimes,Rarely,Sometimes,Very frequently,Sometimes,Sometimes,Rarely,Rarely,Never,Rarely,Sometimes,Sometimes,Sometimes,Rarely,Rarely,3.0,2.0,2.0,2.0,Improve
+20.0,8.0,Yes,Rock,148.0,Never,Rarely,Rarely,Sometimes,Never,Never,Rarely,Never,Never,Rarely,Sometimes,Rarely,Sometimes,Never,Very frequently,Sometimes,6.0,2.0,2.0,1.0,Improve
+55.0,15.0,Yes,Rock,156.0,Rarely,Never,Never,Very frequently,Never,Never,Sometimes,Never,Rarely,Never,Never,Rarely,Never,Never,Very frequently,Never,2.0,0.0,3.0,0.0,No effect
+48.0,1.5,Yes,Metal,185.0,Rarely,Never,Rarely,Never,Never,Never,Rarely,Never,Never,Never,Sometimes,Never,Rarely,Never,Rarely,Rarely,10.0,8.0,0.0,4.0,Improve
+14.0,2.0,Yes,K pop,114.0,Sometimes,Never,Rarely,Never,Never,Sometimes,Sometimes,Very frequently,Never,Sometimes,Never,Rarely,Rarely,Rarely,Never,Rarely,4.0,4.0,2.0,2.0,Improve
+18.0,3.0,Yes,Pop,120.0,Sometimes,Never,Sometimes,Rarely,Never,Very frequently,Sometimes,Very frequently,Very frequently,Sometimes,Rarely,Very frequently,Very frequently,Very frequently,Sometimes,Sometimes,7.0,8.0,6.0,2.0,Improve
+25.0,1.0,Yes,Pop,80.0,Very frequently,Rarely,Rarely,Rarely,Never,Sometimes,Sometimes,Never,Never,Rarely,Very frequently,Very frequently,Rarely,Sometimes,Sometimes,Sometimes,7.0,6.0,5.0,5.0,Improve
+71.0,0.25,Yes,Gospel,,Sometimes,Rarely,Never,Rarely,Sometimes,Never,Never,Never,Sometimes,Never,Never,Rarely,Rarely,Never,Rarely,Never,1.0,0.0,0.0,0.0,Improve
+60.0,1.0,No,Gospel,,Sometimes,Rarely,Never,Never,Very frequently,Rarely,Never,Never,Never,Never,Never,Never,Never,Rarely,Rarely,Never,6.0,2.0,8.0,0.0,Improve
+18.0,1.0,Yes,Video game music,116.0,Rarely,Rarely,Sometimes,Sometimes,Never,Rarely,Sometimes,Never,Never,Never,Sometimes,Never,Rarely,Sometimes,Sometimes,Very frequently,4.0,5.0,7.0,0.0,No effect
+19.0,5.0,Yes,Hip hop,99.0,Rarely,Very frequently,Sometimes,Rarely,Rarely,Very frequently,Never,Rarely,Very frequently,Never,Rarely,Sometimes,Sometimes,Very frequently,Rarely,Sometimes,10.0,7.0,0.0,0.0,Improve
+74.0,1.0,No,Pop,129.0,Rarely,Very frequently,Never,Sometimes,Sometimes,Never,Rarely,Never,Sometimes,Never,Never,Very frequently,Sometimes,Never,Sometimes,Never,4.0,2.0,1.0,0.0,Improve
+36.0,1.0,Yes,Hip hop,131.0,Sometimes,Never,Never,Never,Never,Very frequently,Never,Never,Never,Never,Never,Very frequently,Sometimes,Sometimes,Sometimes,Never,7.0,6.0,2.0,3.0,Improve
+14.0,7.0,Yes,Lofi,95.0,Never,Never,Never,Never,Never,Sometimes,Never,Never,Never,Very frequently,Never,Very frequently,Never,Sometimes,Never,Rarely,3.0,2.0,8.0,0.0,Improve
+20.0,3.0,No,Hip hop,80.0,Very frequently,Rarely,Rarely,Sometimes,Never,Very frequently,Sometimes,Never,Sometimes,Rarely,Rarely,Sometimes,Sometimes,Very frequently,Very frequently,Rarely,10.0,7.0,4.0,3.0,Improve
+15.0,3.0,Yes,K pop,204.0,Rarely,Never,Rarely,Never,Never,Very frequently,Sometimes,Very frequently,Never,Never,Never,Rarely,Sometimes,Very frequently,Sometimes,Very frequently,4.0,0.0,0.0,0.0,No effect
+19.0,7.0,Yes,Rock,128.0,Sometimes,Rarely,Never,Rarely,Never,Never,Sometimes,Never,Never,Never,Rarely,Never,Never,Never,Very frequently,Sometimes,7.0,7.0,0.0,0.0,Improve
+29.0,8.0,Yes,EDM,140.0,Rarely,Sometimes,Very frequently,Sometimes,Never,Sometimes,Rarely,Never,Never,Rarely,Sometimes,Never,Never,Very frequently,Very frequently,Very frequently,6.0,7.0,4.0,1.0,Improve
+24.0,2.0,Yes,Metal,159.0,Never,Rarely,Very frequently,Sometimes,Very frequently,Never,Never,Never,Never,Rarely,Very frequently,Rarely,Never,Never,Sometimes,Rarely,7.0,6.0,2.0,7.0,Improve
+18.0,2.0,Yes,Pop,104.0,Rarely,Rarely,Rarely,Rarely,Rarely,Very frequently,Rarely,Rarely,Sometimes,Rarely,Sometimes,Very frequently,Very frequently,Very frequently,Very frequently,Never,6.0,5.0,8.0,0.0,Improve
+21.0,2.0,Yes,Rock,97.0,Sometimes,Never,Never,Sometimes,Never,Rarely,Rarely,Rarely,Never,Rarely,Never,Very frequently,Rarely,Rarely,Very frequently,Rarely,10.0,10.0,2.0,3.0,Improve
+19.0,2.0,Yes,K pop,80.0,Rarely,Never,Rarely,Never,Never,Sometimes,Sometimes,Very frequently,Never,Sometimes,Never,Sometimes,Very frequently,Rarely,Sometimes,Sometimes,7.0,6.0,5.0,1.0,Improve
+25.0,4.0,No,Video game music,134.0,Sometimes,Never,Never,Rarely,Rarely,Never,Never,Rarely,Very frequently,Never,Never,Very frequently,Sometimes,Never,Never,Very frequently,3.0,0.0,0.0,0.0,Improve
+28.0,8.0,Yes,Rock,,Rarely,Rarely,Rarely,Sometimes,Rarely,Sometimes,Sometimes,Rarely,Rarely,Very frequently,Rarely,Very frequently,Sometimes,Sometimes,Very frequently,Sometimes,8.0,2.0,1.0,0.0,No effect
+27.0,4.0,Yes,Rap,135.0,Rarely,Never,Never,Never,Never,Sometimes,Rarely,Sometimes,Never,Sometimes,Never,Rarely,Never,Very frequently,Rarely,Rarely,7.0,6.0,6.0,5.0,Improve
+60.0,1.0,No,Rock,129.0,Sometimes,Rarely,Never,Sometimes,Never,Never,Sometimes,Never,Never,Never,Never,Rarely,Rarely,Never,Sometimes,Never,3.0,2.0,5.0,0.0,No effect
+25.0,5.0,No,Metal,,Rarely,Rarely,Never,Rarely,Never,Never,Never,Never,Never,Never,Very frequently,Sometimes,Never,Never,Sometimes,Rarely,8.0,2.0,1.0,0.0,Improve
+60.0,2.0,Yes,Rock,,Rarely,Sometimes,Never,Never,Never,Never,Never,Never,Never,Never,Sometimes,Rarely,Sometimes,Never,Very frequently,Never,7.0,7.0,2.0,4.0,Improve
+43.0,1.0,No,Country,110.0,Never,Very frequently,Never,Never,Never,Rarely,Never,Never,Never,Never,Never,Sometimes,Never,Never,Rarely,Never,5.0,1.0,1.0,1.0,Improve
+51.0,5.0,Yes,Rock,180.0,Sometimes,Rarely,Never,Sometimes,Never,Never,Rarely,Never,Never,Never,Sometimes,Rarely,Rarely,Never,Very frequently,Rarely,1.0,2.0,1.0,0.0,No effect
+63.0,8.0,Yes,Rock,70.0,Sometimes,Sometimes,Rarely,Rarely,Never,Never,Rarely,Never,Rarely,Rarely,Never,Sometimes,Rarely,Never,Sometimes,Never,2.0,1.0,2.0,2.0,Improve
+64.0,2.0,Yes,Classical,,Very frequently,Never,Rarely,Very frequently,Never,Rarely,Rarely,Never,Rarely,Rarely,Never,Very frequently,Rarely,Never,Rarely,Never,5.0,2.0,4.0,0.0,Improve
+22.0,2.0,Yes,Pop,,Sometimes,Rarely,Sometimes,Sometimes,Rarely,Sometimes,Never,Rarely,Never,Very frequently,Rarely,Very frequently,Rarely,Sometimes,Sometimes,Rarely,7.0,2.0,1.0,0.0,Improve
+24.0,1.0,Yes,Folk,103.0,Sometimes,Never,Very frequently,Very frequently,Rarely,Sometimes,Sometimes,Rarely,Rarely,Very frequently,Rarely,Sometimes,Rarely,Sometimes,Very frequently,Very frequently,10.0,10.0,7.0,8.0,Improve
+19.0,8.0,Yes,Pop,99.0,Rarely,Sometimes,Sometimes,Very frequently,Never,Very frequently,Never,Very frequently,Sometimes,Rarely,Rarely,Very frequently,Sometimes,Very frequently,Very frequently,Rarely,7.0,2.0,1.0,6.0,Improve
+56.0,8.0,Yes,Pop,117.0,Sometimes,Rarely,Rarely,Sometimes,Never,Sometimes,Sometimes,Rarely,Rarely,Rarely,Sometimes,Sometimes,Sometimes,Sometimes,Sometimes,Never,6.0,4.0,1.0,0.0,Improve
+20.0,1.0,No,EDM,102.0,Rarely,Never,Very frequently,Never,Never,Sometimes,Never,Rarely,Rarely,Very frequently,Rarely,Very frequently,Never,Never,Never,Never,5.0,9.0,6.0,1.0,Improve
+19.0,1.0,Yes,Video game music,127.0,Very frequently,Never,Never,Rarely,Rarely,Sometimes,Sometimes,Rarely,Rarely,Very frequently,Never,Sometimes,Sometimes,Rarely,Rarely,Very frequently,7.0,5.0,7.0,0.0,Improve
+20.0,8.0,Yes,Jazz,93.0,Rarely,Sometimes,Rarely,Very frequently,Never,Sometimes,Very frequently,Rarely,Sometimes,Very frequently,Never,Sometimes,Rarely,Sometimes,Sometimes,Rarely,7.0,6.0,7.0,4.0,Improve
+60.0,2.0,Yes,Rock,,Rarely,Rarely,Never,Rarely,Rarely,Never,Rarely,Never,Never,Never,Rarely,Sometimes,Sometimes,Never,Very frequently,Never,0.0,0.0,0.0,0.0,Improve
+65.0,6.0,Yes,R&B,146.0,Rarely,Rarely,Never,Rarely,Rarely,Rarely,Rarely,Rarely,Sometimes,Never,Never,Sometimes,Very frequently,Never,Sometimes,Never,3.0,5.0,0.0,2.0,No effect
+28.0,3.0,No,Metal,0.0,Very frequently,Never,Rarely,Sometimes,Rarely,Rarely,Very frequently,Rarely,Sometimes,Very frequently,Very frequently,Rarely,Sometimes,Never,Very frequently,Very frequently,8.0,8.0,5.0,2.0,Improve
+18.0,4.0,Yes,EDM,150.0,Very frequently,Never,Very frequently,Never,Never,Never,Rarely,Never,Never,Rarely,Never,Sometimes,Never,Rarely,Rarely,Sometimes,8.0,7.0,10.0,6.0,Improve
+42.0,2.0,Yes,Rock,85.0,Rarely,Never,Never,Never,Never,Rarely,Never,Never,Never,Never,Never,Sometimes,Rarely,Rarely,Sometimes,Rarely,2.0,4.0,5.0,2.0,Improve
+80.0,3.0,Yes,Classical,122.0,Very frequently,Rarely,Never,Rarely,Never,Never,Rarely,Rarely,Never,Rarely,Rarely,Sometimes,Never,Never,Never,Sometimes,7.0,3.0,9.0,2.0,Improve
+22.0,4.0,No,Pop,,Rarely,Sometimes,Very frequently,Sometimes,Never,Rarely,Never,Never,Never,Never,Rarely,Very frequently,Very frequently,Rarely,Sometimes,Never,8.0,7.0,4.0,4.0,Improve
+56.0,2.0,No,Jazz,120.0,Sometimes,Never,Sometimes,Sometimes,Rarely,Never,Very frequently,Never,Rarely,Rarely,Rarely,Sometimes,Rarely,Never,Sometimes,Rarely,0.0,0.0,0.0,5.0,No effect
+20.0,1.0,Yes,Pop,120.0,Never,Never,Sometimes,Never,Never,Rarely,Sometimes,Very frequently,Rarely,Rarely,Never,Very frequently,Sometimes,Rarely,Rarely,Never,8.0,6.0,9.0,8.0,Improve
+15.0,1.0,Yes,Video game music,150.0,Never,Rarely,Sometimes,Never,Never,Sometimes,Rarely,Never,Never,Very frequently,Sometimes,Sometimes,Rarely,Rarely,Very frequently,Very frequently,4.0,2.0,3.0,2.0,Improve
+67.0,1.0,No,Rock,,Sometimes,Sometimes,Never,Sometimes,Sometimes,Sometimes,Sometimes,Never,Sometimes,Never,Sometimes,Sometimes,Sometimes,Sometimes,Sometimes,Never,3.0,2.0,2.0,2.0,
+57.0,2.0,Yes,Gospel,174.0,Sometimes,Never,Never,Rarely,Very frequently,Never,Sometimes,Never,Rarely,Never,Never,Sometimes,Sometimes,Never,Rarely,Never,6.0,4.0,10.0,0.0,Improve
+22.0,7.0,Yes,Pop,112.0,Never,Never,Sometimes,Rarely,Never,Very frequently,Never,Very frequently,Sometimes,Never,Never,Very frequently,Very frequently,Very frequently,Sometimes,Rarely,8.0,8.0,10.0,0.0,Improve
+17.0,5.0,Yes,Pop,180.0,Never,Never,Sometimes,Never,Never,Sometimes,Never,Very frequently,Rarely,Rarely,Never,Very frequently,Very frequently,Sometimes,Rarely,Rarely,5.0,5.0,5.0,5.0,Improve
+19.0,3.0,Yes,Rock,121.0,Never,Very frequently,Never,Rarely,Sometimes,Never,Never,Never,Never,Never,Rarely,Very frequently,Never,Sometimes,Very frequently,Sometimes,10.0,8.0,6.0,2.0,No effect
+50.0,1.0,No,Rock,98.0,Sometimes,Sometimes,Never,Never,Never,Very frequently,Sometimes,Rarely,Rarely,Never,Rarely,Very frequently,Sometimes,Sometimes,Very frequently,Never,0.0,0.0,7.0,0.0,Improve
+24.0,6.0,Yes,Rock,118.0,Never,Rarely,Sometimes,Very frequently,Never,Rarely,Rarely,Sometimes,Never,Rarely,Very frequently,Sometimes,Never,Rarely,Very frequently,Sometimes,8.0,8.0,10.0,0.0,Improve
+67.0,2.0,No,Rock,,Sometimes,Never,Never,Never,Never,Rarely,Never,Never,Never,Never,Sometimes,Sometimes,Never,Never,Sometimes,Never,8.0,2.0,0.0,0.0,No effect
+18.0,3.0,Yes,Metal,135.0,Sometimes,Sometimes,Never,Rarely,Rarely,Rarely,Never,Never,Never,Never,Very frequently,Never,Rarely,Rarely,Rarely,Never,7.0,8.0,4.0,10.0,Improve
+20.0,1.5,Yes,Country,,Rarely,Very frequently,Sometimes,Never,Never,Sometimes,Sometimes,Sometimes,Rarely,Never,Never,Sometimes,Never,Sometimes,Sometimes,Never,0.0,2.0,0.0,1.0,Improve
+15.0,4.0,Yes,Pop,105.0,Never,Rarely,Never,Never,Sometimes,Rarely,Rarely,Rarely,Rarely,Sometimes,Rarely,Very frequently,Sometimes,Sometimes,Very frequently,Sometimes,3.0,5.0,4.0,0.0,Improve
+17.0,2.0,Yes,Pop,122.0,Rarely,Never,Never,Rarely,Never,Sometimes,Never,Very frequently,Rarely,Never,Never,Very frequently,Never,Sometimes,Never,Never,5.0,2.0,3.0,1.0,Improve
+32.0,2.0,Yes,Folk,,Never,Never,Sometimes,Sometimes,Never,Sometimes,Sometimes,Never,Rarely,Sometimes,Never,Sometimes,Sometimes,Sometimes,Sometimes,Sometimes,6.0,1.0,0.0,0.0,Improve
+18.0,2.0,No,Rap,136.0,Rarely,Never,Never,Never,Never,Very frequently,Rarely,Never,Never,Never,Rarely,Sometimes,Rarely,Very frequently,Rarely,Very frequently,6.0,3.0,4.0,2.0,Improve
+18.0,1.0,Yes,Rock,165.0,Sometimes,Never,Sometimes,Never,Never,Rarely,Rarely,Never,Never,Rarely,Very frequently,Sometimes,Never,Rarely,Very frequently,Rarely,5.0,6.0,8.0,2.0,Improve
+18.0,3.0,Yes,K pop,130.0,Sometimes,Never,Never,Never,Never,Sometimes,Never,Very frequently,Never,Rarely,Never,Sometimes,Very frequently,Rarely,Sometimes,Rarely,8.0,4.0,7.0,5.0,Improve
+19.0,3.0,Yes,Pop,,Never,Never,Very frequently,Never,Never,Very frequently,Rarely,Rarely,Rarely,Rarely,Rarely,Very frequently,Sometimes,Very frequently,Rarely,Sometimes,1.0,1.0,2.0,3.0,Improve
+18.0,2.0,No,Rock,115.0,Never,Never,Never,Never,Never,Rarely,Never,Never,Never,Never,Sometimes,Sometimes,Rarely,Rarely,Very frequently,Never,8.0,3.0,1.0,3.0,Improve
+17.0,6.0,Yes,Rap,140.0,Rarely,Never,Rarely,Never,Sometimes,Very frequently,Sometimes,Never,Never,Sometimes,Never,Sometimes,Sometimes,Very frequently,Rarely,Never,3.0,3.0,0.0,0.0,Improve
+34.0,3.0,Yes,Classical,95.0,Very frequently,Never,Never,Never,Never,Never,Rarely,Never,Never,Rarely,Sometimes,Rarely,Never,Never,Sometimes,Sometimes,0.0,0.0,0.0,0.0,No effect
+18.0,3.0,Yes,Pop,150.0,Rarely,Rarely,Sometimes,Rarely,Never,Very frequently,Rarely,Rarely,Never,Rarely,Rarely,Very frequently,Rarely,Very frequently,Rarely,Sometimes,5.0,4.0,2.0,0.0,No effect
+18.0,2.0,Yes,R&B,97.0,Never,Never,Never,Never,Sometimes,Very frequently,Rarely,Never,Rarely,Rarely,Never,Sometimes,Very frequently,Very frequently,Rarely,Never,2.0,4.0,0.0,0.0,Improve
+22.0,2.0,Yes,Video game music,,Sometimes,Rarely,Rarely,Never,Very frequently,Rarely,Sometimes,Rarely,Rarely,Rarely,Never,Rarely,Never,Never,Never,Very frequently,4.0,6.0,0.0,2.0,Improve
+18.0,2.0,Yes,Pop,,Sometimes,Rarely,Sometimes,Never,Never,Rarely,Sometimes,Rarely,Never,Sometimes,Never,Very frequently,Rarely,Never,Sometimes,Sometimes,5.0,7.0,2.0,0.0,Improve
+19.0,3.0,Yes,Rock,122.0,Sometimes,Rarely,Rarely,Sometimes,Rarely,Sometimes,Rarely,Rarely,Rarely,Rarely,Rarely,Sometimes,Rarely,Sometimes,Very frequently,Never,4.0,0.0,7.0,0.0,No effect
+25.0,4.0,Yes,Pop,150.0,Rarely,Never,Sometimes,Never,Never,Very frequently,Never,Rarely,Rarely,Rarely,Sometimes,Very frequently,Rarely,Very frequently,Very frequently,Rarely,10.0,8.0,6.0,2.0,No effect
+17.0,2.0,Yes,R&B,,Very frequently,Rarely,Never,Rarely,Rarely,Rarely,Sometimes,Sometimes,Rarely,Sometimes,Rarely,Very frequently,Very frequently,Rarely,Sometimes,Never,3.0,3.0,1.0,0.0,Improve
+25.0,5.0,Yes,Rock,125.0,Sometimes,Sometimes,Rarely,Never,Never,Sometimes,Never,Rarely,Never,Rarely,Sometimes,Sometimes,Never,Sometimes,Very frequently,Sometimes,8.0,7.0,2.0,1.0,Improve
+18.0,2.0,Yes,R&B,96.0,Sometimes,Rarely,Never,Never,Never,Sometimes,Rarely,Never,Never,Very frequently,Rarely,Very frequently,Very frequently,Sometimes,Very frequently,Rarely,3.0,3.0,0.0,3.0,Improve
+21.0,1.0,,K pop,,Rarely,Rarely,Sometimes,Rarely,Never,Very frequently,Rarely,Very frequently,Rarely,Rarely,Sometimes,Very frequently,Sometimes,Sometimes,Very frequently,Rarely,4.0,5.0,2.0,5.0,
+24.0,7.0,Yes,Folk,137.0,Sometimes,Rarely,Rarely,Very frequently,Never,Rarely,Rarely,Never,Rarely,Sometimes,Rarely,Very frequently,Rarely,Rarely,Very frequently,Very frequently,10.0,10.0,8.0,10.0,Improve
+16.0,3.0,Yes,K pop,174.0,Rarely,Never,Sometimes,Never,Never,Rarely,Sometimes,Very frequently,Sometimes,Sometimes,Never,Very frequently,Rarely,Sometimes,Never,Never,10.0,2.0,7.0,8.0,Improve
+18.0,3.0,No,Metal,210.0,Never,Never,Never,Rarely,Never,Sometimes,Very frequently,Never,Rarely,Never,Very frequently,Rarely,Sometimes,Sometimes,Sometimes,Rarely,9.0,6.0,8.0,5.0,Improve
+18.0,4.0,Yes,R&B,129.0,Rarely,Rarely,Rarely,Never,Never,Very frequently,Sometimes,Never,Never,Rarely,Never,Very frequently,Very frequently,Very frequently,Very frequently,Rarely,6.0,4.0,1.0,6.0,Improve
+16.0,3.0,Yes,Pop,112.0,Very frequently,Never,Never,Never,Never,Rarely,Rarely,Never,Never,Never,Never,Very frequently,Very frequently,Never,Sometimes,Never,3.0,4.0,6.0,8.0,Improve
+68.0,1.0,Yes,Gospel,8.0,Very frequently,Never,Never,Sometimes,Very frequently,Never,Never,Never,Sometimes,Never,Never,Never,Never,Never,Never,Never,10.0,10.0,10.0,0.0,Improve
+16.0,7.0,Yes,Video game music,999999999.0,Never,Rarely,Sometimes,Rarely,Never,Rarely,Rarely,Never,Never,Never,Very frequently,Sometimes,Never,Very frequently,Rarely,Sometimes,4.0,8.0,8.0,4.0,No effect
+21.0,1.0,No,R&B,81.0,Never,Never,Never,Never,Rarely,Very frequently,Never,Never,Never,Never,Never,Very frequently,Very frequently,Sometimes,Never,Never,3.0,0.0,0.0,0.0,Improve
+53.0,4.0,Yes,R&B,153.0,Rarely,Sometimes,Rarely,Rarely,Rarely,Very frequently,Rarely,Sometimes,Rarely,Never,Sometimes,Rarely,Sometimes,Sometimes,Sometimes,Rarely,1.0,0.0,0.0,0.0,Improve
+29.0,4.0,Yes,Classical,120.0,Very frequently,Never,Very frequently,Never,Never,Never,Sometimes,Never,Rarely,Rarely,Never,Sometimes,Never,Never,Rarely,Rarely,5.0,6.0,7.0,7.0,No effect
+18.0,3.0,Yes,Video game music,89.0,Sometimes,Never,Never,Never,Never,Never,Sometimes,Rarely,Never,Very frequently,Never,Rarely,Sometimes,Never,Never,Very frequently,7.0,0.0,3.0,1.0,No effect
+29.0,2.0,Yes,Pop,,Never,Never,Rarely,Rarely,Never,Very frequently,Never,Never,Never,Sometimes,Rarely,Very frequently,Never,Very frequently,Never,Very frequently,10.0,8.0,8.0,9.0,Improve
+18.0,4.0,Yes,R&B,169.0,Rarely,Sometimes,Very frequently,Never,Rarely,Very frequently,Rarely,Sometimes,Sometimes,Sometimes,Rarely,Sometimes,Very frequently,Sometimes,Rarely,Sometimes,3.0,0.0,3.0,4.0,Improve
+22.0,5.0,Yes,EDM,138.0,Never,Never,Very frequently,Never,Never,Very frequently,Never,Never,Never,Very frequently,Never,Very frequently,Very frequently,Very frequently,Very frequently,Sometimes,1.0,0.0,0.0,1.0,No effect
+19.0,6.0,Yes,Pop,124.0,Sometimes,Rarely,Rarely,Rarely,Very frequently,Sometimes,Rarely,Sometimes,Very frequently,Rarely,Rarely,Very frequently,Sometimes,Sometimes,Sometimes,Sometimes,6.0,6.0,0.0,0.0,Improve
+13.0,1.0,Yes,Video game music,,Never,Never,Sometimes,Never,Never,Rarely,Sometimes,Never,Never,Sometimes,Rarely,Rarely,Rarely,Never,Sometimes,Very frequently,4.0,3.0,4.0,0.0,Improve
+26.0,1.0,No,Pop,192.0,Never,Rarely,Sometimes,Sometimes,Never,Rarely,Rarely,Sometimes,Sometimes,Very frequently,Never,Very frequently,Rarely,Rarely,Sometimes,Never,6.0,4.0,0.0,0.0,Improve
+14.0,3.0,Yes,Rock,76.0,Never,Never,Never,Never,Never,Sometimes,Rarely,Never,Never,Never,Rarely,Sometimes,Never,Never,Very frequently,Sometimes,2.0,6.0,3.0,0.0,Worsen
+27.0,1.0,Yes,Pop,119.0,Rarely,Rarely,Rarely,Never,Rarely,Sometimes,Rarely,Very frequently,Never,Sometimes,Never,Very frequently,Sometimes,Sometimes,Sometimes,Very frequently,8.0,3.0,3.0,3.0,Improve
+26.0,8.0,No,Rock,172.0,Never,Sometimes,Sometimes,Very frequently,Never,Very frequently,Rarely,Very frequently,Never,Never,Sometimes,Sometimes,Very frequently,Very frequently,Very frequently,Very frequently,8.0,10.0,7.0,3.0,No effect
+59.0,1.0,No,Rock,79.0,Rarely,Never,Never,Rarely,Sometimes,Never,Rarely,Never,Rarely,Never,Never,Rarely,Rarely,Never,Very frequently,Never,1.0,0.0,0.0,1.0,Improve
+30.0,8.0,Yes,Rock,112.0,Sometimes,Sometimes,Never,Rarely,Never,Sometimes,Sometimes,Never,Sometimes,Sometimes,Rarely,Sometimes,Sometimes,Sometimes,Very frequently,Never,8.0,6.0,6.0,8.0,Improve
+27.0,1.0,Yes,Pop,130.0,Never,Rarely,Sometimes,Never,Never,Sometimes,Never,Rarely,Sometimes,Never,Never,Very frequently,Sometimes,Sometimes,Sometimes,Never,6.0,3.0,1.0,7.0,Improve
+18.0,1.0,No,Rap,116.0,Rarely,Never,Never,Never,Never,Sometimes,Never,Never,Rarely,Sometimes,Never,Sometimes,Never,Very frequently,Never,Sometimes,2.0,0.0,3.0,0.0,Improve
+23.0,10.0,Yes,Metal,165.0,Never,Never,Never,Never,Never,Never,Never,Never,Never,Never,Very frequently,Never,Never,Never,Sometimes,Never,0.0,0.0,0.0,0.0,No effect
+18.0,10.0,Yes,Rock,110.0,Sometimes,Sometimes,Sometimes,Sometimes,Rarely,Sometimes,Sometimes,Sometimes,Rarely,Rarely,Very frequently,Very frequently,Sometimes,Sometimes,Very frequently,Never,10.0,10.0,6.0,6.0,Improve
+40.0,5.0,Yes,Rock,174.0,Sometimes,Sometimes,Sometimes,Sometimes,Never,Very frequently,Rarely,Rarely,Sometimes,Rarely,Sometimes,Very frequently,Sometimes,Very frequently,Very frequently,Rarely,3.0,0.0,0.0,1.0,Improve
+24.0,10.0,Yes,Rock,180.0,Sometimes,Never,Never,Rarely,Never,Never,Never,Never,Never,Rarely,Sometimes,Sometimes,Never,Never,Very frequently,Sometimes,7.0,9.0,10.0,0.0,Improve
+23.0,2.0,Yes,Classical,171.0,Very frequently,Never,Rarely,Rarely,Never,Never,Sometimes,Never,Rarely,Sometimes,Never,Very frequently,Rarely,Never,Very frequently,Never,8.0,7.0,6.0,2.0,Improve
+56.0,6.0,Yes,R&B,,Never,Never,Never,Never,Never,Sometimes,Rarely,Never,Never,Never,Never,Never,Sometimes,Never,Never,Never,2.0,0.0,10.0,10.0,Improve
+29.0,2.0,Yes,R&B,70.0,Rarely,Never,Very frequently,Never,Never,Very frequently,Rarely,Rarely,Sometimes,Sometimes,Never,Very frequently,Very frequently,Rarely,Never,Sometimes,10.0,7.0,9.0,3.0,No effect
+16.0,3.0,Yes,Pop,120.0,Never,Never,Never,Never,Never,Very frequently,Never,Very frequently,Never,Never,Never,Very frequently,Sometimes,Never,Never,Never,6.0,0.0,0.0,0.0,Improve
+18.0,8.0,Yes,Gospel,56.0,Rarely,Never,Rarely,Never,Very frequently,Sometimes,Sometimes,Never,Sometimes,Very frequently,Never,Sometimes,Very frequently,Sometimes,Never,Sometimes,3.0,0.0,2.0,2.0,Improve
+21.0,8.0,Yes,Lofi,162.0,Very frequently,Very frequently,Very frequently,Very frequently,Very frequently,Very frequently,Very frequently,Very frequently,Very frequently,Very frequently,Very frequently,Very frequently,Very frequently,Very frequently,Very frequently,Very frequently,6.0,5.0,9.0,8.0,Improve
+32.0,8.0,Yes,Rock,101.0,Never,Never,Never,Rarely,Never,Sometimes,Never,Never,Never,Never,Sometimes,Rarely,Rarely,Sometimes,Very frequently,Sometimes,7.0,6.0,5.0,8.0,Improve
+22.0,8.0,Yes,Metal,110.0,Sometimes,Never,Sometimes,Rarely,Rarely,Rarely,Sometimes,Never,Never,Never,Very frequently,Rarely,Rarely,Never,Very frequently,Very frequently,10.0,7.0,8.0,6.0,Improve
+17.0,12.0,Yes,Latin,172.0,Very frequently,Never,Rarely,Rarely,Sometimes,Very frequently,Never,Rarely,Very frequently,Rarely,Sometimes,Rarely,Never,Very frequently,Very frequently,Sometimes,0.0,3.0,9.0,5.0,No effect
+18.0,6.0,Yes,EDM,90.0,Rarely,Never,Very frequently,Never,Never,Sometimes,Rarely,Very frequently,Very frequently,Very frequently,Never,Very frequently,Very frequently,Very frequently,Rarely,Sometimes,0.0,2.0,1.0,5.0,Improve
+18.0,4.0,Yes,R&B,135.0,Sometimes,Rarely,Sometimes,Never,Sometimes,Sometimes,Never,Very frequently,Very frequently,Rarely,Never,Sometimes,Very frequently,Very frequently,Never,Rarely,2.0,0.0,0.0,0.0,No effect
+24.0,8.0,Yes,Jazz,81.0,Very frequently,Never,Rarely,Never,Never,Very frequently,Very frequently,Never,Rarely,Very frequently,Never,Rarely,Sometimes,Sometimes,Very frequently,Rarely,2.0,2.0,4.0,0.0,No effect
+21.0,2.0,No,Pop,170.0,Rarely,Never,Never,Never,Rarely,Sometimes,Never,Never,Never,Sometimes,Sometimes,Very frequently,Sometimes,Sometimes,Very frequently,Sometimes,5.0,6.0,3.0,4.0,No effect
+46.0,1.0,No,Rock,120.0,Never,Sometimes,Never,Never,Never,Never,Never,Never,Never,Never,Never,Sometimes,Never,Never,Sometimes,Never,0.0,0.0,1.0,0.0,No effect
+18.0,2.0,Yes,Hip hop,90.0,Never,Never,Never,Never,Sometimes,Very frequently,Never,Never,Never,Sometimes,Never,Sometimes,Very frequently,Very frequently,Never,Never,5.0,4.0,3.0,7.0,Improve
+16.0,3.0,Yes,K pop,115.0,Rarely,Never,Rarely,Never,Never,Very frequently,Very frequently,Very frequently,Never,Sometimes,Never,Very frequently,Very frequently,Very frequently,Very frequently,Sometimes,2.0,7.0,0.0,0.0,Improve
+21.0,1.0,Yes,Video game music,,Very frequently,Very frequently,Rarely,Sometimes,Rarely,Sometimes,Sometimes,Never,Never,Very frequently,Rarely,Sometimes,Never,Sometimes,Sometimes,Very frequently,0.0,6.0,0.0,4.0,Improve
+19.0,0.0,No,Classical,,Very frequently,Rarely,Sometimes,Rarely,Rarely,Sometimes,Rarely,Rarely,Rarely,Rarely,Never,Rarely,Rarely,Rarely,Rarely,Rarely,0.0,0.0,0.0,0.0,Improve
+20.0,2.0,Yes,Rap,,Sometimes,Never,Rarely,Never,Never,Sometimes,Sometimes,Never,Never,Rarely,Never,Sometimes,Sometimes,Very frequently,Sometimes,Sometimes,7.0,5.0,1.0,3.0,Improve
+21.0,0.1,Yes,Folk,,Sometimes,Never,Never,Very frequently,Sometimes,Rarely,Never,Never,Never,Never,Never,Rarely,Never,Rarely,Sometimes,Never,7.0,5.0,3.0,1.0,No effect
+56.0,2.0,Yes,Rock,220.0,Rarely,Never,Never,Never,Never,Never,Never,Never,Never,Never,Very frequently,Never,Never,Rarely,Very frequently,Never,3.0,3.0,1.0,8.0,No effect
+21.0,12.0,Yes,Rock,160.0,Sometimes,Rarely,Very frequently,Rarely,Rarely,Sometimes,Sometimes,Rarely,Never,Sometimes,Very frequently,Sometimes,Rarely,Sometimes,Very frequently,Rarely,7.0,10.0,4.0,7.0,Worsen
+20.0,1.0,Yes,Pop,121.0,Rarely,Never,Never,Very frequently,Never,Rarely,Rarely,Rarely,Never,Sometimes,Rarely,Very frequently,Rarely,Rarely,Very frequently,Never,3.0,2.0,3.0,0.0,Improve
+21.0,1.0,Yes,Rock,105.0,Sometimes,Never,Rarely,Never,Never,Rarely,Rarely,Never,Never,Never,Rarely,Sometimes,Never,Never,Very frequently,Rarely,5.0,1.0,1.0,9.0,Improve
+25.0,3.0,Yes,Rock,110.0,Never,Rarely,Never,Sometimes,Never,Never,Never,Never,Never,Sometimes,Never,Rarely,Never,Never,Very frequently,Sometimes,8.0,9.0,4.0,10.0,Improve
+33.0,2.0,Yes,Metal,134.0,Rarely,Never,Never,Sometimes,Never,Sometimes,Rarely,Never,Never,Never,Very frequently,Sometimes,Sometimes,Sometimes,Very frequently,Sometimes,4.0,8.0,0.0,0.0,Improve
+20.0,2.0,Yes,Rock,148.0,Rarely,Rarely,Rarely,Rarely,Never,Sometimes,Sometimes,Rarely,Sometimes,Sometimes,Very frequently,Very frequently,Sometimes,Sometimes,Very frequently,Rarely,7.0,9.0,7.0,0.0,Improve
+17.0,3.0,Yes,Rock,120.0,Sometimes,Sometimes,Sometimes,Never,Never,Never,Never,Rarely,Never,Rarely,Very frequently,Very frequently,Never,Rarely,Very frequently,Never,1.0,5.0,6.0,4.0,No effect
+24.0,1.0,No,Jazz,122.0,Rarely,Never,Sometimes,Rarely,Never,Never,Sometimes,Rarely,Never,Rarely,Rarely,Sometimes,Rarely,Never,Sometimes,Very frequently,3.0,2.0,1.0,0.0,No effect
+26.0,3.0,Yes,Jazz,90.0,Rarely,Rarely,Rarely,Rarely,Never,Sometimes,Very frequently,Never,Sometimes,Rarely,Very frequently,Rarely,Sometimes,Rarely,Very frequently,Rarely,6.0,8.0,0.0,0.0,Improve
+17.0,3.0,Yes,Rock,122.0,Rarely,Rarely,Never,Rarely,Never,Rarely,Rarely,Never,Never,Rarely,Very frequently,Sometimes,Never,Sometimes,Very frequently,Very frequently,6.0,3.0,6.0,0.0,Improve
+16.0,5.0,Yes,Metal,129.0,Sometimes,Never,Never,Rarely,Never,Rarely,Sometimes,Never,Never,Rarely,Very frequently,Sometimes,Never,Sometimes,Very frequently,Sometimes,7.0,4.0,8.0,0.0,Improve
+27.0,8.0,Yes,Metal,132.0,Never,Never,Rarely,Never,Never,Sometimes,Never,Never,Never,Never,Very frequently,Very frequently,Very frequently,Rarely,Sometimes,Never,2.0,6.0,9.0,1.0,No effect
+28.0,4.0,Yes,Hip hop,178.0,Rarely,Sometimes,Sometimes,Rarely,Never,Very frequently,Never,Never,Very frequently,Sometimes,Rarely,Very frequently,Rarely,Very frequently,Sometimes,Rarely,8.0,5.0,3.0,8.0,Improve
+48.0,5.0,Yes,Rock,,Very frequently,Sometimes,Sometimes,Very frequently,Never,Sometimes,Rarely,Never,Rarely,Never,Rarely,Rarely,Rarely,Rarely,Very frequently,Rarely,3.0,3.0,0.0,0.0,Improve
+19.0,3.0,Yes,Rap,115.0,Never,Never,Rarely,Rarely,Never,Sometimes,Never,Rarely,Never,Very frequently,Sometimes,Very frequently,Sometimes,Very frequently,Sometimes,Sometimes,7.0,5.0,3.0,3.0,Improve
+21.0,4.0,Yes,Rock,137.0,Sometimes,Very frequently,Rarely,Very frequently,Never,Sometimes,Never,Never,Never,Rarely,Sometimes,Very frequently,Sometimes,Sometimes,Very frequently,Rarely,4.0,8.0,2.0,3.0,Improve
+21.0,1.0,Yes,Classical,92.0,Very frequently,Never,Never,Never,Never,Never,Never,Never,Never,Never,Never,Never,Never,Never,Never,Rarely,3.0,0.0,0.0,5.0,Improve
+15.0,4.0,Yes,Metal,140.0,Rarely,Never,Sometimes,Rarely,Never,Rarely,Never,Rarely,Never,Never,Very frequently,Sometimes,Sometimes,Sometimes,Very frequently,Rarely,10.0,7.0,3.0,2.0,Improve
+20.0,1.0,No,Rock,130.0,Sometimes,Sometimes,Rarely,Very frequently,Rarely,Rarely,Very frequently,Never,Never,Never,Never,Very frequently,Rarely,Rarely,Very frequently,Never,10.0,4.0,8.0,0.0,Improve
+21.0,2.0,Yes,Video game music,,Sometimes,Never,Rarely,Sometimes,Rarely,Never,Rarely,Never,Sometimes,Sometimes,Rarely,Very frequently,Sometimes,Never,Very frequently,Very frequently,2.0,2.0,0.0,0.0,Improve
+22.0,6.0,Yes,Folk,63.0,Never,Rarely,Sometimes,Very frequently,Never,Rarely,Rarely,Never,Sometimes,Sometimes,Never,Rarely,Rarely,Rarely,Very frequently,Sometimes,8.0,7.0,7.0,3.0,Improve
+22.0,2.0,No,Rock,119.0,Rarely,Never,Never,Never,Never,Rarely,Rarely,Rarely,Never,Never,Very frequently,Very frequently,Never,Never,Very frequently,Sometimes,10.0,5.0,2.0,8.0,Improve
+31.0,1.0,Yes,Rock,,Very frequently,Rarely,Sometimes,Rarely,Never,Rarely,Rarely,Rarely,Rarely,Sometimes,Sometimes,Sometimes,Never,Very frequently,Very frequently,Very frequently,9.0,10.0,10.0,6.0,No effect
+20.0,4.0,Yes,Metal,180.0,Rarely,Sometimes,Never,Never,Never,Never,Rarely,Never,Never,Never,Very frequently,Never,Never,Never,Very frequently,Sometimes,5.0,2.0,1.0,6.0,Improve
+49.0,8.0,Yes,Classical,68.0,Very frequently,Never,Never,Never,Never,Never,Rarely,Never,Never,Never,Rarely,Rarely,Never,Never,Rarely,Never,4.0,8.0,9.0,1.0,Improve
+42.0,2.0,Yes,Metal,85.0,Sometimes,Rarely,Never,Never,Rarely,Rarely,Never,Sometimes,Sometimes,Rarely,Very frequently,Very frequently,Sometimes,Never,Very frequently,Very frequently,7.0,8.0,5.0,3.0,Improve
+26.0,2.0,Yes,EDM,128.0,Rarely,Sometimes,Very frequently,Sometimes,Never,Sometimes,Rarely,Never,Sometimes,Rarely,Rarely,Sometimes,Rarely,Sometimes,Very frequently,Never,2.0,2.0,0.0,3.0,No effect
+17.0,10.0,Yes,K pop,150.0,Rarely,Sometimes,Rarely,Rarely,Never,Very frequently,Never,Very frequently,Rarely,Sometimes,Very frequently,Very frequently,Sometimes,Very frequently,Very frequently,Sometimes,10.0,3.0,0.0,4.0,Improve
+30.0,0.0,No,Metal,0.0,Rarely,Never,Rarely,Never,Never,Never,Never,Never,Never,Never,Sometimes,Never,Never,Rarely,Rarely,Rarely,10.0,10.0,10.0,9.0,Improve
+23.0,6.0,Yes,Folk,92.0,Sometimes,Sometimes,Rarely,Sometimes,Never,Sometimes,Sometimes,Sometimes,Rarely,Rarely,Rarely,Sometimes,Sometimes,Sometimes,Sometimes,Rarely,3.0,7.0,7.0,4.0,No effect
+30.0,3.0,Yes,EDM,121.0,Rarely,Never,Very frequently,Never,Rarely,Sometimes,Never,Very frequently,Never,Never,Rarely,Very frequently,Sometimes,Sometimes,Sometimes,Never,7.0,5.0,7.0,7.0,Improve
+31.0,2.0,Yes,Metal,155.0,Rarely,Sometimes,Never,Very frequently,Never,Rarely,Rarely,Never,Never,Never,Very frequently,Very frequently,Very frequently,Rarely,Very frequently,Sometimes,7.0,4.0,8.0,8.0,Improve
+42.0,0.25,No,Classical,150.0,Very frequently,Rarely,Never,Never,Never,Never,Sometimes,Never,Rarely,Never,Rarely,Sometimes,Rarely,Rarely,Sometimes,Never,7.0,9.0,4.0,5.0,Improve
+16.0,4.0,Yes,EDM,624.0,Sometimes,Never,Very frequently,Never,Never,Never,Never,Rarely,Never,Never,Never,Never,Never,Never,Never,Sometimes,4.0,7.0,1.0,3.0,Improve
+34.0,2.0,No,Metal,136.0,Sometimes,Rarely,Never,Sometimes,Never,Rarely,Rarely,Rarely,Rarely,Never,Very frequently,Sometimes,Rarely,Rarely,Very frequently,Never,5.0,9.0,9.0,6.0,Improve
+21.0,2.0,Yes,Pop,121.0,Sometimes,Never,Very frequently,Rarely,Never,Rarely,Rarely,Rarely,Sometimes,Rarely,Sometimes,Very frequently,Very frequently,Rarely,Sometimes,Sometimes,5.0,4.0,10.0,7.0,No effect
+27.0,3.0,Yes,Pop,113.0,Rarely,Rarely,Rarely,Rarely,Never,Very frequently,Rarely,Rarely,Rarely,Rarely,Rarely,Very frequently,Very frequently,Sometimes,Sometimes,Rarely,7.0,2.0,0.0,1.0,Improve
+18.0,6.0,Yes,Folk,80.0,Never,Very frequently,Very frequently,Very frequently,Sometimes,Sometimes,Rarely,Rarely,Rarely,Sometimes,Sometimes,Very frequently,Sometimes,Sometimes,Very frequently,Sometimes,8.0,6.0,0.0,2.0,Improve
+26.0,3.0,No,Metal,140.0,Rarely,Very frequently,Never,Very frequently,Rarely,Sometimes,Sometimes,Never,Never,Rarely,Very frequently,Rarely,Rarely,Sometimes,Very frequently,Rarely,1.0,3.0,10.0,0.0,No effect
+37.0,2.0,Yes,Rock,100.0,Never,Never,Never,Never,Never,Rarely,Never,Never,Never,Never,Sometimes,Sometimes,Rarely,Rarely,Sometimes,Never,8.0,10.0,10.0,2.0,Worsen
+26.0,5.0,Yes,Folk,92.0,Sometimes,Rarely,Rarely,Very frequently,Never,Very frequently,Very frequently,Never,Rarely,Rarely,Sometimes,Sometimes,Sometimes,Very frequently,Very frequently,Rarely,4.0,7.0,6.0,0.0,No effect
+19.0,4.0,No,Pop,120.0,Never,Never,Sometimes,Never,Never,Sometimes,Sometimes,Sometimes,Sometimes,Rarely,Never,Very frequently,Sometimes,Sometimes,Sometimes,Sometimes,9.0,6.0,3.0,0.0,No effect
+22.0,4.0,Yes,Rock,93.0,Never,Rarely,Never,Never,Never,Rarely,Never,Never,Never,Rarely,Sometimes,Very frequently,Rarely,Rarely,Very frequently,Very frequently,10.0,7.0,4.0,4.0,Improve
+43.0,0.0,No,Rock,,Rarely,Never,Never,Never,Never,Rarely,Never,Never,Never,Never,Never,Sometimes,Rarely,Rarely,Sometimes,Never,1.0,2.0,2.0,0.0,No effect
+24.0,12.0,Yes,Rock,136.0,Sometimes,Rarely,Never,Sometimes,Rarely,Rarely,Rarely,Never,Rarely,Never,Very frequently,Very frequently,Rarely,Rarely,Very frequently,Very frequently,7.0,10.0,0.0,8.0,Improve
+21.0,0.5,No,Pop,108.0,Never,Never,Never,Never,Never,Never,Never,Sometimes,Never,Never,Never,Sometimes,Never,Never,Never,Never,10.0,2.0,1.0,10.0,Worsen
+28.0,1.0,Yes,Rock,147.0,Rarely,Rarely,Never,Rarely,Never,Never,Never,Never,Never,Never,Never,Sometimes,Never,Never,Sometimes,Never,2.0,1.0,2.0,2.0,Improve
+23.0,3.0,Yes,R&B,93.0,Very frequently,Never,Never,Very frequently,Never,Very frequently,Very frequently,Never,Rarely,Very frequently,Rarely,Very frequently,Very frequently,Very frequently,Sometimes,Rarely,3.0,10.0,0.0,0.0,No effect
+20.0,12.0,No,Rock,98.0,Never,Sometimes,Rarely,Sometimes,Sometimes,Sometimes,Sometimes,Rarely,Never,Never,Sometimes,Very frequently,Sometimes,Sometimes,Very frequently,Sometimes,7.0,10.0,2.0,0.0,Improve
+17.0,4.0,Yes,Metal,120.0,Never,Rarely,Very frequently,Never,Never,Never,Rarely,Never,Never,Rarely,Very frequently,Sometimes,Never,Never,Very frequently,Sometimes,4.0,2.0,0.0,0.0,Improve
+19.0,3.0,Yes,R&B,130.0,Rarely,Rarely,Rarely,Rarely,Rarely,Rarely,Rarely,Rarely,Never,Never,Never,Sometimes,Sometimes,Sometimes,Sometimes,Rarely,4.0,2.0,5.0,3.0,Improve
+32.0,1.0,Yes,Metal,218.0,Sometimes,Sometimes,Sometimes,Sometimes,Never,Rarely,Never,Very frequently,Rarely,Never,Very frequently,Rarely,Rarely,Sometimes,Very frequently,Rarely,6.0,8.0,7.0,0.0,Improve
+18.0,4.0,No,Folk,123.0,Sometimes,Very frequently,Sometimes,Very frequently,Rarely,Sometimes,Sometimes,Never,Never,Sometimes,Very frequently,Very frequently,Rarely,Rarely,Very frequently,Very frequently,8.0,6.0,4.0,0.0,Improve
+20.0,2.0,Yes,Rock,135.0,Sometimes,Rarely,Never,Rarely,Never,Never,Rarely,Rarely,Never,Never,Never,Very frequently,Never,Never,Very frequently,Sometimes,2.0,2.0,0.0,0.0,No effect
+27.0,3.0,Yes,Rock,105.0,Rarely,Never,Very frequently,Rarely,Never,Rarely,Rarely,Never,Never,Very frequently,Very frequently,Rarely,Rarely,Rarely,Very frequently,Very frequently,8.0,7.0,9.0,3.0,Improve
+15.0,3.0,Yes,Rock,132.0,Sometimes,Never,Never,Never,Never,Never,Never,Never,Never,Rarely,Very frequently,Never,Never,Never,Very frequently,Rarely,4.0,3.0,5.0,0.0,No effect
+26.0,1.0,Yes,Rock,,Rarely,Rarely,Sometimes,Sometimes,Never,Never,Never,Never,Rarely,Very frequently,Rarely,Very frequently,Rarely,Rarely,Very frequently,Sometimes,6.0,1.0,0.0,4.0,No effect
+24.0,2.0,Yes,Pop,115.0,Never,Never,Never,Never,Never,Sometimes,Rarely,Rarely,Never,Rarely,Never,Very frequently,Very frequently,Sometimes,Rarely,Rarely,6.0,6.0,3.0,6.0,Improve
+20.0,1.0,Yes,K pop,120.0,Sometimes,Never,Rarely,Never,Sometimes,Never,Rarely,Very frequently,Never,Sometimes,Never,Very frequently,Sometimes,Never,Rarely,Never,8.0,7.0,1.0,1.0,No effect
+21.0,0.5,Yes,Pop,,Never,Rarely,Never,Rarely,Never,Rarely,Rarely,Rarely,Never,Sometimes,Never,Very frequently,Rarely,Rarely,Sometimes,Rarely,5.0,3.0,4.0,1.0,Improve
+16.0,2.0,Yes,Video game music,149.0,Very frequently,Never,Never,Never,Never,Never,Never,Never,Never,Never,Never,Rarely,Never,Rarely,Never,Very frequently,6.0,2.0,4.0,3.0,Improve
+21.0,11.0,Yes,Metal,125.0,Rarely,Rarely,Sometimes,Rarely,Rarely,Very frequently,Sometimes,Rarely,Rarely,Very frequently,Very frequently,Very frequently,Sometimes,Very frequently,Very frequently,Very frequently,5.0,6.0,6.0,0.0,Improve
+27.0,10.0,Yes,Jazz,132.0,Very frequently,Never,Never,Very frequently,Rarely,Rarely,Very frequently,Rarely,Rarely,Sometimes,Sometimes,Sometimes,Sometimes,Rarely,Sometimes,Sometimes,6.0,10.0,8.0,1.0,Improve
+17.0,5.0,Yes,Rock,110.0,Very frequently,Rarely,Rarely,Sometimes,Rarely,Very frequently,Very frequently,Never,Rarely,Very frequently,Sometimes,Sometimes,Very frequently,Very frequently,Very frequently,Sometimes,7.0,3.0,9.0,7.0,Improve
+21.0,1.5,Yes,Classical,110.0,Very frequently,Rarely,Very frequently,Very frequently,Sometimes,Sometimes,Very frequently,Never,Rarely,Sometimes,Rarely,Very frequently,Rarely,Sometimes,Sometimes,Sometimes,4.0,6.0,0.0,0.0,No effect
+17.0,2.0,Yes,Folk,116.0,Very frequently,Sometimes,Never,Very frequently,Sometimes,Rarely,Very frequently,Never,Sometimes,Sometimes,Never,Very frequently,Rarely,Never,Sometimes,Rarely,9.0,4.0,0.0,1.0,Improve
+21.0,3.0,No,Rap,145.0,Sometimes,Never,Never,Rarely,Never,Very frequently,Never,Never,Never,Sometimes,Rarely,Sometimes,Sometimes,Very frequently,Rarely,Sometimes,9.0,7.0,7.0,5.0,Improve
+17.0,2.0,No,Rock,,Sometimes,Sometimes,Sometimes,Very frequently,Rarely,Sometimes,Sometimes,Never,Never,Never,Sometimes,Sometimes,Sometimes,Sometimes,Very frequently,Sometimes,5.0,10.0,2.0,7.0,No effect
+36.0,3.0,Yes,Country,105.0,Very frequently,Very frequently,Sometimes,Never,Never,Rarely,Never,Very frequently,Sometimes,Never,Never,Rarely,Sometimes,Never,Never,Never,1.0,0.0,1.0,0.0,Improve
+18.0,4.0,No,R&B,80.0,Rarely,Never,Rarely,Never,Sometimes,Very frequently,Never,Very frequently,Never,Rarely,Never,Very frequently,Very frequently,Very frequently,Never,Never,8.0,7.0,2.0,6.0,Improve
+18.0,1.0,No,K pop,100.0,Never,Never,Rarely,Never,Never,Very frequently,Never,Very frequently,Never,Sometimes,Never,Sometimes,Sometimes,Rarely,Rarely,Never,5.0,1.0,4.0,0.0,Improve
+18.0,5.0,Yes,Latin,73.0,Very frequently,Sometimes,Rarely,Never,Never,Sometimes,Rarely,Sometimes,Very frequently,Sometimes,Never,Very frequently,Sometimes,Rarely,Sometimes,Never,10.0,6.0,0.0,0.0,Improve
+18.0,2.0,Yes,R&B,80.0,Never,Never,Never,Never,Never,Sometimes,Never,Very frequently,Never,Never,Never,Very frequently,Very frequently,Very frequently,Never,Never,7.0,5.0,5.0,5.0,Improve
+18.0,7.0,Yes,Hip hop,,Very frequently,Rarely,Never,Never,Rarely,Very frequently,Very frequently,Rarely,Never,Sometimes,Never,Sometimes,Sometimes,Sometimes,Rarely,Rarely,3.0,1.0,0.0,3.0,Improve
+18.0,2.0,Yes,Rap,,Rarely,Never,Rarely,Never,Never,Sometimes,Rarely,Rarely,Never,Sometimes,Never,Sometimes,Rarely,Very frequently,Never,Rarely,5.0,8.0,7.0,4.0,Improve
+18.0,1.0,Yes,Classical,120.0,Sometimes,Sometimes,Rarely,Rarely,Rarely,Sometimes,Sometimes,Rarely,Rarely,Very frequently,Never,Rarely,Rarely,Rarely,Rarely,Rarely,2.0,0.0,0.0,5.0,No effect
+18.0,1.0,No,Classical,117.0,Very frequently,Never,Sometimes,Never,Never,Sometimes,Rarely,Never,Never,Never,Never,Sometimes,Never,Rarely,Never,Rarely,7.0,0.0,0.0,0.0,No effect
+18.0,4.0,Yes,R&B,,Never,Rarely,Never,Never,Never,Very frequently,Never,Never,Never,Very frequently,Never,Sometimes,Very frequently,Sometimes,Never,Never,8.0,0.0,0.0,2.0,No effect
+20.0,6.0,Yes,R&B,89.0,Rarely,Never,Never,Rarely,Never,Sometimes,Never,Sometimes,Sometimes,Sometimes,Never,Very frequently,Very frequently,Very frequently,Never,Rarely,4.0,1.0,1.0,0.0,Improve
+19.0,3.0,Yes,Hip hop,115.0,Sometimes,Never,Rarely,Never,Never,Very frequently,Rarely,Rarely,Never,Sometimes,Never,Very frequently,Very frequently,Very frequently,Never,Rarely,3.0,8.0,0.0,2.0,Improve
+17.0,4.0,Yes,Hip hop,144.0,Sometimes,Never,Never,Never,Never,Very frequently,Never,Never,Never,Very frequently,Never,Sometimes,Never,Very frequently,Never,Never,7.0,0.0,2.0,2.0,Improve
+23.0,4.0,Yes,Video game music,105.0,Rarely,Rarely,Very frequently,Rarely,Rarely,Rarely,Rarely,Rarely,Never,Very frequently,Sometimes,Sometimes,Sometimes,Sometimes,Sometimes,Very frequently,10.0,8.0,10.0,0.0,Improve
+18.0,1.0,Yes,Pop,114.0,Never,Rarely,Never,Sometimes,Rarely,Rarely,Never,Sometimes,Never,Sometimes,Never,Very frequently,Rarely,Sometimes,Sometimes,Never,7.0,1.0,1.0,1.0,Improve
+19.0,2.0,Yes,Pop,145.0,Rarely,Never,Sometimes,Never,Never,Never,Never,Sometimes,Never,Never,Rarely,Very frequently,Never,Rarely,Sometimes,Sometimes,5.0,9.0,1.0,7.0,No effect
+89.0,24.0,Yes,Rap,143.0,Never,Never,Rarely,Rarely,Never,Very frequently,Sometimes,Never,Never,Rarely,Rarely,Rarely,Sometimes,Very frequently,Rarely,Never,0.0,0.0,0.0,0.0,No effect
+20.0,5.0,Yes,R&B,128.0,Very frequently,Sometimes,Never,Sometimes,Never,Very frequently,Rarely,Very frequently,Very frequently,Very frequently,Never,Very frequently,Very frequently,Very frequently,Very frequently,Sometimes,10.0,6.0,3.0,8.0,Improve
+16.0,3.0,No,Rock,90.0,Rarely,Never,Never,Rarely,Never,Sometimes,Sometimes,Never,Sometimes,Never,Never,Never,Sometimes,Sometimes,Very frequently,Never,7.0,3.5,3.5,5.5,Improve
+17.0,4.0,Yes,Country,110.0,Sometimes,Very frequently,Never,Never,Never,Rarely,Sometimes,Very frequently,Rarely,Sometimes,Never,Very frequently,Rarely,Rarely,Sometimes,Never,2.0,0.0,0.0,2.0,Improve
+16.0,9.0,Yes,Metal,130.0,Rarely,Never,Never,Rarely,Never,Never,Never,Rarely,Rarely,Never,Very frequently,Sometimes,Rarely,Rarely,Very frequently,Never,10.0,10.0,10.0,8.0,Improve
+20.0,1.0,Yes,Pop,,Sometimes,Rarely,Rarely,Rarely,Rarely,Sometimes,Rarely,Never,Never,Rarely,Rarely,Very frequently,Rarely,Sometimes,Rarely,Very frequently,8.0,9.0,6.0,5.0,Worsen
+30.0,1.0,Yes,Rock,115.0,Sometimes,Rarely,Rarely,Rarely,Rarely,Rarely,Rarely,Sometimes,Never,Sometimes,Sometimes,Very frequently,Rarely,Rarely,Very frequently,Sometimes,9.0,7.0,8.0,4.0,Improve
+37.0,2.0,Yes,Folk,186.0,Sometimes,Sometimes,Never,Sometimes,Never,Rarely,Sometimes,Never,Never,Never,Rarely,Sometimes,Rarely,Rarely,Sometimes,Sometimes,6.0,4.0,5.0,0.0,Improve
+44.0,1.5,No,Folk,99.0,Rarely,Very frequently,Never,Very frequently,Rarely,Sometimes,Never,Never,Never,Never,Never,Rarely,Rarely,Sometimes,Sometimes,Never,8.0,5.0,9.0,4.0,Improve
+21.0,2.0,Yes,Metal,150.0,Never,Rarely,Rarely,Never,Never,Never,Never,Never,Never,Never,Very frequently,Rarely,Never,Sometimes,Very frequently,Rarely,3.0,7.0,0.0,0.0,Improve
+19.0,4.0,Yes,Pop,149.0,Sometimes,Sometimes,Never,Rarely,Never,Never,Never,Never,Never,Sometimes,Never,Very frequently,Never,Never,Never,Never,9.0,1.0,0.0,9.0,Improve
+23.0,1.0,Yes,Rock,,Rarely,Rarely,Sometimes,Sometimes,Never,Sometimes,Rarely,Rarely,Never,Sometimes,Sometimes,Very frequently,Sometimes,Sometimes,Very frequently,Very frequently,8.0,6.0,1.0,4.0,Improve
+26.0,1.0,No,Country,120.0,Sometimes,Very frequently,Sometimes,Rarely,Never,Rarely,Never,Never,Never,Never,Rarely,Sometimes,Never,Never,Sometimes,Rarely,4.0,1.0,1.0,6.0,Improve
+18.0,3.0,Yes,Video game music,140.0,Sometimes,Never,Never,Never,Never,Rarely,Sometimes,Never,Never,Rarely,Rarely,Rarely,Rarely,Rarely,Sometimes,Very frequently,6.0,5.0,3.0,1.0,No effect
+35.0,4.0,Yes,Hip hop,90.0,Sometimes,Rarely,Rarely,Sometimes,Never,Very frequently,Very frequently,Never,Sometimes,Very frequently,Rarely,Very frequently,Very frequently,Very frequently,Sometimes,Very frequently,7.0,8.0,6.0,5.0,Improve
+16.0,8.0,Yes,Rock,120.0,Very frequently,Never,Rarely,Sometimes,Never,Never,Rarely,Rarely,Rarely,Rarely,Rarely,Sometimes,Rarely,Never,Very frequently,Sometimes,8.0,9.0,5.0,10.0,Improve
+19.0,5.0,Yes,Metal,210.0,Never,Never,Very frequently,Never,Never,Rarely,Never,Never,Never,Never,Very frequently,Rarely,Never,Rarely,Very frequently,Sometimes,8.0,6.0,7.0,0.0,Improve
+23.0,3.0,Yes,Rock,,Never,Never,Never,Rarely,Never,Never,Sometimes,Never,Never,Rarely,Never,Sometimes,Rarely,Never,Very frequently,Never,10.0,5.0,2.0,0.0,Improve
+17.0,8.0,Yes,Pop,95.0,Rarely,Never,Very frequently,Never,Never,Sometimes,Rarely,Never,Never,Very frequently,Never,Very frequently,Never,Rarely,Rarely,Very frequently,5.0,2.0,4.0,7.0,No effect
+29.0,1.0,No,Country,163.0,Sometimes,Very frequently,Never,Sometimes,Sometimes,Sometimes,Rarely,Never,Rarely,Never,Rarely,Sometimes,Rarely,Rarely,Very frequently,Never,9.0,3.0,2.0,0.0,No effect
+21.0,4.0,Yes,Pop,97.0,Rarely,Sometimes,Never,Sometimes,Sometimes,Rarely,Sometimes,Never,Never,Never,Never,Sometimes,Sometimes,Rarely,Sometimes,Never,4.0,6.0,3.0,4.0,Improve
+17.0,1.0,No,Metal,137.0,Sometimes,Never,Never,Rarely,Never,Rarely,Rarely,Rarely,Sometimes,Rarely,Very frequently,Sometimes,Never,Rarely,Very frequently,Rarely,9.0,8.0,4.0,0.0,Improve
+23.0,2.0,No,Rock,,Rarely,Never,Rarely,Rarely,Never,Sometimes,Never,Rarely,Rarely,Rarely,Very frequently,Sometimes,Sometimes,Sometimes,Very frequently,Never,5.0,7.0,10.0,2.0,No effect
+17.0,1.0,Yes,Metal,70.0,Rarely,Never,Rarely,Sometimes,Never,Never,Never,Never,Very frequently,Very frequently,Very frequently,Sometimes,Never,Never,Very frequently,Very frequently,8.0,3.0,9.0,2.0,No effect
+22.0,3.0,Yes,Video game music,150.0,Rarely,Rarely,Sometimes,Sometimes,Never,Rarely,Sometimes,Rarely,Rarely,Rarely,Sometimes,Very frequently,Rarely,Rarely,Sometimes,Very frequently,10.0,10.0,6.0,8.0,Improve
+17.0,5.0,Yes,Hip hop,168.0,Rarely,Sometimes,Very frequently,Never,Sometimes,Very frequently,Never,Sometimes,Never,Sometimes,Rarely,Very frequently,Very frequently,Very frequently,Rarely,Rarely,7.0,7.0,5.0,5.0,Improve
+19.0,5.0,Yes,Pop,163.0,Very frequently,Sometimes,Rarely,Never,Rarely,Rarely,Rarely,Very frequently,Sometimes,Very frequently,Rarely,Very frequently,Rarely,Rarely,Sometimes,Rarely,10.0,8.0,1.0,0.0,Improve
+19.0,4.0,Yes,Pop,140.0,Sometimes,Rarely,Sometimes,Never,Never,Sometimes,Sometimes,Rarely,Rarely,Sometimes,Sometimes,Very frequently,Sometimes,Sometimes,Sometimes,Sometimes,8.0,6.0,2.0,0.0,Improve
+16.0,6.0,Yes,Pop,105.0,Rarely,Rarely,Sometimes,Rarely,Never,Very frequently,Sometimes,Very frequently,Very frequently,Rarely,Never,Very frequently,Very frequently,Very frequently,Never,Never,10.0,7.0,6.0,10.0,Improve
+19.0,6.0,Yes,Pop,78.0,Rarely,Rarely,Rarely,Never,Never,Sometimes,Sometimes,Sometimes,Rarely,Sometimes,Never,Very frequently,Rarely,Rarely,Rarely,Sometimes,6.0,6.0,8.0,0.0,Improve
+13.0,1.0,Yes,Video game music,128.0,Rarely,Sometimes,Never,Rarely,Never,Very frequently,Rarely,Rarely,Rarely,Very frequently,Very frequently,Very frequently,Never,Sometimes,Sometimes,Very frequently,10.0,10.0,8.0,4.0,Worsen
+18.0,18.0,Yes,EDM,90.0,Sometimes,Rarely,Very frequently,Never,Rarely,Sometimes,Sometimes,Never,Never,Sometimes,Sometimes,Rarely,Sometimes,Sometimes,Sometimes,Sometimes,9.0,8.0,5.0,10.0,Improve
+26.0,1.0,Yes,Metal,136.0,Sometimes,Rarely,Sometimes,Very frequently,Never,Never,Rarely,Never,Never,Rarely,Very frequently,Rarely,Never,Never,Never,Rarely,0.0,0.0,0.0,0.0,No effect
+14.0,7.0,Yes,Country,108.0,Rarely,Very frequently,Sometimes,Sometimes,Very frequently,Sometimes,Never,Never,Never,Rarely,Sometimes,Very frequently,Sometimes,Sometimes,Very frequently,Rarely,7.0,3.0,1.0,2.0,Improve
+21.0,0.5,No,Pop,95.0,Never,Rarely,Sometimes,Never,Never,Sometimes,Rarely,Sometimes,Never,Very frequently,Never,Very frequently,Sometimes,Sometimes,Very frequently,Never,6.0,2.0,2.0,0.0,Improve
+21.0,2.0,Yes,R&B,147.0,Sometimes,Never,Sometimes,Rarely,Never,Never,Sometimes,Very frequently,Never,Sometimes,Rarely,Sometimes,Very frequently,Sometimes,Sometimes,Sometimes,7.0,6.0,4.0,6.0,Improve
+17.0,2.0,Yes,Rock,120.0,Very frequently,Rarely,Never,Sometimes,Never,Sometimes,Rarely,Never,Sometimes,Rarely,Rarely,Very frequently,Never,Rarely,Very frequently,Never,7.0,6.0,0.0,9.0,Improve
+18.0,1.0,Yes,Pop,160.0,Rarely,Rarely,Never,Never,Never,Never,Rarely,Never,Never,Rarely,Never,Very frequently,Never,Never,Sometimes,Sometimes,3.0,2.0,2.0,5.0,Improve
+19.0,6.0,Yes,Rap,120.0,Rarely,Sometimes,Sometimes,Rarely,Rarely,Very frequently,Rarely,Rarely,Rarely,Sometimes,Rarely,Sometimes,Sometimes,Sometimes,Rarely,Rarely,2.0,2.0,2.0,2.0,Improve
+19.0,5.0,Yes,Classical,170.0,Very frequently,Never,Never,Never,Never,Never,Rarely,Never,Never,Never,Never,Never,Never,Never,Never,Sometimes,2.0,3.0,2.0,1.0,Improve
+29.0,2.0,Yes,Hip hop,98.0,Sometimes,Rarely,Very frequently,Sometimes,Rarely,Very frequently,Very frequently,Sometimes,Never,Rarely,Never,Sometimes,Very frequently,Very frequently,Very frequently,Rarely,2.0,2.0,2.0,5.0,Improve
