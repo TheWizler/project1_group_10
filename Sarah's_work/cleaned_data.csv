@@ -14,7 +14,6 @@ Age,Hours per day,While working,Fav genre,BPM,Frequency [Classical],Frequency [C
 17.0,2.0,No,Pop,,Rarely,Rarely,Never,Never,Never,Sometimes,Rarely,Rarely,Rarely,Rarely,Rarely,Very frequently,Rarely,Sometimes,Sometimes,Rarely,7.0,5.0,4.0,1.0,Worsen
 16.0,8.0,Yes,Hip hop,103.0,Never,Never,Never,Never,Never,Very frequently,Never,Never,Never,Never,Never,Never,Sometimes,Very frequently,Never,Rarely,8.0,8.0,4.0,3.0,Improve
 16.0,12.0,Yes,Hip hop,120.0,Rarely,Never,Sometimes,Rarely,Never,Very frequently,Rarely,Never,Never,Never,Sometimes,Sometimes,Rarely,Sometimes,Very frequently,Never,5.0,7.0,10.0,0.0,Improve
-17.0,24.0,Yes,Rap,99.0,Rarely,Never,Never,Never,Never,Sometimes,Sometimes,Sometimes,Rarely,Never,Sometimes,Rarely,Sometimes,Very frequently,Very frequently,Never,7.0,5.0,0.0,3.0,Improve
 15.0,3.0,No,Hip hop,120.0,Never,Never,Never,Never,Never,Very frequently,Rarely,Never,Never,Never,Rarely,Rarely,Sometimes,Very frequently,Rarely,Never,7.0,3.0,0.0,2.0,Improve
 15.0,8.0,Yes,Hip hop,120.0,Rarely,Never,Sometimes,Rarely,Never,Very frequently,Sometimes,Very frequently,Sometimes,Rarely,Rarely,Very frequently,Rarely,Very frequently,Sometimes,Sometimes,6.0,9.0,3.0,0.0,Improve
 17.0,4.0,Yes,Rap,125.0,Never,Rarely,Rarely,Never,Never,Sometimes,Never,Never,Never,Rarely,Rarely,Sometimes,Never,Very frequently,Sometimes,Never,10.0,10.0,2.0,4.0,Improve
@@ -359,7 +358,6 @@ Age,Hours per day,While working,Fav genre,BPM,Frequency [Classical],Frequency [C
 20.0,4.0,Yes,Hip hop,85.0,Never,Rarely,Very frequently,Rarely,Never,Very frequently,Never,Never,Never,Never,Never,Sometimes,Sometimes,Very frequently,Sometimes,Never,3.0,2.0,1.0,6.0,Improve
 16.0,2.0,Yes,Folk,,Never,Never,Never,Very frequently,Never,Rarely,Never,Never,Never,Never,Sometimes,Very frequently,Never,Rarely,Sometimes,Never,7.0,7.0,4.0,0.0,Improve
 21.0,1.0,Yes,Rock,147.0,Rarely,Sometimes,Sometimes,Sometimes,Never,Sometimes,Rarely,Rarely,Rarely,Rarely,Rarely,Very frequently,Never,Sometimes,Very frequently,Very frequently,7.0,9.0,1.0,2.0,Improve
-16.0,24.0,Yes,Rock,120.0,Never,Never,Rarely,Never,Never,Never,Never,Rarely,Rarely,Rarely,Rarely,Rarely,Rarely,Rarely,Sometimes,Rarely,5.0,1.0,9.0,1.0,Improve
 43.0,1.0,Yes,Pop,134.0,Sometimes,Never,Never,Sometimes,Rarely,Sometimes,Rarely,Never,Never,Rarely,Never,Very frequently,Rarely,Rarely,Sometimes,Never,3.0,3.0,0.0,0.0,Improve
 32.0,2.0,Yes,Classical,,Very frequently,Sometimes,Rarely,Very frequently,Sometimes,Sometimes,Sometimes,Rarely,Sometimes,Rarely,Very frequently,Very frequently,Sometimes,Rarely,Very frequently,Very frequently,8.0,7.0,5.0,4.0,Improve
 10.0,2.0,Yes,Pop,112.0,Very frequently,Never,Rarely,Never,Never,Rarely,Rarely,Very frequently,Never,Rarely,Never,Very frequently,Never,Rarely,Never,Very frequently,8.0,2.0,1.0,1.0,Improve
@@ -684,7 +682,6 @@ Age,Hours per day,While working,Fav genre,BPM,Frequency [Classical],Frequency [C
 23.0,4.0,Yes,Video game music,105.0,Rarely,Rarely,Very frequently,Rarely,Rarely,Rarely,Rarely,Rarely,Never,Very frequently,Sometimes,Sometimes,Sometimes,Sometimes,Sometimes,Very frequently,10.0,8.0,10.0,0.0,Improve
 18.0,1.0,Yes,Pop,114.0,Never,Rarely,Never,Sometimes,Rarely,Rarely,Never,Sometimes,Never,Sometimes,Never,Very frequently,Rarely,Sometimes,Sometimes,Never,7.0,1.0,1.0,1.0,Improve
 19.0,2.0,Yes,Pop,145.0,Rarely,Never,Sometimes,Never,Never,Never,Never,Sometimes,Never,Never,Rarely,Very frequently,Never,Rarely,Sometimes,Sometimes,5.0,9.0,1.0,7.0,No effect
-89.0,24.0,Yes,Rap,143.0,Never,Never,Rarely,Rarely,Never,Very frequently,Sometimes,Never,Never,Rarely,Rarely,Rarely,Sometimes,Very frequently,Rarely,Never,0.0,0.0,0.0,0.0,No effect
 20.0,5.0,Yes,R&B,128.0,Very frequently,Sometimes,Never,Sometimes,Never,Very frequently,Rarely,Very frequently,Very frequently,Very frequently,Never,Very frequently,Very frequently,Very frequently,Very frequently,Sometimes,10.0,6.0,3.0,8.0,Improve
 16.0,3.0,No,Rock,90.0,Rarely,Never,Never,Rarely,Never,Sometimes,Sometimes,Never,Sometimes,Never,Never,Never,Sometimes,Sometimes,Very frequently,Never,7.0,3.5,3.5,5.5,Improve
 17.0,4.0,Yes,Country,110.0,Sometimes,Very frequently,Never,Never,Never,Rarely,Sometimes,Very frequently,Rarely,Sometimes,Never,Very frequently,Rarely,Rarely,Sometimes,Never,2.0,0.0,0.0,2.0,Improve
