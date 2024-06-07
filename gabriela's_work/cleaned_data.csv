@@ -1,0 +1,737 @@
+Age,Hours per day,Fav genre,Music effects
+18,3,Latin,
+63,1.5,Rock,
+18,4,Video game music,No effect
+61,2.5,Jazz,Improve
+18,4,R&B,Improve
+18,5,Jazz,Improve
+18,3,Video game music,Improve
+21,1,K pop,Improve
+19,6,Rock,Improve
+18,1,R&B,Improve
+18,3,Country,No effect
+19,8,EDM,Improve
+,3,Hip hop,Improve
+19,2,Country,Improve
+18,4,Jazz,Improve
+17,2,Pop,Worsen
+16,8,Hip hop,Improve
+16,12,Hip hop,Improve
+17,24,Rap,Improve
+15,3,Hip hop,Improve
+15,8,Hip hop,Improve
+17,4,Rap,Improve
+19,5,R&B,Improve
+18,2,Pop,No effect
+16,3,Rock,Improve
+18,2,Pop,Improve
+14,12,Rock,Improve
+18,6,Pop,Improve
+17,2,Pop,Improve
+17,1,Pop,Improve
+20,5,Rock,Improve
+19,2,Classical,No effect
+19,6,Metal,Improve
+17,4,Rock,Improve
+16,1,Classical,No effect
+18,5,Pop,Improve
+21,4,Pop,Improve
+17,3,Pop,No effect
+26,0.5,Rock,No effect
+20,4,EDM,Improve
+23,2,Video game music,Improve
+18,5,Rock,Improve
+37,0.25,Video game music,No effect
+17,3,Classical,Improve
+18,4,Metal,No effect
+17,1,Folk,Improve
+36,1,Classical,No effect
+24,3,Rock,Improve
+18,5,Metal,Improve
+19,3,Pop,No effect
+17,2,EDM,Improve
+16,6,K pop,Improve
+23,1,Rap,No effect
+23,12,Pop,No effect
+22,4,Rock,Improve
+16,2,Classical,Improve
+18,6,Rock,No effect
+42,0,Rock,No effect
+23,7,Folk,Improve
+23,1,Video game music,Improve
+19,1,K pop,Improve
+22,1,Rock,Improve
+15,2,Rock,Improve
+25,2,Metal,No effect
+32,5,Rock,Worsen
+36,6,Metal,Improve
+24,3,Rock,No effect
+29,4,Hip hop,Improve
+41,3,Metal,Improve
+36,2,Rock,Improve
+19,3,Rock,Improve
+31,2,Rock,No effect
+16,4,Rock,Improve
+26,2,Hip hop,Improve
+22,0.5,Hip hop,No effect
+16,5,Jazz,Improve
+17,5,Metal,Improve
+19,10,R&B,Improve
+18,2,EDM,Improve
+18,4,Hip hop,Improve
+19,5,Rock,Improve
+19,3,Jazz,Improve
+22,2,K pop,No effect
+16,2.5,Rock,Improve
+19,3,R&B,Improve
+37,1,Rock,No effect
+14,7,Jazz,Improve
+33,1,Metal,Improve
+26,1,R&B,No effect
+32,3,Hip hop,No effect
+30,5,Metal,No effect
+43,6,Video game music,No effect
+24,4,Classical,Improve
+36,1,Rock,Improve
+19,4,Video game music,Improve
+22,10,Metal,Improve
+20,3,EDM,Improve
+31,2,Rock,Improve
+19,4,Metal,Improve
+15,8,Rock,Improve
+18,2,Metal,Improve
+25,0.5,Classical,Improve
+17,5,Metal,No effect
+28,1,Rock,No effect
+20,3,Rock,Improve
+21,2,Metal,No effect
+41,3,Pop,No effect
+20,2,Pop,Improve
+34,4,Metal,No effect
+21,3,Metal,Improve
+23,2,Metal,Improve
+16,3,Pop,Improve
+19,4,Pop,Improve
+22,2,Rock,Improve
+19,8,K pop,Improve
+23,4,Hip hop,Improve
+23,2,Metal,Improve
+22,1,EDM,Improve
+17,3,Rock,Improve
+28,0.5,Folk,Improve
+23,2,Rock,No effect
+19,3,Rock,Improve
+17,2,Hip hop,Improve
+21,1,Rock,No effect
+29,5,Jazz,Improve
+22,10,EDM,Improve
+18,4,Pop,Improve
+13,2,Rock,Worsen
+24,1,Metal,Improve
+35,6,Rock,No effect
+29,1,Video game music,Improve
+28,6,Rock,Improve
+32,7,Pop,Improve
+32,1,EDM,No effect
+21,3,Rock,Improve
+18,2,Video game music,Improve
+19,3,Classical,Improve
+18,2,Pop,Improve
+16,3,Pop,No effect
+25,1.5,Pop,Improve
+17,4,Lofi,Improve
+16,2,Rap,No effect
+27,10,Metal,Improve
+53,7,Pop,Improve
+25,1,EDM,Improve
+34,2,Metal,Improve
+22,6,Jazz,Improve
+17,2,Jazz,Improve
+26,3,Folk,Improve
+19,8,EDM,Improve
+21,3,Pop,Worsen
+32,3,Rock,Improve
+21,3,Rock,No effect
+25,2,Pop,Improve
+26,1,Rock,No effect
+21,2,Metal,No effect
+17,2,Pop,Improve
+28,4,Rock,Improve
+41,4,Pop,Improve
+18,1,Metal,Improve
+22,2,R&B,No effect
+18,2,K pop,
+49,1,EDM,Improve
+21,3,Metal,No effect
+27,10,Metal,Improve
+19,1,Metal,No effect
+27,3,Metal,Improve
+27,1.5,Rock,Improve
+19,3,K pop,
+42,2.5,Rock,Improve
+60,2,Gospel,Improve
+19,5,Metal,No effect
+20,2,Pop,Improve
+28,2,Metal,Improve
+16,2,Video game music,No effect
+18,2,R&B,No effect
+34,1,Rock,No effect
+18,1.5,Pop,Improve
+21,5,Folk,Improve
+38,0.5,Rock,Improve
+17,2,Rock,Improve
+35,0.5,Pop,No effect
+21,2,Rock,Improve
+25,2.5,R&B,Improve
+18,2,K pop,Improve
+16,2,Pop,Improve
+19,1,Pop,Improve
+31,4,Classical,Improve
+26,5,Rock,No effect
+16,2,Rock,Improve
+26,2,Rock,Improve
+17,2,R&B,Improve
+22,1,Video game music,Improve
+20,4,R&B,Improve
+30,1,Rock,Improve
+26,4,Pop,Improve
+19,5,Rock,No effect
+21,5,Country,Improve
+33,7,Rock,Improve
+28,2,Rock,Improve
+25,3,Rock,Improve
+22,2,Pop,Improve
+19,3,Rock,Improve
+44,3,Folk,Improve
+22,3,Rock,Improve
+26,5,Metal,Improve
+23,6,Classical,Improve
+17,2,R&B,Improve
+42,2,Metal,Improve
+30,1,Rock,Improve
+35,1,Pop,No effect
+20,3,Rock,Improve
+18,3,Rap,Improve
+21,1,Pop,No effect
+19,6,Rock,Improve
+37,4,Rock,Improve
+31,2,Metal,Improve
+29,2,Folk,Improve
+20,3,Rock,Improve
+36,8,Video game music,No effect
+18,3,Rock,Improve
+18,2,K pop,Improve
+25,7,Pop,Improve
+18,12,K pop,Improve
+31,9,Pop,Improve
+17,2,Pop,Improve
+21,1,Folk,Improve
+30,1,Country,Improve
+40,2,Metal,No effect
+64,4,Rock,Improve
+14,2,Rock,Improve
+26,6,Rock,No effect
+35,4,Country,Improve
+33,1,Rock,No effect
+30,6,Folk,No effect
+31,2,Metal,Improve
+27,5,Folk,Improve
+53,1.5,Pop,No effect
+23,5,Metal,Improve
+25,2,EDM,Improve
+16,4,K pop,Improve
+18,2,Rock,Improve
+29,5,Classical,Improve
+31,6,EDM,No effect
+31,1,Rock,Worsen
+38,6,Pop,Improve
+17,4,Classical,Worsen
+25,2,EDM,Improve
+20,2,Metal,No effect
+15,2,EDM,No effect
+16,4,Lofi,Improve
+20,2,EDM,Improve
+23,6,Rap,Improve
+22,3,Hip hop,Improve
+15,5,Rock,Improve
+17,0.5,Video game music,Improve
+22,1,Video game music,No effect
+21,10,Metal,No effect
+19,2,Pop,No effect
+32,0.5,Classical,No effect
+34,1,Rock,Improve
+18,2,Metal,Improve
+21,3,Country,Improve
+20,3,Country,Improve
+19,2,Country,No effect
+25,1,Pop,No effect
+31,8,Classical,Improve
+21,1,Pop,Improve
+31,1,Folk,Improve
+20,1,Pop,Improve
+19,5,Rock,Improve
+19,5,EDM,Improve
+23,4,Metal,Improve
+24,8,Video game music,Improve
+20,0.7,Rock,Improve
+15,3,Video game music,No effect
+17,7,Hip hop,Improve
+20,1.5,Video game music,Worsen
+14,4,Video game music,Improve
+24,4,Metal,Improve
+14,10,Video game music,Improve
+23,2,Rock,No effect
+28,2,Rock,No effect
+22,6,Jazz,Improve
+25,0.5,Rock,Improve
+27,2,Pop,Improve
+18,5,Rock,Improve
+17,3,Pop,Improve
+23,4.5,Rock,No effect
+40,3,Rock,Improve
+27,20,Rock,No effect
+18,1,Pop,No effect
+16,2.5,Metal,Improve
+18,1,Rock,Improve
+23,2,Jazz,No effect
+15,5,Metal,Improve
+20,3,Metal,Improve
+16,3,Rock,Improve
+16,0.5,Rock,Improve
+20,8,Country,No effect
+33,2,Metal,Improve
+22,3,Rock,Improve
+21,3,Hip hop,Improve
+21,5,Metal,Improve
+29,1.5,Rock,Improve
+56,1,Pop,No effect
+17,2,Pop,Improve
+22,1,Pop,Improve
+26,4,Pop,No effect
+30,1,EDM,Improve
+49,2,Folk,No effect
+22,2,EDM,Improve
+32,2,Rock,Improve
+32,1,Rock,No effect
+22,6,Country,Improve
+17,2,Rock,Improve
+21,4,Rock,Improve
+17,1.5,Rock,No effect
+25,3,Metal,Improve
+15,4,Rock,Improve
+13,10,Rap,Improve
+38,3,Rock,No effect
+23,3,Rock,Improve
+17,3,Pop,Improve
+59,2,Pop,Improve
+22,2,Pop,Improve
+17,3,Pop,No effect
+27,2,Pop,No effect
+23,5,Video game music,No effect
+15,6,Rock,Improve
+22,3,EDM,Improve
+23,5,Lofi,Improve
+19,5,Country,Improve
+32,6,Rock,Improve
+40,6,Rock,No effect
+21,3,Country,Improve
+21,10,Rock,No effect
+23,2,Video game music,Worsen
+21,2,EDM,
+35,3,Folk,No effect
+18,1.5,Hip hop,Improve
+21,10,Pop,Improve
+22,2,Video game music,Improve
+23,3,Rock,Improve
+13,2.5,Folk,Improve
+19,3,K pop,Improve
+33,0.5,Rock,Improve
+18,16,Jazz,Improve
+17,6,Classical,Improve
+16,3,EDM,Improve
+18,0.5,Rock,No effect
+19,5,K pop,Improve
+15,2,Rap,No effect
+17,2,Pop,Improve
+25,2,Lofi,Improve
+24,1.5,Video game music,Improve
+23,1,Jazz,Improve
+16,10,EDM,Improve
+25,2,Metal,Improve
+16,15,EDM,Improve
+20,0.5,Metal,Improve
+17,3,Metal,Improve
+29,2,Metal,Improve
+20,4,Hip hop,Improve
+16,2,Folk,Improve
+21,1,Rock,Improve
+16,24,Rock,Improve
+43,1,Pop,Improve
+32,2,Classical,Improve
+10,2,Pop,Improve
+27,3,Metal,Improve
+24,3,Classical,Improve
+18,2,Hip hop,Improve
+17,7,Rock,Improve
+19,6,Metal,Improve
+16,3,Rock,Improve
+64,5,Rock,Improve
+33,4,Lofi,Improve
+32,3,Rock,No effect
+15,2,Pop,Improve
+27,3,Metal,Improve
+20,2,Rock,No effect
+23,2,Pop,Improve
+19,3,Classical,Improve
+12,2,Classical,Improve
+16,3,Classical,No effect
+17,0,Video game music,No effect
+14,1,Pop,Improve
+32,2,Metal,Improve
+20,2,Pop,No effect
+54,6,Classical,Improve
+18,5,K pop,Improve
+14,2,Classical,Improve
+13,4,Classical,Improve
+19,8,Country,Improve
+14,4,Classical,Improve
+14,1.5,Classical,Improve
+18,2,Rap,Improve
+15,5,Folk,Improve
+24,6,Classical,No effect
+17,2,Pop,Improve
+44,2,Rock,Improve
+23,1,Rock,Improve
+21,1,Rap,Improve
+57,2,R&B,Improve
+23,2,Rock,No effect
+18,1,Pop,Improve
+26,14,Hip hop,No effect
+13,3,Classical,Improve
+15,3,Classical,Improve
+57,2,Rock,No effect
+12,0.5,Classical,Improve
+26,6,EDM,No effect
+17,1,Country,Improve
+17,2,Classical,Improve
+69,4,Classical,Improve
+17,3,R&B,No effect
+32,12,Jazz,Improve
+22,3,Classical,No effect
+38,1,Metal,Improve
+18,10,EDM,Improve
+14,5,Classical,Improve
+14,0.5,Video game music,Improve
+19,5,Metal,Improve
+20,3,Classical,Improve
+18,2,Rock,Improve
+30,13,K pop,Improve
+31,4,Classical,Improve
+72,6,Rock,Improve
+73,3,R&B,Improve
+16,4,Pop,Improve
+19,3,Rap,Improve
+16,2,Classical,Improve
+12,2,Classical,Improve
+39,1,Hip hop,Improve
+15,6,K pop,No effect
+14,9,R&B,Improve
+21,1,Country,Improve
+38,1,Video game music,Worsen
+23,0.5,Hip hop,Improve
+16,1,EDM,Improve
+21,1.5,Folk,
+13,6,Rap,Worsen
+16,4,Rock,Improve
+18,6,Rock,Improve
+21,4,Metal,Improve
+17,1.5,Classical,No effect
+24,2,Rock,No effect
+14,2,Pop,Improve
+25,4,Rock,Improve
+22,3,Lofi,Improve
+20,4,Rock,No effect
+23,2,Pop,Improve
+61,2,Rock,Improve
+24,6,Video game music,Improve
+34,0,Rock,Worsen
+49,1,Pop,Improve
+33,4,Rock,Improve
+22,2,Metal,No effect
+38,3,Metal,Improve
+23,4,Hip hop,No effect
+34,2,Video game music,No effect
+40,3,Metal,No effect
+27,1,Hip hop,Improve
+54,10,Rock,Improve
+16,10,Rock,No effect
+23,10,Video game music,Improve
+35,4,Country,No effect
+22,4,Folk,Improve
+41,3,Metal,No effect
+63,2,Rock,Improve
+28,1,Rock,No effect
+22,6,Country,Improve
+58,1,Rock,Improve
+58,1,Classical,Improve
+67,4,Rock,Improve
+70,2,Country,Improve
+60,2,Rock,Improve
+15,2,Pop,Improve
+18,6,EDM,Improve
+58,3,Hip hop,Improve
+28,1,Lofi,Improve
+22,4,Lofi,Improve
+49,0.5,Classical,Improve
+20,8,Rock,Improve
+55,15,Rock,No effect
+48,1.5,Metal,Improve
+14,2,K pop,Improve
+18,3,Pop,Improve
+25,1,Pop,Improve
+71,0.25,Gospel,Improve
+60,1,Gospel,Improve
+18,1,Video game music,No effect
+19,5,Hip hop,Improve
+74,1,Pop,Improve
+36,1,Hip hop,Improve
+14,7,Lofi,Improve
+20,3,Hip hop,Improve
+15,3,K pop,No effect
+19,7,Rock,Improve
+29,8,EDM,Improve
+24,2,Metal,Improve
+18,2,Pop,Improve
+21,2,Rock,Improve
+19,2,K pop,Improve
+25,4,Video game music,Improve
+28,8,Rock,No effect
+27,4,Rap,Improve
+60,1,Rock,No effect
+25,5,Metal,Improve
+60,2,Rock,Improve
+43,1,Country,Improve
+51,5,Rock,No effect
+63,8,Rock,Improve
+64,2,Classical,Improve
+22,2,Pop,Improve
+24,1,Folk,Improve
+19,8,Pop,Improve
+56,8,Pop,Improve
+20,1,EDM,Improve
+19,1,Video game music,Improve
+20,8,Jazz,Improve
+60,2,Rock,Improve
+65,6,R&B,No effect
+28,3,Metal,Improve
+18,4,EDM,Improve
+42,2,Rock,Improve
+80,3,Classical,Improve
+22,4,Pop,Improve
+56,2,Jazz,No effect
+20,1,Pop,Improve
+15,1,Video game music,Improve
+67,1,Rock,
+57,2,Gospel,Improve
+22,7,Pop,Improve
+17,5,Pop,Improve
+19,3,Rock,No effect
+50,1,Rock,Improve
+24,6,Rock,Improve
+67,2,Rock,No effect
+18,3,Metal,Improve
+20,1.5,Country,Improve
+15,4,Pop,Improve
+17,2,Pop,Improve
+32,2,Folk,Improve
+18,2,Rap,Improve
+18,1,Rock,Improve
+18,3,K pop,Improve
+19,3,Pop,Improve
+18,2,Rock,Improve
+17,6,Rap,Improve
+34,3,Classical,No effect
+18,3,Pop,No effect
+18,2,R&B,Improve
+22,2,Video game music,Improve
+18,2,Pop,Improve
+19,3,Rock,No effect
+25,4,Pop,No effect
+17,2,R&B,Improve
+25,5,Rock,Improve
+18,2,R&B,Improve
+21,1,K pop,
+24,7,Folk,Improve
+16,3,K pop,Improve
+18,3,Metal,Improve
+18,4,R&B,Improve
+16,3,Pop,Improve
+68,1,Gospel,Improve
+16,7,Video game music,No effect
+21,1,R&B,Improve
+53,4,R&B,Improve
+29,4,Classical,No effect
+18,3,Video game music,No effect
+29,2,Pop,Improve
+18,4,R&B,Improve
+22,5,EDM,No effect
+19,6,Pop,Improve
+13,1,Video game music,Improve
+26,1,Pop,Improve
+14,3,Rock,Worsen
+27,1,Pop,Improve
+26,8,Rock,No effect
+59,1,Rock,Improve
+30,8,Rock,Improve
+27,1,Pop,Improve
+18,1,Rap,Improve
+23,10,Metal,No effect
+18,10,Rock,Improve
+40,5,Rock,Improve
+24,10,Rock,Improve
+23,2,Classical,Improve
+56,6,R&B,Improve
+29,2,R&B,No effect
+16,3,Pop,Improve
+18,8,Gospel,Improve
+21,8,Lofi,Improve
+32,8,Rock,Improve
+22,8,Metal,Improve
+17,12,Latin,No effect
+18,6,EDM,Improve
+18,4,R&B,No effect
+24,8,Jazz,No effect
+21,2,Pop,No effect
+46,1,Rock,No effect
+18,2,Hip hop,Improve
+16,3,K pop,Improve
+21,1,Video game music,Improve
+19,0,Classical,Improve
+20,2,Rap,Improve
+21,0.1,Folk,No effect
+56,2,Rock,No effect
+21,12,Rock,Worsen
+20,1,Pop,Improve
+21,1,Rock,Improve
+25,3,Rock,Improve
+33,2,Metal,Improve
+20,2,Rock,Improve
+17,3,Rock,No effect
+24,1,Jazz,No effect
+26,3,Jazz,Improve
+17,3,Rock,Improve
+16,5,Metal,Improve
+27,8,Metal,No effect
+28,4,Hip hop,Improve
+48,5,Rock,Improve
+19,3,Rap,Improve
+21,4,Rock,Improve
+21,1,Classical,Improve
+15,4,Metal,Improve
+20,1,Rock,Improve
+21,2,Video game music,Improve
+22,6,Folk,Improve
+22,2,Rock,Improve
+31,1,Rock,No effect
+20,4,Metal,Improve
+49,8,Classical,Improve
+42,2,Metal,Improve
+26,2,EDM,No effect
+17,10,K pop,Improve
+30,0,Metal,Improve
+23,6,Folk,No effect
+30,3,EDM,Improve
+31,2,Metal,Improve
+42,0.25,Classical,Improve
+16,4,EDM,Improve
+34,2,Metal,Improve
+21,2,Pop,No effect
+27,3,Pop,Improve
+18,6,Folk,Improve
+26,3,Metal,No effect
+37,2,Rock,Worsen
+26,5,Folk,No effect
+19,4,Pop,No effect
+22,4,Rock,Improve
+43,0,Rock,No effect
+24,12,Rock,Improve
+21,0.5,Pop,Worsen
+28,1,Rock,Improve
+23,3,R&B,No effect
+20,12,Rock,Improve
+17,4,Metal,Improve
+19,3,R&B,Improve
+32,1,Metal,Improve
+18,4,Folk,Improve
+20,2,Rock,No effect
+27,3,Rock,Improve
+15,3,Rock,No effect
+26,1,Rock,No effect
+24,2,Pop,Improve
+20,1,K pop,No effect
+21,0.5,Pop,Improve
+16,2,Video game music,Improve
+21,11,Metal,Improve
+27,10,Jazz,Improve
+17,5,Rock,Improve
+21,1.5,Classical,No effect
+17,2,Folk,Improve
+21,3,Rap,Improve
+17,2,Rock,No effect
+36,3,Country,Improve
+18,4,R&B,Improve
+18,1,K pop,Improve
+18,5,Latin,Improve
+18,2,R&B,Improve
+18,7,Hip hop,Improve
+18,2,Rap,Improve
+18,1,Classical,No effect
+18,1,Classical,No effect
+18,4,R&B,No effect
+20,6,R&B,Improve
+19,3,Hip hop,Improve
+17,4,Hip hop,Improve
+23,4,Video game music,Improve
+18,1,Pop,Improve
+19,2,Pop,No effect
+89,24,Rap,No effect
+20,5,R&B,Improve
+16,3,Rock,Improve
+17,4,Country,Improve
+16,9,Metal,Improve
+20,1,Pop,Worsen
+30,1,Rock,Improve
+37,2,Folk,Improve
+44,1.5,Folk,Improve
+21,2,Metal,Improve
+19,4,Pop,Improve
+23,1,Rock,Improve
+26,1,Country,Improve
+18,3,Video game music,No effect
+35,4,Hip hop,Improve
+16,8,Rock,Improve
+19,5,Metal,Improve
+23,3,Rock,Improve
+17,8,Pop,No effect
+29,1,Country,No effect
+21,4,Pop,Improve
+17,1,Metal,Improve
+23,2,Rock,No effect
+17,1,Metal,No effect
+22,3,Video game music,Improve
+17,5,Hip hop,Improve
+19,5,Pop,Improve
+19,4,Pop,Improve
+16,6,Pop,Improve
+19,6,Pop,Improve
+13,1,Video game music,Worsen
+18,18,EDM,Improve
+26,1,Metal,No effect
+14,7,Country,Improve
+21,0.5,Pop,Improve
+21,2,R&B,Improve
+17,2,Rock,Improve
+18,1,Pop,Improve
+19,6,Rap,Improve
+19,5,Classical,Improve
+29,2,Hip hop,Improve
