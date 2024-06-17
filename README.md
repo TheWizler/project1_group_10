@@ -1,7 +1,7 @@
 # project1_group_10
 Data Science bootcamp project 1
 
-In these folders, you will find an exploratory data analysis project created by using a survey investigating the relationship of music with mental health. This project was completed by three data analytics students: Sarah Chauvin, Elizabeth Viramontes, and Gabriela Zarate.
+In these folders, you will find an exploratory data analysis project created by using a survey investigating the relationship of music with mental health, which can be found in the Kaggle datasets. This project was completed as part of a data analytics boot camp course by three students: Sarah Chauvin, Elizabeth Viramontes, and Gabriela Zarate.
 
 For our analysis of the initial study information, it was necessary to carry out several adjustments to the data, which can be found in the Data_Cleaning folder. We organized the data so that the information would be easier to understand and use, and we created three big research questions to be able to tell a story based on the information obtained. To understand the process of data extraction for each of the questions presented during the project, you can view the individual Jupyter notebooks in each participant's work folder.
 
